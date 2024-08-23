@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "60852625173",
+    "project_id": "photo-editor-5cddd",
+    "storage_bucket": "photo-editor-5cddd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60852625173:android:b155ff47e88c64cce3131c",
+        "android_client_info": {
+          "package_name": "com.beauty.camera.photo.filters"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoVx4z7ZTIHJr0AhF0AnJAld87zfft_DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

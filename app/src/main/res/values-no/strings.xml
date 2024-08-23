@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_options">
+        <item>Beskjær</item>
+        <item>Filter</item>
+        <item>Effekt</item>
+        <item>Justér</item>
+        <item>HSL</item>
+        <item>Lag</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Farge1</item>
+        <item>Farge2</item>
+        <item>Duo</item>
+        <item>Rosa</item>
+        <item>Friske</item>
+        <item>Euro</item>
+        <item>Mørk</item>
+        <item>Ins</item>
+        <item>Elegant</item>
+        <item>Gull</item>
+        <item>Tone</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Film</item>
+        <item>Retro</item>
+        <item>Svart-hvitt</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Lys1</item>
+        <item>Lys2</item>
+        <item>Festival</item>
+        <item>Kjærlighet</item>
+        <item>Prisme</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Støv</item>
+        <item>Flekker</item>
+        <item>Vintage</item>
+        <item>Riper</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Snø</item>
+        <item>Skyer</item>
+        <item>Tåke</item>
+        <item>Sollys</item>
+    </string-array>
+
+    <string name="background_image">Bakgrunnsbilde</string>
+    <string name="light_effect">Lys Effekt</string>
+    <string name="resize">Endre størrelse</string>
+    <string name="rotate">Roter</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Beskjær</string>
+    <string name="vertical">Vertikal</string>
+    <string name="horizontal">Horisontal</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Lukk</string>
+    <string name="done">Ferdig</string>
+    <string name="blend">Bland</string>
+    <string name="effect">Effekt</string>
+    <string name="light">Lys</string>
+    <string name="texture">Tekstur</string>
+    <string name="weather">Vær</string>
+    <string name="gallery">Galleri</string>
+    <string name="hue">NYANSE</string>
+    <string name="saturation">METNING</string>
+    <string name="brightness">LYSSTYRKE</string>
+    <string name="icon">Ikon</string>
+    <string name="text">Tekst</string>
+    <string name="sticker">Klistremerke</string>
+    <string name="border">Ramme</string>
+    <string name="black_icon">Svart Ikon</string>
+    <string name="border_blur">Rammeuskarphet</string>
+    <string name="done_save">Ferdig|Lagre</string>
+    <string name="reset">Nullstill</string>
+    <string name="welcome">Laget med 💕💕💕</string>
+    <string name="login_email_hint">E-post</string>
+    <string name="login_password_hint">Passord</string>
+
+    <string name="signup_login_hint">Har du allerede en konto? Logg inn</string>
+    <string name="login_signup_hint">Har du ikke en konto? Registrer deg</string>
+    <string name="login_name_hint">Navn</string>
+    <string name="login_mobile_number_hint">Mobilnummer</string>
+    <string name="password">Passord</string>
+    <string name="email_address">E-postadresse</string>
+    <string name="register1">Registrer deg</string>
+    <string name="login">Logg inn</string>
+    <string name="don_t_have_an_account_sign_up">Har du ikke en konto? Registrer deg</string>
+    <string name="email">E-post</string>
+    <string name="login2">Logg inn</string>
+    <string name="have_an_account_login">Har du en konto? Logg inn</string>
+    <string name="logout">Logg ut</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nei</string>
+    <string name="beauty_title">Skjønnhet</string>
+    <string name="remover_title">Fjerning</string>
+    <string name="collage_title">Kollasj</string>
+    <string name="mosaic_title">Mosaikk</string>
+    <string name="capture_title">Ta bilder i høy kvalitet</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Tilgang til Bilder</string>
+    <string name="storage_perm_body">Gi tillatelse til å få tilgang til bilder fra galleriet her!</string>
+    <string name="storage_perm_txt">Tillat Tilgang</string>
+    <string name="open_settings">Tillat fra Innstillinger</string>
+    <string name="cam_denied">Tilgang til kamera nektet</string>
+    <string name="noti_msg_body">Tilgang til varsler nektet. Tillat fra innstillinger</string>
+    <string name="top_features_title">Våre Beste Funksjoner</string>
+
+    <string name="select_photos_label">Velg opptil 10 fotoer</string>
+    <string name="albums_lbl">Velg Album</string>
+    <string name="collage_error_msg">Vennligst velg fotoer for å lage en kollasj</string>
+    <string name="photos_lbl">Velg Fotoer</string>
+    <string name="flip_label">Vend</string>
+    <string name="rotate_label">Roter</string>
+    <string name="crop_label">Beskjær</string>
+    <string name="replace_label">Erstatt</string>
+    <string name="layout_label">Oppsett</string>
+    <string name="border_label">Ramme</string>
+    <string name="background_label">Bakgrunn</string>
+    <string name="save_label">Lagre</string>
+    <string name="crop_image_lbl">Beskjær Bilde</string>
+    <string name="collage_label">Lag Kollasj</string>
+    <string name="photos_warning_lbl">Du trenger bare %d foto(er)</string>
+    <string name="next_lbl">Neste</string>
+    <string name="share_header">Del via</string>
+    <string name="save_picture_lbl">Lagre Bilde</string>
+    <string name="insta_msg">Instagram er ikke installert på denne enheten</string>
+    <string name="whatsapp_msg">WhatsApp er ikke installert på denne enheten</string>
+    <string name="facebook_msg">Facebook er ikke installert på denne enheten</string>
+    <string name="share_lbl">Del</string>
+    <string name="cancel_label">Avbryt</string>
+    <string name="share_picture_lbl">Del Bilde</string>
+    <string name="share_whatsapp">Vil du dele dette bildet på WhatsApp?</string>
+    <string name="share_facebook">Vil du dele dette bildet på Facebook?</string>
+    <string name="share_instagram">Vil du dele dette bildet på Instagram?</string>
+    <string name="edit_photo_lbl">Rediger Bilde</string>
+    <string name="apply_lbl">Bruk</string>
+    <string name="revert_changes_lbl">Tilbakestill Endringer</string>
+    <string name="enter_here_hint">Skriv her</string>
+
+    <string name="done_lbl">Legg Til</string>
+    <string name="changes_appl_lbl">Endringer Påført</string>
+    <string name="select_language_lbl">Velg Språk</string>
+    <string name="select_lbl">Velg</string>
+    <string name="remove_ads_label">Fjern Annonser</string>
+    <string name="get_features_label">Få Alle Premiumfunksjoner</string>
+    <string name="get_filters_label">Få Ubegrensede Filtre</string>
+    <string name="vip_channel_label">VIP Eksklusiv Kanal</string>
+    <string name="premium_plan_lbl">Premium Plan</string>
+    <string name="weekly_lbl">Ukentlig</string>
+    <string name="weekly_body">Du sparer 10%</string>
+    <string name="monthly_lbl">Månedlig</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Håndter Abonnement</u></string>
+    <string name="terms_of_use_lbl">Bruksvilkår</string>
+    <string name="privacy_policy_lbl">Personvernpolicy</string>
+    <string name="restore_lbl">Gjenopprett</string>
+    <string name="filter_to_try_lbl">Filter å Prøve</string>
+    <string name="before_lbl">Før</string>
+    <string name="after_lbl">Etter</string>
+    <string name="try_now_lbl">Prøv Nå</string>
+    <string name="home_lbl">Hjem</string>
+    <string name="mine_lbl">Mine</string>
+    <string name="camera_lbl">Kamera</string>
+    <string name="gallery_lbl">Galleri</string>
+    <string name="collage_lbl">Kollasj</string>
+    <string name="no_converted_msg">Oj! Ser ut som du ikke har redigert og lagret noen bilder ennå.</string>
+    <string name="saved_lbl">Lagret</string>
+    <string name="delete_label">Slett</string>
+    <string name="rename_label">Endre Navn</string>
+
+    <string name="rename_file_label">Endre Filnavn</string>
+    <string name="con_error_msg">Det oppstod en feil! Prøv igjen om noen øyeblikk</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Skriv Inn Navn</string>
+    <string name="duplicate_name">Duplikat bilde navn. Vennligst velg et annet navn</string>
+    <string name="retry_label">Prøv Igjen</string>
+    <string name="overwrite_label">Overskriv</string>
+    <string name="overwrite_body1">Bildet eksisterer allerede med dette </string>
+    <string name="overwrite_body2"> navnet, å overskrive det vil fjerne det eksisterende bildet. Ønsker du å overskrive det?</string>
+    <string name="rename_err_msg">Navnet kan ikke være tomt!</string>
+    <string name="name_update">Navn Oppdatert</string>
+    <string name="ad_label">Annonse</string>
+    <string name="del_img_header">Slett Bilde</string>
+    <string name="del_img_msg">Ønsker du å slette dette konverterte bildet?</string>
+    <string name="del_img_success_msg">Bilde slettet vellykket</string>
+    <string name="image_deleted_label">Bilde Slettet</string>
+    <string name="image_deleted_msg">Bilde slettet vellykket</string>
+    <string name="general_label">Generell</string>
+    <string name="rate_us_msg">Anbefal oss til andre ved å vurdere oss på Play Store</string>
+    <string name="app_ver_label">App Versjon: </string>
+    <string name="device_info_label">Enhetsinformasjon:</string>
+    <string name="os_ver_label">OS Versjon: </string>
+    <string name="api_level_label">OS API Nivå: </string>
+    <string name="dev_label">Enhet: </string>
+    <string name="model_label">Modell (og Produkt): </string>
+    <string name="feedback_msg">Vennligst skriv tilbakemeldingen din nedenfor</string>
+    <string name="share_title">Bildebehandler</string>
+    <string name="share_body">La meg anbefale deg den beste bildebehandlerappen. Prøv den nå!</string>
+    <string name="no_email_txt">Ingen app funnet for å sende e-post</string>
+    <string name="user_agreement_para1">Vi samler ikke logger over aktivitetene dine, inkludert ingen logging av surfehistorikk, trafikkdestinasjon eller DNS-forespørsler. Vi lagrer heller ikke tilkoblingslogger, det vil si ingen logger over IP-adressen din, din utgående IP-adresse, tilkoblingstidspunkt eller øktvarighet. Vi har designet systemene våre for å ikke ha sensitiv informasjon om deg; selv når vi blir pålagt det, kan vi ikke levere data som vi ikke har.</string>
+
+    <string name="details_label">For mer informasjon, besøk vår</string>
+    <string name="privacy_underlined_label"><u>Personvernerklæring</u></string>
+    <string name="feedback_label">Tilbakemelding</string>
+    <string name="gallery_label">Galleri</string>
+    <string name="saved_files_label">Mine Edits</string>
+    <string name="communicate_label">Kommuniser</string>
+    <string name="language_label">Språk</string>
+    <string name="privacy_policy_label">Personvernpolitikk</string>
+    <string name="more_apps_label">Flere apper</string>
+    <string name="collage_header">Kollasj</string>
+    <string name="cartoon_filters_header">Tegneseriefiltre</string>
+    <string name="choose_picture_lbl">Velg Bilde</string>
+    <string name="cropper_lbl">Beskjær Bilde</string>
+    <string name="apply_filter">Påfør Filter</string>
+    <string name="internet_con_msg">Sjekk Internett-tilkoblingen din og prøv igjen</string>
+    <string name="convert_header">Konverterer Bilde</string>
+    <string name="convert_body">Vennligst vent for å se mesterverket</string>
+    <string name="upload_image_message">Vennligst vent mens vi laster opp bildet ditt \n for å påføre filteret.</string>
+    <string name="upload_image_header">Laster opp Bilde</string>
+    <string name="saving_your_image_lbl">Vent litt!! \nBildet ditt lagres!</string>
+    <string name="camera_perm_success_msg">Kameratillatelse innvilget</string>
+    <string name="app_name">Bildebehandler</string>
+    <string name="splash_tag_1">Tilpass bildet ditt</string>
+    <string name="splash_tag_2">med </string>
+    <string name="splash_tag_3">Skjønnhetskamera </string>
+    <string name="splash_tag_4">Appen</string>
+    <string name="continue_label">Fortsett</string>
+    <string name="loading_ad_label">Laster annonse</string>
+    <string name="agreement_dialog_label">Brukeravtale</string>
+    <string name="agreement_body_1">Vi respekterer ditt personvern og forplikter oss til å beskytte dine personlige opplysninger. For informasjon om tiltakene vi tar for å beskytte personvernet ditt og hvordan vi bruker informasjonen din, vennligst les personvernerklæringen vår.</string>
+    <string name="terms_of_service_1">Jeg godtar</string>
+    <string name="terms_of_service_2"><u>Servicevilkårene</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Godta og Fortsett]]></string>
+    <string name="saved_label">Lagret</string>
+    <string name="saved_body">Bildet ditt er blitt lagret vellykket</string>
+    <string name="exit_label">Avbryt</string>
+    <string name="exit_lbl">Avslutt</string>
+    <string name="confirm_exit_label">Bekreft Avslutning?</string>
+    <string name="confirm_exit_body">Er du sikker på at du vil avslutte?</string>
+    <string name="confirm_label">Bekreft</string>
+    <string name="rate_us_label">Gi Oss Rangering</string>
+    <string name="rate_us_body">Vi ville være veldig takknemlige hvis du kunne gi oss en rangering!</string>
+    <string name="skip_label">Hopp over</string>
+    <string name="on_board_title_1">Kule Filtre!</string>
+    <string name="on_board_description_1">Påfør kunstneriske filtre og effekter for å gi bildene dine en unik touch.</string>
+    <string name="on_board_title_2">Utforsk klistremerker!</string>
+    <string name="on_board_description_2">Uttrykk deg selv ved å bruke fantastiske klistremerker. Legg til humor, følelser eller stil i bildene dine.</string>
+    <string name="on_board_title_3">Presis Redigering!</string>
+    <string name="on_board_description_3">Finjuster bildene dine nøyaktig ved å bruke beskjæring, rotasjon og endre størrelse.</string>
+    <string name="waring_out_of_memory">Ikke nok minne. Vennligst fjern bilder, ellers vil programmet krasje.!!!</string>
+    <string name="txt_share">La dine sanne farger skinne gjennom vår: Bildebehandler og kollasjemaker.</string>
+    <string name="monthly_body">Du sparer 20%</string>
+    <string name="reset_image_body">Er du sikker på at du vil tilbakestille bildet?</string>
+
+    <string name="contrast_lbl">Kontrast</string>
+    <string name="fade_lbl">Demp</string>
+    <string name="tone_lbl">Tone</string>
+    <string name="grain_lbl">Korn</string>
+    <string name="convex_lbl">Konveks</string>
+    <string name="exposure_lbl">Eksponering</string>
+    <string name="ambiance_lbl">Atmosfære</string>
+    <string name="vig_lbl">Vignett</string>
+    <string name="sharpen_lbl">Skarphet</string>
+    <string name="temp_lbl">Temperatur</string>
+    <string name="vib_lbl">Vibrans</string>
+    <string name="sat_lbl">Saturasjon</string>
+    <string name="skintone_lbl">Hudtone</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Normal</string>
+    <string name="effect_lighten">Lysere</string>
+    <string name="effect_screen">Skjerm</string>
+    <string name="effect_colorDodge">Fargedodge</string>
+    <string name="effect_linearBurn">Lineær Brenning</string>
+    <string name="effect_darken">Mørkere</string>
+    <string name="effect_multiply">Multiplisere</string>
+    <string name="effect_overlay">Overlegg</string>
+    <string name="effect_hardLight">Hardt Lys</string>
+    <string name="effect_exclusion">Eksklusjon</string>
+    <string name="effect_difference">Forskjell</string>
+    <string name="effect_divide">Dele</string>
+
+    <string name="original_lbl">Original</string>
+    <string name="free_lbl">Gratis</string>
+    <string name="image_size_msg">Bildestørrelsen er for stor, prøv igjen med et mindre bilde</string>
+    <string name="privacy_body">Flystatusen på flyplassen fokuserer på å garantere personvernet ditt. Vi ber ikke kunden om å gi noen personlig eller begrenset informasjon, og vi samler den ikke inn under bruk av applikasjonen. Vi forplikter oss til å beskytte personvernet ditt. Vår retningslinje for datainnsamling er å samle bare de minimale dataene som er nødvendige for å drive en verdensklasse app-tjeneste i stor skala. Vi ønsker at du skal forstå hvilken informasjon vi samler inn, hva vi ikke samler inn, og hvordan vi samler, bruker og lagrer informasjonen.</string>
+    <string name="privacy_body_new">Vår grunnleggende overbevisning om datainnsamling er å samle bare irrelevante data som er nødvendige for å drive en verdensklasse app-tjeneste i stor skala. Vi ønsker at du skal forstå hvilken informasjon vi samler inn, hva vi ikke samler inn, og hvordan vi samler, bruker og lagrer informasjonen. Vi samler ikke logger over din aktivitet, inkludert ingen logging av nettleserhistorikk, trafikkmål eller DNS-forespørsler. Vi lagrer heller ikke tilkoblingslogger, for eksempel logger over din IP-adresse, din aktive IP-adresse, tilkoblingstidspunkt eller øktvarighet. Vi har designet systemene våre for å ikke inneholde sensitiv informasjon om deg; men når tvunget, kan vi ikke gi informasjon som vi ikke har. Denne personvernpolitikken beskriver hvordan flyplassens flystatus og dens partnere ("flyplassens flystatus," "vi," "vår" eller "oss") samler, bruker og deler informasjon om din bruk av våre tjenester og applikasjoner (samlet kalt "Tjenestene"). Denne personvernpolitikken (personvernpolitikken) gjelder ikke for informasjonen du måtte behandle mens du bruker våre tjenester.</string>
+    <string name="bg_remover_lbl">Bakgrunnsfjerner</string>
+    <string name="bg_remover_msg">Opplev magien med vår AI-bakgrunnsfjerner</string>
+    <string name="bg_remover_ai">AI-bakgrunnsfjerner</string>
+    <string name="all_features_lbl">Alle Funksjoner</string>
+    <string name="filters_lbl">Filtre</string>
+    <string name="crop_lbl">Beskjær</string>
+    <string name="adjust_lbl">Juster</string>
+    <string name="blur_lbl">Uskarphet</string>
+    <string name="splash_lbl">Sprut</string>
+    <string name="overlay_lbl">Overlegg</string>
+    <string name="brush_lbl">Pensel</string>
+    <string name="stickers_lbl">Klistremerker</string>
+    <string name="text_lbl">Tekst</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="lifetime_lbl">Livstid</string>
+    <string name="yearly_lbl">Årlig</string>
+    <string name="lifetime_payment_body">Livstid Betaling på $500</string>
+    <string name="monthly_payment_body">Månedlig Betaling på $15</string>
+    <string name="yearly_payment_body">Årlig Betaling på $50</string>
+    <string name="coming_soon_msg">Kommer snart!!</string>
+
+</resources>

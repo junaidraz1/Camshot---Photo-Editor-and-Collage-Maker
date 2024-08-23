@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_options">
+        <item>Cắt</item>
+        <item>Lọc</item>
+        <item>Hiệu ứng</item>
+        <item>Điều chỉnh</item>
+        <item>HSL</item>
+        <item>Lớp</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Màu1</item>
+        <item>Màu2</item>
+        <item>Duo</item>
+        <item>Hồng</item>
+        <item>Tươi mát</item>
+        <item>Euro</item>
+        <item>Tối</item>
+        <item>Ins</item>
+        <item>Lịch lãm</item>
+        <item>Vàng</item>
+        <item>Tông màu</item>
+        <item>Phim</item>
+        <item>Lomo</item>
+        <item>Phim truyện</item>
+        <item>Retrô</item>
+        <item>Trắng đen</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Ánh sáng 1</item>
+        <item>Ánh sáng 2</item>
+        <item>Lễ hội</item>
+        <item>Tình yêu</item>
+        <item>Prism</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Bụi</item>
+        <item>Vết ố</item>
+        <item>Cổ điển</item>
+        <item>Vết trầy</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Tuyết</item>
+        <item>Mây</item>
+        <item>Sương mù</item>
+        <item>Ánh nắng mặt trời</item>
+    </string-array>
+
+    <string name="background_image">Hình nền</string>
+    <string name="light_effect">Hiệu ứng ánh sáng</string>
+    <string name="resize">Thay đổi kích thước</string>
+    <string name="rotate">Xoay</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Cắt</string>
+    <string name="vertical">Dọc</string>
+    <string name="horizontal">Ngang</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Đóng</string>
+    <string name="done">Hoàn thành</string>
+    <string name="blend">Trộn</string>
+    <string name="effect">Hiệu ứng</string>
+    <string name="light">Ánh sáng</string>
+    <string name="texture">Texture</string>
+    <string name="weather">Thời tiết</string>
+    <string name="gallery">Thư viện ảnh</string>
+    <string name="hue">Độ màu</string>
+    <string name="saturation">Độ bão hòa màu</string>
+    <string name="brightness">Độ sáng</string>
+    <string name="icon">Biểu tượng</string>
+    <string name="text">Văn bản</string>
+    <string name="sticker">Nhãn dán</string>
+    <string name="border">Viền</string>
+    <string name="black_icon">Biểu tượng đen</string>
+    <string name="border_blur">Viền mờ</string>
+    <string name="done_save">Hoàn thành|Lưu</string>
+    <string name="reset">Đặt lại</string>
+    <string name="welcome">Được tạo với 💕💕💕</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Mật khẩu</string>
+
+    <string name="signup_login_hint">Bạn đã có tài khoản? Đăng nhập</string>
+    <string name="login_signup_hint">Chưa có tài khoản? Đăng ký</string>
+    <string name="login_name_hint">Tên</string>
+    <string name="login_mobile_number_hint">Số điện thoại di động</string>
+    <string name="password">Mật khẩu</string>
+    <string name="email_address">Địa chỉ email</string>
+    <string name="register1">Đăng ký</string>
+    <string name="login">Đăng nhập</string>
+    <string name="don_t_have_an_account_sign_up">Chưa có tài khoản? Đăng ký</string>
+    <string name="email">Email</string>
+    <string name="login2">Đăng nhập</string>
+    <string name="have_an_account_login">Đã có tài khoản? Đăng nhập</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="beauty_title">Làm đẹp</string>
+    <string name="remover_title">Gỡ bỏ</string>
+    <string name="collage_title">Tạo collage</string>
+    <string name="mosaic_title">Mosaic</string>
+    <string name="capture_title">Chụp ảnh chất lượng cao</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Truy cập ảnh</string>
+    <string name="storage_perm_body">Cho phép truy cập ảnh từ thư viện ở đây!</string>
+    <string name="storage_perm_txt">Cho phép truy cập</string>
+    <string name="open_settings">Cho phép từ Cài đặt</string>
+    <string name="cam_denied">Truy cập máy ảnh bị từ chối</string>
+    <string name="noti_msg_body">Từ chối quyền thông báo. Cho phép từ cài đặt</string>
+    <string name="top_features_title">Các tính năng hàng đầu của chúng tôi</string>
+
+    <string name="select_photos_label">Chọn tối đa 10 ảnh</string>
+    <string name="albums_lbl">Chọn Album</string>
+    <string name="collage_error_msg">Vui lòng chọn ảnh để tạo collage</string>
+    <string name="photos_lbl">Chọn Ảnh</string>
+    <string name="flip_label">Lật</string>
+    <string name="rotate_label">Xoay</string>
+    <string name="crop_label">Cắt ảnh</string>
+    <string name="replace_label">Thay thế</string>
+    <string name="layout_label">Bố cục</string>
+    <string name="border_label">Viền</string>
+    <string name="background_label">Nền</string>
+    <string name="save_label">Lưu</string>
+    <string name="crop_image_lbl">Cắt ảnh</string>
+    <string name="collage_label">Tạo Collage</string>
+    <string name="photos_warning_lbl">Bạn chỉ cần %d ảnh</string>
+    <string name="next_lbl">Tiếp theo</string>
+    <string name="share_header">Chia sẻ qua</string>
+    <string name="save_picture_lbl">Lưu ảnh</string>
+    <string name="insta_msg">Instagram không được cài đặt trên thiết bị này</string>
+    <string name="whatsapp_msg">WhatsApp không được cài đặt trên thiết bị này</string>
+    <string name="facebook_msg">Facebook không được cài đặt trên thiết bị này</string>
+    <string name="share_lbl">Chia sẻ</string>
+    <string name="cancel_label">Hủy</string>
+    <string name="share_picture_lbl">Chia sẻ ảnh</string>
+    <string name="share_whatsapp">Bạn muốn chia sẻ bức ảnh này qua WhatsApp không?</string>
+    <string name="share_facebook">Bạn muốn chia sẻ bức ảnh này qua Facebook không?</string>
+    <string name="share_instagram">Bạn muốn chia sẻ bức ảnh này qua Instagram không?</string>
+    <string name="edit_photo_lbl">Sửa ảnh</string>
+    <string name="apply_lbl">Áp dụng</string>
+    <string name="revert_changes_lbl">Hoàn tác thay đổi</string>
+    <string name="enter_here_hint">Nhập ở đây</string>
+
+    <string name="done_lbl">Thêm</string>
+    <string name="changes_appl_lbl">Thay đổi đã được áp dụng</string>
+    <string name="select_language_lbl">Chọn Ngôn Ngữ</string>
+    <string name="select_lbl">Chọn</string>
+    <string name="remove_ads_label">Loại bỏ Quảng Cáo</string>
+    <string name="get_features_label">Nhận Tất Cả Các Tính Năng Premium</string>
+    <string name="get_filters_label">Nhận Không Giới Hạn Bộ Lọc</string>
+    <string name="vip_channel_label">Kênh Đặc Quyền VIP</string>
+    <string name="premium_plan_lbl">Gói Premium</string>
+    <string name="weekly_lbl">Hàng tuần</string>
+    <string name="weekly_body">Bạn tiết kiệm 10%</string>
+    <string name="monthly_lbl">Hàng tháng</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Quản lý Đăng ký</u></string>
+    <string name="terms_of_use_lbl">Điều Khoản</string>
+    <string name="privacy_policy_lbl">Chính Sách</string>
+    <string name="restore_lbl">Phục hồi</string>
+    <string name="filter_to_try_lbl">Bộ Lọc để Thử</string>
+    <string name="before_lbl">Trước</string>
+    <string name="after_lbl">Sau</string>
+    <string name="try_now_lbl">Thử Ngay</string>
+    <string name="home_lbl">Trang chủ</string>
+    <string name="mine_lbl">Của tôi</string>
+    <string name="camera_lbl">Máy ảnh</string>
+    <string name="gallery_lbl">Thư viện</string>
+    <string name="collage_lbl">Collage</string>
+    <string name="no_converted_msg">Rất tiếc! Có vẻ như bạn chưa chỉnh sửa và lưu bất kỳ hình ảnh nào.</string>
+    <string name="saved_lbl">Đã Lưu</string>
+    <string name="delete_label">Xoá</string>
+    <string name="rename_label">Đổi tên</string>
+
+    <string name="rename_file_label">Đổi tên tệp</string>
+    <string name="con_error_msg">Đã xảy ra lỗi! Vui lòng thử lại sau vài phút</string>
+    <string name="ok_label">Đồng ý</string>
+    <string name="enter_name_label">Nhập Tên</string>
+    <string name="duplicate_name">Trùng tên ảnh. Vui lòng chọn một tên khác</string>
+    <string name="retry_label">Thử lại</string>
+    <string name="overwrite_label">Ghi đè</string>
+    <string name="overwrite_body1">Ảnh đã tồn tại với tên này</string>
+    <string name="overwrite_body2">, việc ghi đè nó sẽ xóa ảnh hiện có. Bạn có muốn ghi đè không?</string>
+    <string name="rename_err_msg">Tên không thể trống!</string>
+    <string name="name_update">Tên đã được cập nhật</string>
+    <string name="ad_label">Quảng cáo</string>
+    <string name="del_img_header">Xoá Ảnh</string>
+    <string name="del_img_msg">Bạn có muốn xoá ảnh đã chuyển đổi này không?</string>
+    <string name="del_img_success_msg">Ảnh đã được xoá thành công</string>
+    <string name="image_deleted_label">Ảnh Đã Xoá</string>
+    <string name="image_deleted_msg">Ảnh đã được xoá thành công</string>
+    <string name="general_label">Chung</string>
+    <string name="rate_us_msg">Hãy đánh giá ứng dụng của chúng tôi trên Cửa hàng Play và giới thiệu cho người khác</string>
+    <string name="app_ver_label">Phiên bản ứng dụng: </string>
+    <string name="device_info_label">Thông tin thiết bị:</string>
+    <string name="os_ver_label">Phiên bản hệ điều hành: </string>
+    <string name="api_level_label">Mức API của hệ điều hành: </string>
+    <string name="dev_label">Thiết bị: </string>
+    <string name="model_label">Mẫu (và Sản phẩm): </string>
+    <string name="feedback_msg">Vui lòng viết phản hồi của bạn bên dưới</string>
+    <string name="share_title">Trình chỉnh sửa ảnh</string>
+    <string name="share_body">Hãy để tôi giới thiệu ứng dụng chỉnh sửa ảnh tốt nhất. Hãy thử ngay!</string>
+    <string name="no_email_txt">Không tìm thấy ứng dụng để gửi email</string>
+    <string name="user_agreement_para1">Chúng tôi không thu thập nhật ký về hoạt động của bạn, bao gồm không ghi lại lịch sử duyệt web, đích đến của lưu lượng hoặc truy vấn DNS. Chúng tôi cũng không bao giờ lưu trữ nhật ký kết nối, tức là không có nhật ký về địa chỉ IP của bạn, địa chỉ IP gửi đi, dấu thời gian kết nối hoặc thời lượng phiên. Chúng tôi đã thiết kế hệ thống của mình sao cho không có dữ liệu nhạy cảm về bạn; ngay cả khi buộc phải, chúng tôi không thể cung cấp dữ liệu mà chúng tôi không có.</string>
+
+    <string name="details_label">Để biết thêm chi tiết, hãy truy cập</string>
+    <string name="privacy_underlined_label"><u>Chính Sách Quyền Riêng Tư</u></string>
+    <string name="feedback_label">Phản hồi</string>
+    <string name="gallery_label">Thư viện</string>
+    <string name="saved_files_label">Chỉnh sửa của tôi</string>
+    <string name="communicate_label">Liên hệ</string>
+    <string name="language_label">Ngôn ngữ</string>
+    <string name="privacy_policy_label">Chính Sách Quyền Riêng Tư</string>
+    <string name="more_apps_label">Các Ứng Dụng Khác</string>
+    <string name="collage_header">Collage</string>
+    <string name="cartoon_filters_header">Bộ Lọc Hoạt Hình</string>
+    <string name="choose_picture_lbl">Chọn Ảnh</string>
+    <string name="cropper_lbl">Cắt Ảnh</string>
+    <string name="apply_filter">Áp Dụng Bộ Lọc</string>
+    <string name="internet_con_msg">Vui lòng kiểm tra kết nối internet của bạn và thử lại</string>
+    <string name="convert_header">Đang Chuyển Đổi Ảnh</string>
+    <string name="convert_body">Vui lòng đợi để thấy tác phẩm nghệ thuật</string>
+    <string name="upload_image_message">Vui lòng đợi trong khi chúng tôi tải ảnh của bạn để áp dụng bộ lọc.</string>
+    <string name="upload_image_header">Đang Tải Ảnh Lên</string>
+    <string name="saving_your_image_lbl">Chờ đợi!! \nẢnh của bạn đang được lưu!</string>
+    <string name="camera_perm_success_msg">Cho phép Truy cập Máy Ảnh</string>
+    <string name="app_name">Chỉnh Sửa Ảnh</string>
+    <string name="splash_tag_1">Tùy chỉnh ảnh của bạn</string>
+    <string name="splash_tag_2">với</string>
+    <string name="splash_tag_3">Máy ảnh làm đẹp</string>
+    <string name="splash_tag_4">Ứng dụng</string>
+    <string name="continue_label">Tiếp tục</string>
+    <string name="loading_ad_label">Đang Tải Quảng Cáo</string>
+    <string name="agreement_dialog_label">Thỏa Thuận Người Dùng</string>
+    <string name="agreement_body_1">Chúng tôi tôn trọng quyền riêng tư của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Để biết thông tin về các bước chúng tôi thực hiện để bảo vệ quyền riêng tư của bạn và cách chúng tôi sử dụng thông tin của bạn, vui lòng xem Chính Sách Quyền Riêng Tư của chúng tôi.</string>
+    <string name="terms_of_service_1">Tôi chấp nhận</string>
+    <string name="terms_of_service_2"><u>Điều Khoản Dịch Vụ</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Đồng ý và Tiếp tục]]></string>
+    <string name="saved_label">Đã Lưu</string>
+    <string name="saved_body">Ảnh của bạn đã được lưu thành công</string>
+    <string name="exit_label">Hủy</string>
+    <string name="exit_lbl">Thoát</string>
+    <string name="confirm_exit_label">Xác nhận thoát?</string>
+    <string name="confirm_exit_body">Bạn có chắc chắn muốn thoát không?</string>
+    <string name="confirm_label">Xác nhận</string>
+    <string name="rate_us_label">Đánh giá chúng tôi</string>
+    <string name="rate_us_body">Chúng tôi sẽ rất biết ơn nếu bạn có thể đánh giá chúng tôi!</string>
+    <string name="skip_label">Bỏ qua</string>
+    <string name="on_board_title_1">Bộ Lọc Tuyệt Vời!</string>
+    <string name="on_board_description_1">Áp dụng bộ lọc và hiệu ứng nghệ thuật để \nmang đến cho ảnh của bạn một vẻ độc đáo.</string>
+    <string name="on_board_title_2">Khám phá Sticker!</string>
+    <string name="on_board_description_2">Thể hiện bản thân bằng cách sử dụng các sticker tuyệt vời. \nThêm sự hài hước, tình cảm hoặc phong cách vào hình ảnh của bạn.</string>
+    <string name="on_board_title_3">Chỉnh Sửa Tỉ mỉ!</string>
+    <string name="on_board_description_3">Tinh chỉnh ảnh của bạn với độ chính xác \nbằng cách sử dụng tùy chọn cắt, xoay và thay đổi kích thước.</string>
+    <string name="waring_out_of_memory">Không đủ bộ nhớ. Vui lòng xóa ảnh hoặc chương trình của bạn sẽ bị đóng.!!!</string>
+    <string name="txt_share">Hãy để màu sắc thật của bạn tỏa sáng qua Ứng dụng của chúng tôi: Trình chỉnh sửa ảnh &amp; trình làm collage.</string>
+    <string name="monthly_body">Bạn tiết kiệm 20%</string>
+    <string name="reset_image_body">Bạn có chắc chắn muốn đặt lại ảnh không?</string>
+
+    <string name="contrast_lbl">Độ tương phản</string>
+    <string name="fade_lbl">Mờ dần</string>
+    <string name="tone_lbl">Tông màu</string>
+    <string name="grain_lbl">Zân</string>
+    <string name="convex_lbl">Lồi</string>
+    <string name="exposure_lbl">Chiếu sáng</string>
+    <string name="ambiance_lbl">Bầu không khí</string>
+    <string name="vig_lbl">Hiệu ứng viền</string>
+    <string name="sharpen_lbl">Làm sắc nét</string>
+    <string name="temp_lbl">Nhiệt độ màu</string>
+    <string name="vib_lbl">Sự sống động</string>
+    <string name="sat_lbl">Bão hòa</string>
+    <string name="skintone_lbl">Màu da</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Bình thường</string>
+    <string name="effect_lighten">Làm sáng</string>
+    <string name="effect_screen">Màn hình</string>
+    <string name="effect_colorDodge">Tô màu</string>
+    <string name="effect_linearBurn">Trái với trung tính</string>
+    <string name="effect_darken">Làm tối</string>
+    <string name="effect_multiply">Nhân</string>
+    <string name="effect_overlay">Chồng chéo</string>
+    <string name="effect_hardLight">Sáng cứng</string>
+    <string name="effect_exclusion">Loại trừ</string>
+    <string name="effect_difference">Khác biệt</string>
+    <string name="effect_divide">Chia</string>
+
+    <string name="original_lbl">Gốc</string>
+    <string name="free_lbl">Miễn phí</string>
+    <string name="image_size_msg">Kích thước hình ảnh quá lớn, vui lòng thử lại với hình ảnh nhỏ hơn</string>
+    <string name="privacy_body">Trạng thái chuyến bay tại sân bay tập trung vào đảm bảo sự riêng tư của bạn. Chúng tôi không yêu cầu khách hàng cung cấp bất kỳ thông tin cá nhân hoặc thông tin hạn chế nào và không thu thập chúng trong quá trình sử dụng ứng dụng. Chúng tôi cam kết bảo vệ sự riêng tư của bạn. Nguyên tắc hướng dẫn của chúng tôi về việc thu thập dữ liệu là thu thập chỉ dữ liệu tối thiểu cần thiết để vận hành dịch vụ ứng dụng hàng đầu thế giới trên quy mô lớn. Chúng tôi muốn bạn hiểu thông tin chúng tôi thu thập, thông tin chúng tôi không thu thập và cách chúng tôi thu thập, sử dụng và lưu trữ thông tin.</string>
+    <string name="privacy_body_new">Niềm tin cơ bản của chúng tôi về việc thu thập dữ liệu là chỉ thu thập dữ liệu không liên quan cần thiết để vận hành dịch vụ ứng dụng đạng thế giới trên quy mô lớn. Chúng tôi muốn bạn hiểu thông tin chúng tôi thu thập, thông tin chúng tôi không thu thập và cách chúng tôi thu thập, sử dụng và lưu trữ thông tin. Chúng tôi không thu thập bất kỳ nhật ký hoạt động của bạn, bao gồm không có nhật ký lịch sử duyệt web, đích đến của lưu lượng hoặc yêu cầu DNS. Chúng tôi cũng không bao giờ lưu trữ nhật ký kết nối, ví dụ như nhật ký địa chỉ IP của bạn, địa chỉ IP hoạt động của bạn, dấu thời gian kết nối hoặc thời gian phiên. Chúng tôi đã thiết kế hệ thống của mình để không chứa thông tin nhạy cảm về bạn; tuy nhiên, khi buộc, chúng tôi không thể cung cấp thông tin chúng tôi không có. Chính sách Bảo mật này mô tả cách Trạng thái chuyến bay tại sân bay và đối tác của nó ("Trạng thái chuyến bay tại sân bay," "chúng tôi," "của chúng tôi" hoặc "chúng ta") thu thập, sử dụng và chia sẻ thông tin liên quan đến việc bạn sử dụng dịch vụ và ứng dụng của chúng tôi (tổng thể, "Dịch vụ"). Chính sách Bảo mật này (Chính sách Bảo mật) không áp dụng cho thông tin bạn có thể xử lý trong quá trình sử dụng Dịch vụ của chúng tôi.</string>
+    <string name="bg_remover_lbl">Công cụ Loại bỏ Nền</string>
+    <string name="bg_remover_msg">Trải nghiệm phép màu của Công cụ Loại bỏ Nền AI của chúng tôi</string>
+    <string name="bg_remover_ai">Công cụ Loại bỏ Nền AI</string>
+    <string name="all_features_lbl">Tất cả Tính năng</string>
+    <string name="filters_lbl">Bộ lọc</string>
+    <string name="crop_lbl">Cắt</string>
+    <string name="adjust_lbl">Điều chỉnh</string>
+    <string name="blur_lbl">Làm mờ</string>
+    <string name="splash_lbl">Tán</string>
+    <string name="overlay_lbl">Chồng lên</string>
+    <string name="brush_lbl">Bút</string>
+    <string name="stickers_lbl">Nhãn dán</string>
+    <string name="text_lbl">Văn bản</string>
+    <string name="pro_lbl">Chuyên nghiệp</string>
+    <string name="lifetime_lbl">Cả đời</string>
+    <string name="yearly_lbl">Hàng năm</string>
+    <string name="lifetime_payment_body">Thanh toán Cả đời $500</string>
+    <string name="monthly_payment_body">Thanh toán Hàng tháng $15</string>
+    <string name="yearly_payment_body">Thanh toán Hàng năm $50</string>
+    <string name="coming_soon_msg">Sắp có!!</string>
+
+</resources>

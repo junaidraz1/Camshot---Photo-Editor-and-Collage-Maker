@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>برش</item>
+        <item>فیلتر</item>
+        <item>تأثیر</item>
+        <item>تنظیم</item>
+        <item>HSL</item>
+        <item>لایه</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>رنگ1</item>
+        <item>رنگ2</item>
+        <item>دوگانه</item>
+        <item>صورتی</item>
+        <item>تازه</item>
+        <item>اروپا</item>
+        <item>تاریک</item>
+        <item>درون</item>
+        <item>شیک</item>
+        <item>طلایی</item>
+        <item>رنگ آمیزی</item>
+        <item>فیلمی</item>
+        <item>لومو</item>
+        <item>فیلم</item>
+        <item>رترو</item>
+        <item>سیاه و سفید</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>نور1</item>
+        <item>نور2</item>
+        <item>جشنواره</item>
+        <item>عشق</item>
+        <item>پریزم</item>
+        <item>نئون</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>گرد و غبار</item>
+        <item>لکه ها</item>
+        <item>وینتیج</item>
+        <item>خط و خش</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>برف</item>
+        <item>ابری</item>
+        <item>مه</item>
+        <item>نور خورشید</item>
+    </string-array>
+
+    <string name="background_image">تصویر پس‌زمینه</string>
+    <string name="light_effect">تأثیر نور</string>
+    <string name="resize">تغییر اندازه</string>
+    <string name="rotate">چرخش</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">برش</string>
+    <string name="vertical">عمودی</string>
+    <string name="horizontal">افقی</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">بستن</string>
+    <string name="done">انجام شد</string>
+    <string name="blend">ترکیب</string>
+    <string name="effect">تأثیر</string>
+    <string name="light">نور</string>
+    <string name="texture">تکسچر</string>
+    <string name="weather">وضعیت آب و هوا</string>
+    <string name="gallery">گالری</string>
+    <string name="hue">رنگ</string>
+    <string name="saturation">اشباع رنگ</string>
+    <string name="brightness">روشنایی</string>
+    <string name="icon">آیکون</string>
+    <string name="text">متن</string>
+    <string name="sticker">استیکر</string>
+    <string name="border">حاشیه</string>
+    <string name="black_icon">آیکون سیاه</string>
+    <string name="border_blur">حاشیه افتابی</string>
+    <string name="done_save">انجام|ذخیره</string>
+    <string name="reset">بازنشانی</string>
+    <string name="welcome">با عشق ساخته شده 💕💕💕</string>
+    <string name="login_email_hint">ایمیل</string>
+    <string name="login_password_hint">رمز عبور</string>
+
+    <string name="signup_login_hint">آیا حساب کاربری دارید؟ وارد شوید</string>
+    <string name="login_signup_hint">آیا حساب کاربری ندارید؟ ثبت نام کنید</string>
+    <string name="login_name_hint">نام</string>
+    <string name="login_mobile_number_hint">شماره موبایل</string>
+    <string name="password">رمز عبور</string>
+    <string name="email_address">آدرس ایمیل</string>
+    <string name="register1">ثبت نام</string>
+    <string name="login">ورود</string>
+    <string name="don_t_have_an_account_sign_up">آیا حساب کاربری ندارید؟ ثبت نام کنید</string>
+    <string name="email">ایمیل</string>
+    <string name="login2">ورود</string>
+    <string name="have_an_account_login">حساب کاربری دارید؟ وارد شوید</string>
+    <string name="logout">خروج</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="beauty_title">زیبایی</string>
+    <string name="remover_title">حذف کننده</string>
+    <string name="collage_title">کلاژ</string>
+    <string name="mosaic_title">موزائیک</string>
+    <string name="capture_title">عکس‌های با کیفیت بالا را ثبت کنید</string>
+    <string name="iphone_title">آیفون 14 پرو</string>
+    <string name="samsung_title">سامسونگ S23</string>
+    <string name="nikon_title">نیکون D850</string>
+    <string name="sony_title">سونی \A7IVn</string>
+    <string name="storage_perm_header">دسترسی به عکس‌ها</string>
+    <string name="storage_perm_body">دسترسی به عکس‌ها از گالری را از اینجا اجازه دهید!</string>
+    <string name="storage_perm_txt">دسترسی را اجازه دهید</string>
+    <string name="open_settings">از تنظیمات اجازه دهید</string>
+    <string name="cam_denied">دسترسی دوربین رد شد</string>
+    <string name="noti_msg_body">دسترسی به اعلانات رد شد. از تنظیمات اجازه دهید</string>
+    <string name="top_features_title">برترین ویژگی‌های ما</string>
+
+    <string name="select_photos_label">تا ۱۰ عکس انتخاب کنید</string>
+    <string name="albums_lbl">آلبوم را انتخاب کنید</string>
+    <string name="collage_error_msg">لطفاً عکس یا عکس‌ها را برای ایجاد کلاژ انتخاب کنید</string>
+    <string name="photos_lbl">انتخاب عکس یا عکس‌ها</string>
+    <string name="flip_label">بچرخانید</string>
+    <string name="rotate_label">چرخش</string>
+    <string name="crop_label">برش دهید</string>
+    <string name="replace_label">جایگزین کنید</string>
+    <string name="layout_label">طرح</string>
+    <string name="border_label">حاشیه</string>
+    <string name="background_label">پس‌زمینه</string>
+    <string name="save_label">ذخیره کنید</string>
+    <string name="crop_image_lbl">برش تصویر</string>
+    <string name="collage_label">ایجاد کلاژ</string>
+    <string name="photos_warning_lbl">تنها نیاز به %d عکس دارید</string>
+    <string name="next_lbl">بعدی</string>
+    <string name="share_header">اشتراک‌گذاری از طریق</string>
+    <string name="save_picture_lbl">عکس را ذخیره کنید</string>
+    <string name="insta_msg">اینستاگرام بر روی این دستگاه نصب نشده است</string>
+    <string name="whatsapp_msg">واتس‌اپ بر روی این دستگاه نصب نشده است</string>
+    <string name="facebook_msg">فیس‌بوک بر روی این دستگاه نصب نشده است</string>
+    <string name="share_lbl">اشتراک‌گذاری</string>
+    <string name="cancel_label">لغو</string>
+    <string name="share_picture_lbl">عکس را به اشتراک بگذارید</string>
+    <string name="share_whatsapp">آیا می‌خواهید این عکس را به واتس‌اپ اشتراک بگذارید؟</string>
+    <string name="share_facebook">آیا می‌خواهید این عکس را به فیس‌بوک اشتراک بگذارید؟</string>
+    <string name="share_instagram">آیا می‌خواهید این عکس را به اینستاگرام اشتراک بگذارید؟</string>
+    <string name="edit_photo_lbl">ویرایش عکس</string>
+    <string name="apply_lbl">اعمال کنید</string>
+    <string name="revert_changes_lbl">تغییرات را بازگردانید</string>
+    <string name="enter_here_hint">اینجا وارد کنید</string>
+
+    <string name="done_lbl">افزودن</string>
+    <string name="changes_appl_lbl">تغییرات اعمال شد</string>
+    <string name="select_language_lbl">زبان را انتخاب کنید</string>
+    <string name="select_lbl">انتخاب</string>
+    <string name="remove_ads_label">حذف تبلیغات</string>
+    <string name="get_features_label">دسترسی به تمامی ویژگی‌های ویژه</string>
+    <string name="get_filters_label">دسترسی به فیلترهای نامحدود</string>
+    <string name="vip_channel_label">کانال اختصاصی VIP</string>
+    <string name="premium_plan_lbl">طرح ویژه</string>
+    <string name="weekly_lbl">هفتگی</string>
+    <string name="weekly_body">10% تخفیف می‌گیرید</string>
+    <string name="monthly_lbl">ماهیانه</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>مدیریت اشتراک</u></string>
+    <string name="terms_of_use_lbl">شرایط استفاده</string>
+    <string name="privacy_policy_lbl">سیاست حفظ </string>
+    <string name="restore_lbl">بازیابی</string>
+    <string name="filter_to_try_lbl">فیلتر جهت آزمایش</string>
+    <string name="before_lbl">قبل</string>
+    <string name="after_lbl">بعد</string>
+    <string name="try_now_lbl">هم‌اکنون آزمایش کنید</string>
+    <string name="home_lbl">صفحه اصلی</string>
+    <string name="mine_lbl">من</string>
+    <string name="camera_lbl">دوربین</string>
+    <string name="gallery_lbl">گالری</string>
+    <string name="collage_lbl">کلاژ</string>
+    <string name="no_converted_msg">وای! به نظر می‌آید که هنوز عکسی را ویرایش و ذخیره نکرده‌اید.</string>
+    <string name="saved_lbl">ذخیره‌شده</string>
+    <string name="delete_label">حذف</string>
+    <string name="rename_label">تغییر نام</string>
+
+    <string name="rename_file_label">تغییر نام فایل</string>
+    <string name="con_error_msg">یک خطا رخ داد! لطفاً چند لحظه دیگر دوباره امتحان کنید</string>
+    <string name="ok_label">تایید</string>
+    <string name="enter_name_label">نام را وارد کنید</string>
+    <string name="duplicate_name">نام تصویر تکراری است. لطفاً یک نام متفاوت انتخاب کنید</string>
+    <string name="retry_label">تلاش مجدد</string>
+    <string name="overwrite_label">وارد کردن</string>
+    <string name="overwrite_body1">این عکس با نام </string>
+    <string name="overwrite_body2"> وجود دارد، وارد کردن آن تصویر موجود را حذف می‌کند. آیا می‌خواهید آن را وارد کنید؟</string>
+    <string name="rename_err_msg">نام نمی‌تواند خالی باشد!</string>
+    <string name="name_update">نام به‌روز شد</string>
+    <string name="ad_label">تبلیغ</string>
+    <string name="del_img_header">حذف تصویر</string>
+    <string name="del_img_msg">آیا می‌خواهید این تصویر تبدیل‌شده را حذف کنید؟</string>
+    <string name="del_img_success_msg">عکس با موفقیت حذف شد</string>
+    <string name="image_deleted_label">تصویر حذف شد</string>
+    <string name="image_deleted_msg">تصویر با موفقیت حذف شد</string>
+    <string name="general_label">عمومی</string>
+    <string name="rate_us_msg">لطفاً ما را با دادن امتیاز در فروشگاه پلی توصیه کنید</string>
+    <string name="app_ver_label">نسخه برنامه: </string>
+    <string name="device_info_label">اطلاعات دستگاه:</string>
+    <string name="os_ver_label">نسخه سیستم عامل: </string>
+    <string name="api_level_label">سطح API سیستم عامل: </string>
+    <string name="dev_label">دستگاه: </string>
+    <string name="model_label">مدل (و محصول): </string>
+    <string name="feedback_msg">لطفاً بازخورد خود را در زیر بنویسید</string>
+    <string name="share_title">ویرایش عکس</string>
+    <string name="share_body">بهترین برنامه ویرایش عکس را به شما پیشنهاد می‌دهم. هم‌اکنون امتحان کنید!</string>
+    <string name="no_email_txt">هیچ برنامه‌ای برای ارسال ایمیل یافت نشد</string>
+    <string name="user_agreement_para1">ما لاگ‌های فعالیت شما را جمع‌آوری نمی‌کنیم، شامل هیچ گونه لاگ از تاریخچه مرور وجهت تعیین مقصد ترافیک یا پرسمان‌های DNS نمی‌شود. همچنین هیچ‌وقت لاگ‌های اتصال را ذخیره نمی‌کنیم، به عبارتی هیچ لاگی از آدرس IP شما، آدرس IP خروجی شما، زمان اتصال یا مدت جلسه نمی‌شود. سیستم‌هایمان طراحی شده‌اند تا داده‌های حساس در مورد شما نداشته باشند. حتی در صورتی که وادار شویم، نمی‌توانیم داده‌هایی را که در اختیار نداریم ارائه دهیم.</string>
+
+    <string name="details_label">برای اطلاعات بیشتر، وب‌سایت ما را مشاهده کنید</string>
+    <string name="privacy_underlined_label"><u>سیاست حفظ حریم خصوصی</u></string>
+    <string name="feedback_label">بازخورد</string>
+    <string name="gallery_label">گالری</string>
+    <string name="saved_files_label">ویرایش‌های من</string>
+    <string name="communicate_label">ارتباط با ما</string>
+    <string name="language_label">زبان</string>
+    <string name="privacy_policy_label">سیاست حفظ حریم خصوصی</string>
+    <string name="more_apps_label">برنامه‌های دیگر</string>
+    <string name="collage_header">کلاژ</string>
+    <string name="cartoon_filters_header">فیلترهای کارتونی</string>
+    <string name="choose_picture_lbl">عکس را انتخاب کنید</string>
+    <string name="cropper_lbl">برش تصویر</string>
+    <string name="apply_filter">اعمال فیلتر</string>
+    <string name="internet_con_msg">لطفاً اتصال اینترنت خود را بررسی کنید و دوباره امتحان کنید</string>
+    <string name="convert_header">تبدیل تصویر</string>
+    <string name="convert_body">لطفاً منتظر بمانید تا شاهد شاهکار باشید</string>
+    <string name="upload_image_message">لطفاً منتظر بمانید تا تصویر شما برای اعمال فیلتر آپلود شود.</string>
+    <string name="upload_image_header">آپلود تصویر</string>
+    <string name="saving_your_image_lbl">تا لحظه بمانید!!\nتصویر شما در حال ذخیره شدن است!</string>
+    <string name="camera_perm_success_msg">دسترسی دوربین تأیید شد</string>
+    <string name="app_name">ویرایش عکس</string>
+    <string name="splash_tag_1">تصویر خود را سفارشی کنید</string>
+    <string name="splash_tag_2">با استفاده از </string>
+    <string name="splash_tag_3">دوربین زیبایی </string>
+    <string name="splash_tag_4">اپلیکیشن</string>
+    <string name="continue_label">ادامه</string>
+    <string name="loading_ad_label">در حال بارگیری تبلیغات</string>
+    <string name="agreement_dialog_label">توافق کاربری</string>
+    <string name="agreement_body_1">ما از حریم خصوصی شما احترام می‌گذاریم و متعهد به حفظ اطلاعات شخصی شما هستیم. برای اطلاعات در مورد تدابیری که برای حفظ حریم خصوصی شما اتخاذ می‌کنیم و نحوه استفاده از اطلاعات شما، لطفاً سیاست حفظ حریم خصوصی ما را مرور کنید.</string>
+    <string name="terms_of_service_1">من</string>
+    <string name="terms_of_service_2"><u>شرایط خدمات</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[موافقت و ادامه]]></string>
+    <string name="saved_label">ذخیره‌شده</string>
+    <string name="saved_body">تصویر شما با موفقیت ذخیره شد</string>
+    <string name="exit_label">لغو</string>
+    <string name="exit_lbl">خروج</string>
+    <string name="confirm_exit_label">تأیید خروج؟</string>
+    <string name="confirm_exit_body">آیا از خروج اطمینان دارید؟</string>
+    <string name="confirm_label">تأیید</string>
+    <string name="rate_us_label">امتیاز دهید</string>
+    <string name="rate_us_body">اگر ما را امتیاز دهید، بسیار سپاسگزار خواهیم بود!</string>
+    <string name="skip_label">رد کردن</string>
+    <string name="on_board_title_1">فیلترهای بسیار زیبا!</string>
+    <string name="on_board_description_1">فیلترها و افکت‌های هنری را اعمال کنید تا به عکس‌های خود لمسی منحصر به فرد بدهید.</string>
+    <string name="on_board_title_2">استیکرهای جذاب!</string>
+    <string name="on_board_description_2">با استفاده از استیکرهای فوق‌العاده، خودتان را بیان کنید. به عکس‌های خود شوق، احساس یا سبکی جدید بدهید.</string>
+    <string name="on_board_title_3">ویرایش دقیق!</string>
+    <string name="on_board_description_3">تصاویر خود را با دقت با استفاده از گزینه‌های برش، چرخاندن و تغییر اندازه تنظیم کنید.</string>
+    <string name="waring_out_of_memory">حافظه کافی وجود ندارد. لطفاً تصاویری را حذف کنید یا برنامه شما ممکن است کرش شود.!!!</string>
+    <string name="txt_share">اجازه دهید رنگ‌های واقعی شما از طریق برنامه ما درخشد: ویرایش عکس و سازنده کلاژ.</string>
+    <string name="monthly_body">شما 20٪ صرفه‌جویی می‌کنید</string>
+    <string name="reset_image_body">آیا از بازنشانی تصویر مطمئن هستید؟</string>
+
+    <string name="contrast_lbl">کنتراست</string>
+    <string name="fade_lbl">تندی خود را از دست دهید</string>
+    <string name="tone_lbl">تن</string>
+    <string name="grain_lbl">دانه‌ها</string>
+    <string name="convex_lbl">کاوش</string>
+    <string name="exposure_lbl">نوردهی</string>
+    <string name="ambiance_lbl">فضا</string>
+    <string name="vig_lbl">ویگنت</string>
+    <string name="sharpen_lbl">تیز کردن</string>
+    <string name="temp_lbl">دما</string>
+    <string name="vib_lbl">زنده‌داری</string>
+    <string name="sat_lbl">اشباع</string>
+    <string name="skintone_lbl">رنگ پوست</string>
+
+    <string name="effect_alpha">آلفا</string>
+    <string name="effect_normal">عادی</string>
+    <string name="effect_lighten">روشن کردن</string>
+    <string name="effect_screen">پرده‌ای</string>
+    <string name="effect_colorDodge">کاهش رنگ</string>
+    <string name="effect_linearBurn">سوزاندن خطی</string>
+    <string name="effect_darken">تیره کردن</string>
+    <string name="effect_multiply">ضرب در هم</string>
+    <string name="effect_overlay">پوششی</string>
+    <string name="effect_hardLight">نور سخت</string>
+    <string name="effect_exclusion">منع از تطابق</string>
+    <string name="effect_difference">تفاوت</string>
+    <string name="effect_divide">تقسیم</string>
+
+    <string name="original_lbl">اصلی</string>
+    <string name="free_lbl">رایگان</string>
+    <string name="image_size_msg">اندازه تصویر خیلی بزرگ است، لطفاً دوباره با تصویری کوچکتر امتحان کنید</string>
+    <string name="privacy_body">وضعیت پرواز فرودگاه به تضمین حریم خصوصی شما اختصاص داده شده است. ما نیازی به این نداریم که مشتری ما اطلاعات شخصی یا محدودی را ارائه دهد و در طی استفاده از اپلیکیشن این اطلاعات را جمع آوری نمی‌کنیم. ما به حفظ حریم خصوصی شما متعهد هستیم. اصل ما در مورد جمع‌آوری داده‌ها، جمع‌آوری تنها حداقل داده‌های لازم برای اجرای خدمت اپلیکیشن در مقیاس جهانی است. ما می‌خواهیم شما بفهمید چه اطلاعاتی را جمع‌آوری می‌کنیم، چه چیزی را نجمع‌آوری نمی‌کنیم و چگونه اطلاعات را جمع‌آوری، استفاده و ذخیره می‌کنیم.</string>
+    <string name="privacy_body_new">اعتقاد ما در مورد جمع‌آوری داده‌ها این است که فقط داده‌های اضافی که برای اجرای خدمت اپلیکیشن در مقیاس جهانی نیاز است را جمع‌آوری کنیم. ما می‌خواهیم شما بفهمید چه اطلاعاتی را جمع‌آوری می‌کنیم، چه چیزی را نجمع‌آوری نمی‌کنیم و چگونه اطلاعات را جمع‌آوری، استفاده و ذخیره می‌کنیم. ما هیچ گونه ثبت فعالیت‌های شما اعم از ثبت تاریخچه مرور وب، مقصد ترافیک یا درخواست‌های DNS نداریم. همچنین هیچ گونه ثبت اتصال مثل هیچ ثبتی از آدرس IP شما، IP فعال شما، زمان تماس یا مدت جلسه نداریم. سیستم‌های ما به گونه‌ای طراحی شده‌اند که اطلاعات حساسی در مورد شما نداشته باشند؛ با این حال، وقتی مجبور می‌شویم نمی‌توانیم اطلاعاتی را که نداریم ارائه دهیم. این سیاست حفاظت از حریم خصوصی توصیف می‌کند که وضعیت پرواز فرودگاه و شرکایش ("وضعیت پرواز فرودگاه"، "ما"، "ما" یا "ما") چگونه اطلاعات مرتبط با استفاده شما از خدمات و اپلیکیشن‌های ما (به طور کلی "خدمات") جمع‌آوری، استفاده و به اشتراک می‌گذارند. این سیاست حفاظت از حریم خصوصی (سیاست حفاظت از حریم خصوصی) برای اطلاعاتی که شما ممکن است در حین استفاده از خدمات ما پردازش کنید، اعمال نمی‌شود.</string>
+    <string name="bg_remover_lbl">حذف پس‌زمینه</string>
+    <string name="bg_remover_msg">جادوی حذف‌کننده پس‌زمینه هوش مصنوعی ما را تجربه کنید</string>
+    <string name="bg_remover_ai">حذف‌کننده پس‌زمینه با هوش مصنوعی</string>
+    <string name="all_features_lbl">تمام ویژگی‌ها</string>
+    <string name="filters_lbl">فیلترها</string>
+    <string name="crop_lbl">برش</string>
+    <string name="adjust_lbl">تنظیم</string>
+    <string name="blur_lbl">آبکاری</string>
+    <string name="splash_lbl">پراکنده</string>
+    <string name="overlay_lbl">تلفیق</string>
+    <string name="brush_lbl">قلم مو</string>
+    <string name="stickers_lbl">استیکرها</string>
+    <string name="text_lbl">متن</string>
+    <string name="pro_lbl">پرو</string>
+    <string name="lifetime_lbl">دائمی</string>
+    <string name="yearly_lbl">سالیانه</string>
+    <string name="lifetime_payment_body">پرداخت دائمی به مبلغ ۵۰۰ دلار</string>
+    <string name="monthly_payment_body">پرداخت ماهیانه به مبلغ ۱۵ دلار</string>
+    <string name="yearly_payment_body">پرداخت سالیانه به مبلغ ۵۰ دلار</string>
+    <string name="coming_soon_msg">به زودی!!</string>
+
+
+</resources>

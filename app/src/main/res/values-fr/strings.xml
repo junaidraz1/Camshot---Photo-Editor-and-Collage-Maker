@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>Rogner</item>
+        <item>Filtrer</item>
+        <item>Effet</item>
+        <item>Ajuster</item>
+        <item>Teinte, Saturation, Luminance (HSL)</item>
+        <item>Calque</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Couleur 1</item>
+        <item>Couleur 2</item>
+        <item>Duo</item>
+        <item>Rose</item>
+        <item>Frais</item>
+        <item>Européen</item>
+        <item>Sombre</item>
+        <item>Instantané</item>
+        <item>Élégant</item>
+        <item>Doré</item>
+        <item>Teinte</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Film de cinéma</item>
+        <item>Rétro</item>
+        <item>Noir et blanc (NB)</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Lumière 1</item>
+        <item>Lumière 2</item>
+        <item>Festival</item>
+        <item>Amour</item>
+        <item>Prisme</item>
+        <item>Néon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Poussière</item>
+        <item>Taches</item>
+        <item>Vintage</item>
+        <item>Éraflure</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Neige</item>
+        <item>Nuage</item>
+        <item>Brouillard</item>
+        <item>Rayon de soleil</item>
+    </string-array>
+
+    <string name="background_image">Image d\'arrière-plan</string>
+    <string name="light_effect">Effet de lumière</string>
+    <string name="resize">Redimensionner</string>
+    <string name="rotate">Faire pivoter</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Recadrer</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Fermer</string>
+    <string name="done">Terminé</string>
+    <string name="blend">Mélanger</string>
+    <string name="effect">Effet</string>
+    <string name="light">Lumière</string>
+    <string name="texture">Texture</string>
+    <string name="weather">Météo</string>
+    <string name="gallery">Galerie</string>
+    <string name="hue">Teinte</string>
+    <string name="saturation">Saturation</string>
+    <string name="brightness">Luminosité</string>
+    <string name="icon">Icône</string>
+    <string name="text">Texte</string>
+    <string name="sticker">Autocollant</string>
+    <string name="border">Bordure</string>
+    <string name="black_icon">Icône noire</string>
+    <string name="border_blur">Bord flou</string>
+    <string name="done_save">Terminé|Enregistrer</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="welcome">Fait avec 💕💕💕</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Mot de passe</string>
+
+    <string name="signup_login_hint">Vous avez déjà un compte ? Connectez-vous</string>
+    <string name="login_signup_hint">Vous n\'avez pas de compte ? Inscrivez-vous</string>
+    <string name="login_name_hint">Nom</string>
+    <string name="login_mobile_number_hint">Numéro de portable</string>
+    <string name="password">Mot de passe</string>
+    <string name="email_address">Adresse e-mail</string>
+    <string name="register1">S\'inscrire</string>
+    <string name="login">Connexion</string>
+    <string name="don_t_have_an_account_sign_up">Vous n\'avez pas de compte ? Inscrivez-vous</string>
+    <string name="email">E-mail</string>
+    <string name="login2">Connexion</string>
+    <string name="have_an_account_login">Vous avez un compte ? Connectez-vous</string>
+    <string name="logout">Déconnexion</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="beauty_title">Beauté</string>
+    <string name="remover_title">Supprimer</string>
+    <string name="collage_title">Collage</string>
+    <string name="mosaic_title">Mosaïque</string>
+    <string name="capture_title">Capturez des images de haute qualité</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Accès aux photos</string>
+    <string name="storage_perm_body">Accordez la permission d\'accéder aux photos de la galerie ici !</string>
+    <string name="storage_perm_txt">Autoriser l\'accès</string>
+    <string name="open_settings">Autoriser depuis les paramètres</string>
+    <string name="cam_denied">Accès à la caméra refusé</string>
+    <string name="noti_msg_body">Permission de notification refusée. Autorisez depuis les paramètres</string>
+    <string name="top_features_title">Nos principales fonctionnalités</string>
+
+    <string name="select_photos_label">Sélectionnez jusqu\'à 10 photo(s)</string>
+    <string name="albums_lbl">Sélectionner un album</string>
+    <string name="collage_error_msg">Veuillez sélectionner des photo(s) pour créer un collage</string>
+    <string name="photos_lbl">Sélectionner des photo(s)</string>
+    <string name="flip_label">Retourner</string>
+    <string name="rotate_label">Faire pivoter</string>
+    <string name="crop_label">Recadrer</string>
+    <string name="replace_label">Remplacer</string>
+    <string name="layout_label">Disposition</string>
+    <string name="border_label">Bordure</string>
+    <string name="background_label">Arrière-plan</string>
+    <string name="save_label">Enregistrer</string>
+    <string name="crop_image_lbl">Recadrer l\'image</string>
+    <string name="collage_label">Créer un collage</string>
+    <string name="photos_warning_lbl">Vous avez seulement besoin de %d photo(s)</string>
+    <string name="next_lbl">Suivant</string>
+    <string name="share_header">Partager via</string>
+    <string name="save_picture_lbl">Enregistrer l\'image</string>
+    <string name="insta_msg">Instagram n\'est pas installé sur cet appareil</string>
+    <string name="whatsapp_msg">WhatsApp n\'est pas installé sur cet appareil</string>
+    <string name="facebook_msg">Facebook n\'est pas installé sur cet appareil</string>
+    <string name="share_lbl">Partager</string>
+    <string name="cancel_label">Annuler</string>
+    <string name="share_picture_lbl">Partager l\'image</string>
+    <string name="share_whatsapp">Voulez-vous partager cette image sur WhatsApp ?</string>
+    <string name="share_facebook">Voulez-vous partager cette image sur Facebook ?</string>
+    <string name="share_instagram">Voulez-vous partager cette image sur Instagram ?</string>
+    <string name="edit_photo_lbl">Éditer la photo</string>
+    <string name="apply_lbl">Appliquer</string>
+    <string name="revert_changes_lbl">Annuler les modifications</string>
+    <string name="enter_here_hint">Saisissez ici</string>
+
+    <string name="done_lbl">Ajouter</string>
+    <string name="changes_appl_lbl">Modifications appliquées</string>
+    <string name="select_language_lbl">Sélectionner la langue</string>
+    <string name="select_lbl">Sélectionner</string>
+    <string name="remove_ads_label">Supprimer les publicités</string>
+    <string name="get_features_label">Obtenir toutes les fonctionnalités Premium</string>
+    <string name="get_filters_label">Obtenir des filtres illimités</string>
+    <string name="vip_channel_label">Chaîne VIP Exclusive</string>
+    <string name="premium_plan_lbl">Abonnement Premium</string>
+    <string name="weekly_lbl">Hebdomadaire</string>
+    <string name="weekly_body">Vous économisez 10%</string>
+    <string name="monthly_lbl">Mensuel</string>
+    <string name="weekly_rate">5,00 $</string>
+    <string name="monthly_rate">15,00 $</string>
+    <string name="manage_sub"><u>Gérer l\'abonnement</u></string>
+    <string name="terms_of_use_lbl">D\'utilisation</string>
+    <string name="privacy_policy_lbl">Confidentialité</string>
+    <string name="restore_lbl">Restaurer</string>
+    <string name="filter_to_try_lbl">Filtre à essayer</string>
+    <string name="before_lbl">Avant</string>
+    <string name="after_lbl">Après</string>
+    <string name="try_now_lbl">Essayer maintenant</string>
+    <string name="home_lbl">Accueil</string>
+    <string name="mine_lbl">Mon profil</string>
+    <string name="camera_lbl">Appareil photo</string>
+    <string name="gallery_lbl">Galerie</string>
+    <string name="collage_lbl">Collage</string>
+    <string name="no_converted_msg">Oups ! Il semble que vous n\'ayez pas encore édité et enregistré de photos.</string>
+    <string name="saved_lbl">Enregistré</string>
+    <string name="delete_label">Supprimer</string>
+    <string name="rename_label">Renommer</string>
+    <string name="monthly_body">Vous économisez 20%</string>
+
+    <string name="rename_file_label">Renommer le fichier</string>
+    <string name="con_error_msg">Une erreur s\'est produite ! Veuillez réessayer dans quelques instants</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Entrer le nom</string>
+    <string name="duplicate_name">Nom d\'image en double. Veuillez choisir un nom différent</string>
+    <string name="retry_label">Réessayer</string>
+    <string name="overwrite_label">Écraser</string>
+    <string name="overwrite_body1">Une image avec ce nom existe déjà.</string>
+    <string name="overwrite_body2">Nom, l\'écraser supprimera l\'image existante. Voulez-vous l\'écraser ?</string>
+    <string name="rename_err_msg">Le nom ne peut pas être vide !</string>
+    <string name="name_update">Nom mis à jour</string>
+    <string name="ad_label">Publicité</string>
+    <string name="del_img_header">Supprimer l\'image</string>
+    <string name="del_img_msg">Voulez-vous supprimer cette image convertie ?</string>
+    <string name="del_img_success_msg">Photo supprimée avec succès</string>
+    <string name="image_deleted_label">Image supprimée</string>
+    <string name="image_deleted_msg">Image supprimée avec succès</string>
+    <string name="general_label">Général</string>
+    <string name="rate_us_msg">Recommandez-nous en nous donnant une note sur le Play Store</string>
+    <string name="app_ver_label">Version de l\'application : </string>
+    <string name="device_info_label">Informations sur l\'appareil :</string>
+    <string name="os_ver_label">Version du système d\'exploitation : </string>
+    <string name="api_level_label">Niveau API du système d\'exploitation : </string>
+    <string name="dev_label">Appareil : </string>
+    <string name="model_label">Modèle (et produit) : </string>
+    <string name="feedback_msg">Veuillez écrire vos commentaires ci-dessous</string>
+    <string name="share_title">Éditeur de photos</string>
+    <string name="share_body">Permettez-moi de vous recommander la meilleure application d\'édition de photos. Essayez-la maintenant !</string>
+    <string name="no_email_txt">Aucune application trouvée pour envoyer un e-mail</string>
+    <string name="user_agreement_para1">Nous ne collectons pas de journaux de votre activité, y compris aucun enregistrement de l\'historique de navigation, de la destination du trafic ou des requêtes DNS. Nous ne stockons jamais non plus de journaux de connexion, c\'est-à-dire aucun journal de votre adresse IP, de votre adresse IP sortante, de l\'horodatage de la connexion ou de la durée de la session. Nous avons conçu nos systèmes de manière à ne pas contenir de données sensibles vous concernant ; même contraints, nous ne pouvons pas fournir des données que nous ne possédons pas.</string>
+
+    <string name="details_label">Pour en savoir plus, visitez notre</string>
+    <string name="privacy_underlined_label"><u>Politique de confidentialité</u></string>
+    <string name="feedback_label">Retour d\'information</string>
+    <string name="gallery_label">Galerie</string>
+    <string name="saved_files_label">Mes modifications</string>
+    <string name="communicate_label">Communiquer</string>
+    <string name="language_label">Langue</string>
+    <string name="privacy_policy_label">Politique de confidentialité</string>
+    <string name="more_apps_label">Plus d\'applications</string>
+    <string name="collage_header">Collage</string>
+    <string name="cartoon_filters_header">Filtres Cartoon</string>
+    <string name="choose_picture_lbl">Choisir une image</string>
+    <string name="cropper_lbl">Recadrer l\'image</string>
+    <string name="apply_filter">Appliquer un filtre</string>
+    <string name="internet_con_msg">Veuillez vérifier votre connexion Internet et réessayer</string>
+    <string name="convert_header">Conversion de l\'image</string>
+    <string name="convert_body">Veuillez patienter pour voir le chef-d\'œuvre</string>
+    <string name="upload_image_message">Veuillez patienter pendant que nous téléchargeons votre image \n pour appliquer le filtre.</string>
+    <string name="upload_image_header">Téléchargement de l\'image</string>
+    <string name="saving_your_image_lbl">Attendez !! \n Votre image est en cours d\'enregistrement !</string>
+    <string name="camera_perm_success_msg">Autorisation de la caméra accordée</string>
+    <string name="app_name">Éditeur de photos</string>
+    <string name="splash_tag_1">Personnalisez votre image</string>
+    <string name="splash_tag_2">avec </string>
+    <string name="splash_tag_3">Appareil photo beauté </string>
+    <string name="splash_tag_4">application</string>
+    <string name="continue_label">Continuer</string>
+    <string name="loading_ad_label">Chargement de la publicité</string>
+    <string name="agreement_dialog_label">Accord de l\'utilisateur</string>
+    <string name="agreement_body_1">Nous respectons votre vie privée et nous nous engageons à protéger vos données personnelles. Pour en savoir plus sur les mesures que nous prenons pour protéger votre vie privée et sur la manière dont nous utilisons vos informations, veuillez consulter notre Avis de confidentialité.</string>
+    <string name="terms_of_service_1">J\'accepte les</string>
+    <string name="terms_of_service_2"><u>Conditions d\'utilisation</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Accepter et Continuer]]></string>
+    <string name="saved_label">Sauvegardé</string>
+    <string name="saved_body">Votre image a été enregistrée avec succès</string>
+    <string name="exit_label">Annuler</string>
+    <string name="exit_lbl">Sortir</string>
+    <string name="confirm_exit_label">Confirmer la sortie ?</string>
+    <string name="confirm_exit_body">Êtes-vous sûr de vouloir sortir ?</string>
+    <string name="confirm_label">Confirmer</string>
+    <string name="rate_us_label">Notez-nous</string>
+    <string name="rate_us_body">Nous vous serions très reconnaissants si vous pouviez nous noter !</string>
+    <string name="skip_label">Passer</string>
+    <string name="on_board_title_1">Filtres Cool !</string>
+    <string name="on_board_description_1">Appliquez des filtres artistiques et des effets pour \ndonner à vos photos une touche unique.</string>
+    <string name="on_board_title_2">Explorez les autocollants !</string>
+    <string name="on_board_description_2">Exprimez-vous en utilisant des autocollants incroyables. \nAjoutez de l\'humour, de la sentimentalité ou du style à vos images.</string>
+    <string name="on_board_title_3">Édition précise !</string>
+    <string name="on_board_description_3">Peaufinez vos images avec précision \nen utilisant les options de recadrage, de rotation et de redimensionnement.</string>
+    <string name="waring_out_of_memory">Pas assez de mémoire. Veuillez supprimer des images ou votre programme va planter !!!</string>
+    <string name="txt_share">Laissez vos vraies couleurs briller à travers notre : Éditeur de photos et créateur de collages.</string>
+    <string name="reset_image_body">Êtes-vous sûr de vouloir réinitialiser l\'image ?</string>
+
+    <string name="contrast_lbl">Contraste</string>
+    <string name="fade_lbl">Estomper</string>
+    <string name="tone_lbl">Teinte</string>
+    <string name="grain_lbl">Grain</string>
+    <string name="convex_lbl">Convexe</string>
+    <string name="exposure_lbl">Exposition</string>
+    <string name="ambiance_lbl">Ambiance</string>
+    <string name="vig_lbl">Vignette</string>
+    <string name="sharpen_lbl">Accentuer</string>
+    <string name="temp_lbl">Température</string>
+    <string name="vib_lbl">Vibrance</string>
+    <string name="sat_lbl">Saturation</string>
+    <string name="skintone_lbl">Teint de peau</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Normal</string>
+    <string name="effect_lighten">Éclaircir</string>
+    <string name="effect_screen">Écran</string>
+    <string name="effect_colorDodge">Dodge de Couleur</string>
+    <string name="effect_linearBurn">Incrustation Linéaire</string>
+    <string name="effect_darken">Assombrir</string>
+    <string name="effect_multiply">Multiplier</string>
+    <string name="effect_overlay">Incrustation</string>
+    <string name="effect_hardLight">Incidence Forte</string>
+    <string name="effect_exclusion">Exclusion</string>
+    <string name="effect_difference">Différence</string>
+    <string name="effect_divide">Diviser</string>
+
+    <string name="original_lbl">Original</string>
+    <string name="free_lbl">Gratuit</string>
+    <string name="image_size_msg">La taille de l\'image est trop grande, veuillez réessayer avec une image de taille plus petite</string>
+    <string name="privacy_body">Le statut des vols à l\'aéroport se concentre sur la garantie de votre confidentialité. Nous n\'avons pas besoin que le client fournisse des informations personnelles ou restreintes, et nous ne les collectons pas lors de l\'utilisation de l\'application. Nous nous engageons à protéger votre confidentialité. Notre principe directeur en matière de collecte de données est de collecter uniquement les données minimales nécessaires au fonctionnement d\'un service d\'application de classe mondiale à grande échelle. Nous voulons que vous compreniez quelles informations nous collectons, celles que nous ne collectons pas, et comment nous collectons, utilisons et stockons les informations.</string>
+    <string name="privacy_body_new">Notre conviction fondamentale en matière de collecte de données est de collecter uniquement les données non pertinentes nécessaires au fonctionnement d\'un service d\'application de classe mondiale à grande échelle. Nous voulons que vous compreniez quelles informations nous collectons, celles que nous ne collectons pas, et comment nous collectons, utilisons et stockons les informations. Nous ne collectons pas de journaux de votre activité, y compris aucun enregistrement de l\'historique de navigation, de la destination du trafic ou des requêtes DNS. Nous ne stockons pas non plus de journaux de connexion, tels que des journaux de votre adresse IP, de votre adresse IP active, de l\'horodatage de la connexion ou de la durée de la session. Nous avons conçu nos systèmes pour ne pas contenir de données sensibles vous concernant ; cependant, lorsque contraints, nous ne pouvons pas fournir des informations que nous n\'avons pas. Cette politique de confidentialité décrit comment le statut des vols à l\'aéroport et ses partenaires ("le statut des vols à l\'aéroport", "nous", "notre" ou "nous") collectent, utilisent et partagent des informations concernant votre utilisation de nos services et applications (en général, les "Services"). Cette politique de confidentialité (la "Politique de confidentialité") ne s\'applique pas aux informations que vous pourriez traiter lors de l\'utilisation de nos Services.</string>
+    <string name="bg_remover_lbl">Suppression d\'arrière-plan</string>
+    <string name="bg_remover_msg">Découvrez la magie de notre Suppresseur d\'arrière-plan IA</string>
+    <string name="bg_remover_ai">Suppresseur d\'arrière-plan IA</string>
+    <string name="all_features_lbl">Toutes les fonctionnalités</string>
+    <string name="filters_lbl">Filtres</string>
+    <string name="crop_lbl">Recadrer</string>
+    <string name="adjust_lbl">Ajuster</string>
+    <string name="blur_lbl">Flou</string>
+    <string name="splash_lbl">Éclaboussure</string>
+    <string name="overlay_lbl">Superposition</string>
+    <string name="brush_lbl">Pinceau</string>
+    <string name="stickers_lbl">Autocollants</string>
+    <string name="text_lbl">Texte</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="lifetime_lbl">À vie</string>
+    <string name="yearly_lbl">Annuel</string>
+    <string name="lifetime_payment_body">Paiement à vie de 500 $</string>
+    <string name="monthly_payment_body">Paiement mensuel de 15 $</string>
+    <string name="yearly_payment_body">Paiement annuel de 50 $</string>
+    <string name="coming_soon_msg">Bientôt disponible !!</string>
+
+
+</resources>

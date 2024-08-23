@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>التقاط</item>
+        <item>تصفية</item>
+        <item>تأثير</item>
+        <item>ضبط</item>
+        <item>HSL</item>
+        <item>الطبقة</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>لون1</item>
+        <item>لون2</item>
+        <item>مزدوج</item>
+        <item>زهري</item>
+        <item>طازج</item>
+        <item>أوروبي</item>
+        <item>داكن</item>
+        <item>إنس</item>
+        <item>أنيق</item>
+        <item>ذهبي</item>
+        <item>تدرج</item>
+        <item>فيلم</item>
+        <item>لومو</item>
+        <item>فيلم سينمائي</item>
+        <item>ريترو</item>
+        <item>أبيض وأسود</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>إضاءة 1</item>
+        <item>إضاءة 2</item>
+        <item>مهرجان</item>
+        <item>حب</item>
+        <item>منظار</item>
+        <item>نيون</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>غبار</item>
+        <item>بقع</item>
+        <item>عتبة زمنية</item>
+        <item>خدش</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>ثلج</item>
+        <item>غيمة</item>
+        <item>ضباب</item>
+        <item>أشعة الشمس</item>
+    </string-array>
+
+    <string name="background_image">صورة الخلفية</string>
+    <string name="light_effect">تأثير الإضاءة</string>
+    <string name="resize">تغيير الحجم</string>
+    <string name="rotate">تدوير</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">قص</string>
+    <string name="vertical">عمودي</string>
+    <string name="horizontal">أفقي</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">إغلاق</string>
+    <string name="done">تم</string>
+    <string name="blend">دمج</string>
+    <string name="effect">تأثير</string>
+    <string name="light">إضاءة</string>
+    <string name="texture">نسيج</string>
+    <string name="weather">طقس</string>
+    <string name="gallery">المعرض</string>
+    <string name="hue">اللون</string>
+    <string name="saturation">التشبع</string>
+    <string name="brightness">السطوع</string>
+    <string name="icon">أيقونة</string>
+    <string name="text">نص</string>
+    <string name="sticker">ملصق</string>
+    <string name="border">حاشية</string>
+    <string name="black_icon">أيقونة سوداء</string>
+    <string name="border_blur">حاشية مبهمة</string>
+    <string name="done_save">تم|حفظ</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="welcome">صُنعت بحب 💕💕💕</string>
+    <string name="login_email_hint">البريد الإلكتروني</string>
+    <string name="login_password_hint">كلمة المرور</string>
+
+    <string name="signup_login_hint">هل لديك حساب بالفعل؟ تسجيل الدخول</string>
+    <string name="login_signup_hint">ليس لديك حساب؟ قم بالتسجيل</string>
+    <string name="login_name_hint">الاسم</string>
+    <string name="login_mobile_number_hint">رقم الجوال</string>
+    <string name="password">كلمة المرور</string>
+    <string name="email_address">عنوان البريد الإلكتروني</string>
+    <string name="register1">التسجيل</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="don_t_have_an_account_sign_up">ليس لديك حساب؟ قم بالتسجيل</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="login2">تسجيل الدخول</string>
+    <string name="have_an_account_login">لديك حساب؟ قم بتسجيل الدخول</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="beauty_title">الجمال</string>
+    <string name="remover_title">الإزالة</string>
+    <string name="collage_title">الكولاج</string>
+    <string name="mosaic_title">الموزاييك</string>
+    <string name="capture_title">التقاط صور عالية الجودة</string>
+    <string name="iphone_title">آيفون 14 برو</string>
+    <string name="samsung_title">سامسونغ S23</string>
+    <string name="nikon_title">نيكون D850</string>
+    <string name="sony_title">سوني A7IV\n</string>
+    <string name="storage_perm_header">الوصول إلى الصور</string>
+    <string name="storage_perm_body">منح الإذن للوصول إلى الصور من المعرض هنا!</string>
+    <string name="storage_perm_txt">السماح بالوصول</string>
+    <string name="open_settings">السماح من الإعدادات</string>
+    <string name="cam_denied">رفض الوصول إلى الكاميرا</string>
+    <string name="noti_msg_body">تم رفض إذن الإشعارات. السماح من الإعدادات</string>
+    <string name="top_features_title">أهم ميزاتنا</string>
+
+    <string name="select_photos_label">حدد حتى 10 صورة(صور)</string>
+    <string name="albums_lbl">حدد الألبوم</string>
+    <string name="collage_error_msg">الرجاء تحديد صورة(صور) لإنشاء كولاج</string>
+    <string name="photos_lbl">حدد صورة(صور)</string>
+    <string name="flip_label">انعكاس</string>
+    <string name="rotate_label">تدوير</string>
+    <string name="crop_label">قص</string>
+    <string name="replace_label">استبدال</string>
+    <string name="layout_label">تخطيط</string>
+    <string name="border_label">حاشية</string>
+    <string name="background_label">الخلفية</string>
+    <string name="save_label">حفظ</string>
+    <string name="crop_image_lbl">قص الصورة</string>
+    <string name="collage_label">إنشاء كولاج</string>
+    <string name="photos_warning_lbl">تحتاج فقط إلى %d صورة(صور)</string>
+    <string name="next_lbl">التالي</string>
+    <string name="share_header">شارك عبر</string>
+    <string name="save_picture_lbl">حفظ الصورة</string>
+    <string name="insta_msg">إنستغرام غير مثبت على هذا الجهاز</string>
+    <string name="whatsapp_msg">واتساب غير مثبت على هذا الجهاز</string>
+    <string name="facebook_msg">فيسبوك غير مثبت على هذا الجهاز</string>
+    <string name="share_lbl">مشاركة</string>
+    <string name="cancel_label">إلغاء</string>
+    <string name="share_picture_lbl">مشاركة الصورة</string>
+    <string name="share_whatsapp">هل ترغب في مشاركة هذه الصورة على واتساب؟</string>
+    <string name="share_facebook">هل ترغب في مشاركة هذه الصورة على فيسبوك؟</string>
+    <string name="share_instagram">هل ترغب في مشاركة هذه الصورة على إنستغرام؟</string>
+    <string name="edit_photo_lbl">تحرير الصورة</string>
+    <string name="apply_lbl">تطبيق</string>
+    <string name="revert_changes_lbl">العودة إلى الحالة السابقة</string>
+    <string name="enter_here_hint">أدخل هنا</string>
+
+    <string name="done_lbl">إضافة</string>
+    <string name="changes_appl_lbl">تم تطبيق التغييرات</string>
+    <string name="select_language_lbl">اختر اللغة</string>
+    <string name="select_lbl">اختر</string>
+    <string name="remove_ads_label">إزالة الإعلانات</string>
+    <string name="get_features_label">احصل على جميع الميزات المميزة</string>
+    <string name="get_filters_label">احصل على عوامل التصفية غير المحدودة</string>
+    <string name="vip_channel_label">قناة VIP الحصرية</string>
+    <string name="premium_plan_lbl">خطة مميزة</string>
+    <string name="weekly_lbl">أسبوعيًا</string>
+    <string name="weekly_body">توفير 10%</string>
+    <string name="monthly_lbl">شهريًا</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>إدارة الاشتراك</u></string>
+    <string name="terms_of_use_lbl">شروط الاستخدام</string>
+    <string name="privacy_policy_lbl">سياسة الخصوصية</string>
+    <string name="restore_lbl">استعادة</string>
+    <string name="filter_to_try_lbl">جرب التصفية</string>
+    <string name="before_lbl">قبل</string>
+    <string name="after_lbl">بعد</string>
+    <string name="try_now_lbl">جرب الآن</string>
+    <string name="home_lbl">الرئيسية</string>
+    <string name="mine_lbl">الخاصة بي</string>
+    <string name="camera_lbl">الكاميرا</string>
+    <string name="gallery_lbl">المعرض</string>
+    <string name="collage_lbl">الكولاج</string>
+    <string name="no_converted_msg">عذرًا! يبدو أنك لم تقم بتحرير أو حفظ أي صورة بعد.</string>
+    <string name="saved_lbl">تم الحفظ</string>
+    <string name="delete_label">حذف</string>
+    <string name="rename_label">إعادة تسمية</string>
+
+    <string name="rename_file_label">إعادة تسمية الملف</string>
+    <string name="con_error_msg">حدث خطأ! يرجى المحاولة مرة أخرى بعد بضع دقائق</string>
+    <string name="ok_label">موافق</string>
+    <string name="enter_name_label">أدخل الاسم</string>
+    <string name="duplicate_name">اسم الصورة مكرر. يرجى اختيار اسم مختلف</string>
+    <string name="retry_label">إعادة المحاولة</string>
+    <string name="overwrite_label">الكتابة فوق</string>
+    <string name="overwrite_body1">الصورة موجودة بالفعل بنفس الاسم، الكتابة فوقها ستحذف الصورة الموجودة. هل تريد الكتابة فوقها؟</string>
+    <string name="overwrite_body2"> اسم الصورة مكرر، سيؤدي الكتابة فوقها إلى إزالة الصورة الموجودة. هل تريد الكتابة فوقها؟</string>
+    <string name="rename_err_msg">الاسم لا يمكن أن يكون فارغًا!</string>
+    <string name="name_update">تم تحديث الاسم</string>
+    <string name="ad_label">إعلان</string>
+    <string name="del_img_header">حذف الصورة</string>
+    <string name="del_img_msg">هل تريد حذف هذه الصورة المحولة؟</string>
+    <string name="del_img_success_msg">تم حذف الصورة بنجاح</string>
+    <string name="image_deleted_label">تم حذف الصورة</string>
+    <string name="image_deleted_msg">تم حذف الصورة بنجاح</string>
+    <string name="general_label">عام</string>
+    <string name="rate_us_msg">نوصي بتقييم التطبيق على متجر اللعب ومشاركته مع الآخرين</string>
+    <string name="app_ver_label">إصدار التطبيق: </string>
+    <string name="device_info_label">معلومات الجهاز:</string>
+    <string name="os_ver_label">إصدار النظام: </string>
+    <string name="api_level_label">مستوى واجهة برمجة التطبيقات: </string>
+    <string name="dev_label">الجهاز: </string>
+    <string name="model_label">الطراز (والمنتج): </string>
+    <string name="feedback_msg">الرجاء كتابة ملاحظاتك أدناه</string>
+    <string name="share_title">محرر الصور</string>
+    <string name="share_body">دعوني أوصيكم بأفضل تطبيق محرر الصور. جربه الآن!</string>
+    <string name="no_email_txt">لم يتم العثور على تطبيق لإرسال البريد الإلكتروني</string>
+    <string name="user_agreement_para1">نحن لا نقوم بجمع سجلات نشاطك، بما في ذلك عدم تسجيل تاريخ التصفح، أو وجهة الحركة، أو استعلامات DNS. نحن أيضًا لا نقوم بتخزين سجلات الاتصال، أي لا يوجد تسجيل لعنوان IP الخاص بك، أو عنوان IP الصادر، أو الطابع الزمني للاتصال، أو مدة الجلسة. لقد صممنا أنظمتنا بحيث لا تحتوي على معلومات حساسة عنك؛ حتى عند الإلزام، لا نستطيع توفير معلومات ليس لدينا.</string>
+
+    <string name="details_label">لمزيد من المعلومات، قم بزيارة</string>
+    <string name="privacy_underlined_label"><u>سياسة الخصوصية</u></string>
+    <string name="feedback_label">ملاحظات</string>
+    <string name="gallery_label">المعرض</string>
+    <string name="saved_files_label">تعديلاتي</string>
+    <string name="communicate_label">التواصل</string>
+    <string name="language_label">اللغة</string>
+    <string name="privacy_policy_label">سياسة الخصوصية</string>
+    <string name="more_apps_label">تطبيقات أخرى</string>
+    <string name="collage_header">كولاج</string>
+    <string name="cartoon_filters_header">تصفية الكارتون</string>
+    <string name="choose_picture_lbl">اختر صورة</string>
+    <string name="cropper_lbl">قص الصورة</string>
+    <string name="apply_filter">تطبيق التصفية</string>
+    <string name="internet_con_msg">الرجاء التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى</string>
+    <string name="convert_header">جاري تحويل الصورة</string>
+    <string name="convert_body">الرجاء الانتظار لرؤية العمل الفني</string>
+    <string name="upload_image_message">الرجاء الانتظار بينما نقوم برفع صورتك لتطبيق التصفية.</string>
+    <string name="upload_image_header">جاري رفع الصورة</string>
+    <string name="saving_your_image_lbl">اصبر قليلاً! الصورة الخاصة بك قيد الحفظ!</string>
+    <string name="camera_perm_success_msg">تم منح إذن الكاميرا</string>
+    <string name="app_name">محرر الصور</string>
+    <string name="splash_tag_1">قم بتخصيص صورتك</string>
+    <string name="splash_tag_2">بواسطة </string>
+    <string name="splash_tag_3">كاميرا الجمال </string>
+    <string name="splash_tag_4">الخاص بنا</string>
+    <string name="continue_label">متابعة</string>
+    <string name="loading_ad_label">جاري تحميل الإعلان</string>
+    <string name="agreement_dialog_label">اتفاقية المستخدم</string>
+    <string name="agreement_body_1">نحن نحترم خصوصيتك ونلتزم بحماية بياناتك الشخصية. للمزيد من المعلومات حول الخطوات التي نتخذها لحماية خصوصيتك وكيفية استخدام معلوماتك، يرجى مراجعة إشعار الخصوصية لدينا.</string>
+    <string name="terms_of_service_1">أنا أقبل</string>
+    <string name="terms_of_service_2"><u>شروط الخدمة</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[موافق ومتابعة]]></string>
+    <string name="saved_label">تم الحفظ</string>
+    <string name="saved_body">تم حفظ صورتك بنجاح</string>
+    <string name="exit_label">إلغاء</string>
+    <string name="exit_lbl">خروج</string>
+    <string name="confirm_exit_label">تأكيد الخروج؟</string>
+    <string name="confirm_exit_body">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="confirm_label">تأكيد</string>
+    <string name="rate_us_label">قيمنا</string>
+    <string name="rate_us_body">سنكون ممتنين إذا قمت بتقييمنا!</string>
+    <string name="skip_label">تخطى</string>
+    <string name="on_board_title_1">تصفية رائعة!</string>
+    <string name="on_board_description_1">قم بتطبيق تصفية فنية وتأثيرات لإضفاء لمسة فريدة على صورك.</string>
+    <string name="on_board_title_2">استكشاف الملصقات!</string>
+    <string name="on_board_description_2">عبِّر عن نفسك باستخدام ملصقات مذهلة. أضف الفكاهة، العاطفة، أو الأناقة إلى صورك.</string>
+    <string name="on_board_title_3">تحرير دقيق!</string>
+    <string name="on_board_description_3">ضبط صورك بدقة باستخدام خيارات القص، التدوير، والتغيير في الحجم.</string>
+    <string name="waring_out_of_memory">لا يوجد مساحة كافية في الذاكرة. الرجاء إزالة الصور أو قد يتعطل البرنامج.!!!</string>
+    <string name="txt_share">دع ألوانك الحقيقية تتألق من خلال تطبيقنا: محرر الصور وصانع الكولاج.</string>
+    <string name="monthly_body">توفّر 20%</string>
+    <string name="reset_image_body">هل أنت متأكد أنك تريد إعادة تعيين الصورة؟</string>
+
+    <string name="contrast_lbl">التباين</string>
+    <string name="fade_lbl">تلاشي</string>
+    <string name="tone_lbl">اللون</string>
+    <string name="grain_lbl">حبيبات</string>
+    <string name="convex_lbl">محدب</string>
+    <string name="exposure_lbl">التعريض</string>
+    <string name="ambiance_lbl">الأجواء</string>
+    <string name="vig_lbl">الظل</string>
+    <string name="sharpen_lbl">تحسين الحدة</string>
+    <string name="temp_lbl">درجة الحرارة</string>
+    <string name="vib_lbl">الحيوية</string>
+    <string name="sat_lbl">التشبع</string>
+    <string name="skintone_lbl">لون البشرة</string>
+
+    <string name="effect_alpha">ألفا</string>
+    <string name="effect_normal">عادي</string>
+    <string name="effect_lighten">تفتيح</string>
+    <string name="effect_screen">الشاشة</string>
+    <string name="effect_colorDodge">تجنب اللون</string>
+    <string name="effect_linearBurn">احتراق خطي</string>
+    <string name="effect_darken">تظليل</string>
+    <string name="effect_multiply">ضرب</string>
+    <string name="effect_overlay">تراكب</string>
+    <string name="effect_hardLight">إضاءة قوية</string>
+    <string name="effect_exclusion">استبعاد</string>
+    <string name="effect_difference">الاختلاف</string>
+    <string name="effect_divide">قسمة</string>
+
+    <string name="original_lbl">أصلي</string>
+    <string name="free_lbl">مجاني</string>
+    <string name="image_size_msg">حجم الصورة كبير جدًا، يُرجى المحاولة مرة أخرى مع صورة أصغر</string>
+    <string name="privacy_body">يتمركز حالة رحلات المطار حول ضمان خصوصيتك. لسنا بحاجة إلى منح العميل أي معلومات شخصية أو مقيدة ولا نقوم بجمعها أثناء استخدام التطبيق. نحن ملتزمون بحماية خصوصيتك. مبدأنا الرئيسي فيما يتعلق بجمع البيانات هو جمع أدنى البيانات اللازمة لتشغيل خدمة التطبيق على مستوى عالمي. نرغب في أن تفهم أي معلومات نقوم بجمعها وما الذي لا نقوم بجمعه وكيفية جمع واستخدام وتخزين المعلومات.</string>
+    <string name="privacy_body_new">اعتقادنا الأساسي فيما يتعلق بجمع البيانات هو جمع البيانات غير الضرورية فقط لتشغيل خدمة التطبيق على مستوى عالمي. نرغب في أن تفهم ما البيانات التي نقوم بجمعها وما البيانات التي لا نقوم بجمعها وكيفية جمع البيانات واستخدامها وتخزينها. نحن لا نقوم بجمع سجلات نشاطك، بما في ذلك عدم تسجيل تاريخ التصفح ووجهة حركة المرور أو طلبات DNS. كما أننا لا نقوم بتخزين سجلات الاتصال، مثل أي سجلات لعنوان IP الخاص بك، عنوان IP النشط، اللمسة الزمنية للاتصال، أو مدة الجلسة. قمنا بتصميم أنظمتنا لعدم حيازة معلومات حساسة عنك؛ ومع ذلك، عند الضغط، لا يمكننا تقديم معلومات ليس لدينا. يوضح هذا سياسة الخصوصية كيفية جمع معلومات حالة رحلات المطار وشركاؤها ("حالة رحلات المطار"، "نحن"، "نا" أو "نحن") واستخدامها ومشاركتها فيما يتعلق باستخدامك لخدماتنا وتطبيقاتنا (بشكل عام، "الخدمات"). لا تنطبق هذه سياسة الخصوصية (سياسة الخصوصية) على المعلومات التي قد تتعامل معها أثناء استخدام خدماتنا.</string>
+    <string name="bg_remover_lbl">إزالة الخلفية</string>
+    <string name="bg_remover_msg">انظر إلى سحر مزيل الخلفية الذكي لدينا</string>
+    <string name="bg_remover_ai">مزيل الخلفية بالذكاء الاصطناعي</string>
+    <string name="all_features_lbl">جميع الميزات</string>
+    <string name="filters_lbl">تصفيات</string>
+    <string name="crop_lbl">قص</string>
+    <string name="adjust_lbl">تعديل</string>
+    <string name="blur_lbl">طمس</string>
+    <string name="splash_lbl">رش</string>
+    <string name="overlay_lbl">تراكب</string>
+    <string name="brush_lbl">فرشاة</string>
+    <string name="stickers_lbl">ملصقات</string>
+    <string name="text_lbl">نص</string>
+    <string name="pro_lbl">احترافي</string>
+    <string name="lifetime_lbl">مدى الحياة</string>
+    <string name="yearly_lbl">سنويًا</string>
+    <string name="lifetime_payment_body">دفع مدى الحياة بقيمة 500 دولار</string>
+    <string name="monthly_payment_body">دفع شهري بقيمة 15 دولارًا</string>
+    <string name="yearly_payment_body">دفع سنوي بقيمة 50 دولارًا</string>
+    <string name="coming_soon_msg">قريباً!!</string>
+
+
+</resources>

@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_options">
+        <item>Kırp</item>
+        <item>Filtre</item>
+        <item>Effekt</item>
+        <item>Ayarla</item>
+        <item>HSL</item>
+        <item>Katman</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Renk1</item>
+        <item>Renk2</item>
+        <item>Duo</item>
+        <item>Pembe</item>
+        <item>Taze</item>
+        <item>Avrupa</item>
+        <item>Koyu</item>
+        <item>İç</item>
+        <item>Zarif</item>
+        <item>Altın</item>
+        <item>Ton</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Film</item>
+        <item>Retro</item>
+        <item>Siyah-Beyaz</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Işık1</item>
+        <item>Işık2</item>
+        <item>Festival</item>
+        <item>Aşk</item>
+        <item>Prizma</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Toz</item>
+        <item>Lekeler</item>
+        <item>Geleneksel</item>
+        <item>Çizik</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Kar</item>
+        <item>Bulut</item>
+        <item>Sis</item>
+        <item>Güneş Işığı</item>
+    </string-array>
+
+    <string name="background_image">Arka Plan Resmi</string>
+    <string name="light_effect">Işık Efekti</string>
+    <string name="resize">Yeniden Boyutlandır</string>
+    <string name="rotate">Döndür</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Kırp</string>
+    <string name="vertical">Dikey</string>
+    <string name="horizontal">Yatay</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Kapat</string>
+    <string name="done">Tamam</string>
+    <string name="blend">Karıştır</string>
+    <string name="effect">Efekt</string>
+    <string name="light">Işık</string>
+    <string name="texture">Doku</string>
+    <string name="weather">Hava Durumu</string>
+    <string name="gallery">Galeri</string>
+    <string name="hue">RENK</string>
+    <string name="saturation">DOYUM</string>
+    <string name="brightness">PARLAKLIK</string>
+    <string name="icon">Sembol</string>
+    <string name="text">Metin</string>
+    <string name="sticker">Etiket</string>
+    <string name="border">Kenar</string>
+    <string name="black_icon">Siyah Sembol</string>
+    <string name="border_blur">Kenar Bulanıklığı</string>
+    <string name="done_save">Tamam|Kaydet</string>
+    <string name="reset">Sıfırla</string>
+    <string name="welcome">💕💕💕 ile yapıldı</string>
+    <string name="login_email_hint">E-posta</string>
+    <string name="login_password_hint">Şifre</string>
+
+    <string name="signup_login_hint">Zaten bir hesabınız var mı? Giriş yapın</string>
+    <string name="login_signup_hint">Hesabınız yok mu? Kaydolun</string>
+    <string name="login_name_hint">Ad</string>
+    <string name="login_mobile_number_hint">Cep Telefonu Numarası</string>
+    <string name="password">Şifre</string>
+    <string name="email_address">E-posta adresi</string>
+    <string name="register1">Kaydol</string>
+    <string name="login">Giriş</string>
+    <string name="don_t_have_an_account_sign_up">Hesabınız yok mu? Kaydolun</string>
+    <string name="email">E-posta</string>
+    <string name="login2">Giriş yapın</string>
+    <string name="have_an_account_login">Hesabınız mı var? Giriş yapın</string>
+    <string name="logout">Çıkış</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="beauty_title">Güzellik</string>
+    <string name="remover_title">Çıkarıcı</string>
+    <string name="collage_title">Kolaj</string>
+    <string name="mosaic_title">Mozaik</string>
+    <string name="capture_title">Yüksek Kaliteli Fotoğraflar Çekin</string>
+    <string name="iphone_title">Iphone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Fotoğraflara Erişim</string>
+    <string name="storage_perm_body">Galeriden fotoğraflara erişim izni verin!</string>
+    <string name="storage_perm_txt">Erişime İzin Ver</string>
+    <string name="open_settings">Ayarlar\'dan İzin Verin</string>
+    <string name="cam_denied">Kamera Erişimi Reddedildi</string>
+    <string name="noti_msg_body">Bildirim izni reddedildi. Ayarlardan izin verin</string>
+    <string name="top_features_title">En İyi Özelliklerimiz</string>
+
+    <string name="select_photos_label">En fazla 10 fotoğraf seçin</string>
+    <string name="albums_lbl">Albüm Seç</string>
+    <string name="collage_error_msg">Kolaj oluşturmak için lütfen fotoğraf seçin</string>
+    <string name="photos_lbl">Fotoğraf Seç</string>
+    <string name="flip_label">Çevir</string>
+    <string name="rotate_label">Döndür</string>
+    <string name="crop_label">Kırp</string>
+    <string name="replace_label">Değiştir</string>
+    <string name="layout_label">Düzen</string>
+    <string name="border_label">Kenarlık</string>
+    <string name="background_label">Arkaplan</string>
+    <string name="save_label">Kaydet</string>
+    <string name="crop_image_lbl">Resmi Kırp</string>
+    <string name="collage_label">Kolaj Oluştur</string>
+    <string name="photos_warning_lbl">Sadece %d fotoğrafa ihtiyacınız var</string>
+    <string name="next_lbl">Sonraki</string>
+    <string name="share_header">Paylaş</string>
+    <string name="save_picture_lbl">Resmi Kaydet</string>
+    <string name="insta_msg">Instagram bu cihaza yüklenmemiş</string>
+    <string name="whatsapp_msg">WhatsApp bu cihaza yüklenmemiş</string>
+    <string name="facebook_msg">Facebook bu cihaza yüklenmemiş</string>
+    <string name="share_lbl">Paylaş</string>
+    <string name="cancel_label">İptal</string>
+    <string name="share_picture_lbl">Resmi Paylaş</string>
+    <string name="share_whatsapp">Bu resmi WhatsApp ile paylaşmak istiyor musunuz?</string>
+    <string name="share_facebook">Bu resmi Facebook ile paylaşmak istiyor musunuz?</string>
+    <string name="share_instagram">Bu resmi Instagram ile paylaşmak istiyor musunuz?</string>
+    <string name="edit_photo_lbl">Fotoğrafı Düzenle</string>
+    <string name="apply_lbl">Uygula</string>
+    <string name="revert_changes_lbl">Değişiklikleri Geri Al</string>
+    <string name="enter_here_hint">Buraya girin</string>
+
+    <string name="done_lbl">Ekle</string>
+    <string name="changes_appl_lbl">Değişiklikler Uygulandı</string>
+    <string name="select_language_lbl">Dil Seçin</string>
+    <string name="select_lbl">Seçin</string>
+    <string name="remove_ads_label">Reklamları Kaldır</string>
+    <string name="get_features_label">Tüm Premium Özellikleri Alın</string>
+    <string name="get_filters_label">Sınırsız Filtreleri Alın</string>
+    <string name="vip_channel_label">VIP Özel Kanal</string>
+    <string name="premium_plan_lbl">Premium Plan</string>
+    <string name="weekly_lbl">Haftalık</string>
+    <string name="weekly_body">%10 tasarruf edersiniz</string>
+    <string name="monthly_lbl">Aylık</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Aboneliği Yönet</u></string>
+    <string name="terms_of_use_lbl">Kullanım Koşulları</string>
+    <string name="privacy_policy_lbl">Gizlilik Politikası</string>
+    <string name="restore_lbl">Geri Yükle</string>
+    <string name="filter_to_try_lbl">Denemek için Filtre</string>
+    <string name="before_lbl">Önce</string>
+    <string name="after_lbl">Sonra</string>
+    <string name="try_now_lbl">Şimdi Dene</string>
+    <string name="home_lbl">Ana Sayfa</string>
+    <string name="mine_lbl">Benim</string>
+    <string name="camera_lbl">Kamera</string>
+    <string name="gallery_lbl">Galeri</string>
+    <string name="collage_lbl">Kolaj</string>
+    <string name="no_converted_msg">Hop! Henüz herhangi bir fotoğraf düzenlemediniz veya kaydetmediniz gibi görünüyor.</string>
+    <string name="saved_lbl">Kaydedildi</string>
+    <string name="delete_label">Sil</string>
+    <string name="rename_label">Yeniden Adlandır</string>
+
+    <string name="rename_file_label">Dosya Yeniden Adlandır</string>
+    <string name="con_error_msg">Bir hata oluştu! Lütfen birkaç dakika sonra tekrar deneyin</string>
+    <string name="ok_label">Tamam</string>
+    <string name="enter_name_label">Adı Girin</string>
+    <string name="duplicate_name">Aynı isimde bir fotoğraf zaten var. Lütfen farklı bir isim seçin</string>
+    <string name="retry_label">Tekrar Dene</string>
+    <string name="overwrite_label">Üzerine Yaz</string>
+    <string name="overwrite_body1">Bu isimle zaten bir fotoğraf mevcut</string>
+    <string name="overwrite_body2">, üzerine yazmak mevcut fotoğrafı kaldırır. Üzerine yazmak istiyor musunuz?</string>
+    <string name="rename_err_msg">İsim boş olamaz!</string>
+    <string name="name_update">İsim Güncellendi</string>
+    <string name="ad_label">Reklam</string>
+    <string name="del_img_header">Fotoğrafı Sil</string>
+    <string name="del_img_msg">Bu dönüştürülen fotoğrafı silmek istiyor musunuz?</string>
+    <string name="del_img_success_msg">Fotoğraf başarıyla silindi</string>
+    <string name="image_deleted_label">Fotoğraf Silindi</string>
+    <string name="image_deleted_msg">Fotoğraf başarıyla silindi</string>
+    <string name="general_label">Genel</string>
+    <string name="rate_us_msg">Bizi Google Play Store\'da derecelendirerek başkalarına tavsiye edebilirsiniz</string>
+    <string name="app_ver_label">Uygulama Sürümü: </string>
+    <string name="device_info_label">Cihaz Bilgisi:</string>
+    <string name="os_ver_label">İşletim Sistemi Sürümü: </string>
+    <string name="api_level_label">İşletim Sistemi API Seviyesi: </string>
+    <string name="dev_label">Cihaz: </string>
+    <string name="model_label">Model (ve Ürün): </string>
+    <string name="feedback_msg">Lütfen geri bildiriminizi aşağıya yazın</string>
+    <string name="share_title">Fotoğraf Düzenleyici</string>
+    <string name="share_body">Size en iyi Fotoğraf Düzenleyici uygulamasını tavsiye edeyim. Şimdi deneyin!</string>
+    <string name="no_email_txt">E-posta göndermek için bir uygulama bulunamadı</string>
+    <string name="user_agreement_para1">Etkinliklerinizin günlüklerini toplamıyoruz, bu, tarayıcı geçmişi, trafik hedefi veya DNS sorgularının günlüklenmediği anlamına gelir. Ayrıca bağlantı günlüklerini saklamıyoruz, yani IP adresinizin, çıkış IP adresinizin, bağlantı zaman damgasının veya oturum süresinin günlüklerini saklamıyoruz. Sistemlerimizi, hassas verilerinizin olmaması için tasarladık; hatta zorlanmış olsak bile sahip olmadığımız veriyi sağlayamayız.</string>
+
+    <string name="details_label">Daha fazla bilgi için, sitemizi ziyaret edin:</string>
+    <string name="privacy_underlined_label"><u>Gizlilik Politikası</u></string>
+    <string name="feedback_label">Geri Bildirim</string>
+    <string name="gallery_label">Galeri</string>
+    <string name="saved_files_label">Düzenlemelerim</string>
+    <string name="communicate_label">İletişim</string>
+    <string name="language_label">Dil</string>
+    <string name="privacy_policy_label">Gizlilik Politikası</string>
+    <string name="more_apps_label">Diğer Uygulamalar</string>
+    <string name="collage_header">Kolaj</string>
+    <string name="cartoon_filters_header">Karikatür Filtreleri</string>
+    <string name="choose_picture_lbl">Resim Seç</string>
+    <string name="cropper_lbl">Resmi Kırp</string>
+    <string name="apply_filter">Filtre Uygula</string>
+    <string name="internet_con_msg">Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin</string>
+    <string name="convert_header">Resim Dönüştürülüyor</string>
+    <string name="convert_body">Harikayı görmek için lütfen bekleyin</string>
+    <string name="upload_image_message">Filtre uygulamak için resminizin yüklenmesini bekleyin.</string>
+    <string name="upload_image_header">Resim Yükleniyor</string>
+    <string name="saving_your_image_lbl">Bekleyin!! \nResminiz kaydediliyor!</string>
+    <string name="camera_perm_success_msg">Kamera İzni Verildi</string>
+    <string name="app_name">Fotoğraf Düzenleyici</string>
+    <string name="splash_tag_1">Resminizi özelleştirin</string>
+    <string name="splash_tag_2">ile </string>
+    <string name="splash_tag_3">Güzellik Kamera </string>
+    <string name="splash_tag_4">Uygulaması</string>
+    <string name="continue_label">Devam Et</string>
+    <string name="loading_ad_label">Reklam Yükleniyor</string>
+    <string name="agreement_dialog_label">Kullanıcı Anlaşması</string>
+    <string name="agreement_body_1">Gizliliğinizi saygıyla karşılıyor ve kişisel verilerinizi koruma taahhüdünde bulunuyoruz. Gizliliğinizi nasıl koruduğumuza ve bilgilerinizi nasıl kullandığımıza dair bilgi almak için Lütfen Gizlilik Bildirimimizi inceleyin.</string>
+    <string name="terms_of_service_1">Kabul ediyorum:</string>
+    <string name="terms_of_service_2"><u>Hizmet Şartları</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Onayla ve Devam Et]]></string>
+    <string name="saved_label">Kaydedildi</string>
+    <string name="saved_body">Resminiz başarıyla kaydedildi</string>
+    <string name="exit_label">İptal</string>
+    <string name="exit_lbl">Çıkış</string>
+    <string name="confirm_exit_label">Çıkışı Onayla?</string>
+    <string name="confirm_exit_body">Gerçekten çıkmak istediğinizden emin misiniz?</string>
+    <string name="confirm_label">Onayla</string>
+    <string name="rate_us_label">Bizi Puanla</string>
+    <string name="rate_us_body">Eğer bizi puanlarsanız çok minnettar oluruz!</string>
+    <string name="skip_label">Atla</string>
+    <string name="on_board_title_1">Harika Filtreler!</string>
+    <string name="on_board_description_1">Sanatsal filtreler ve efektler uygulayarak fotoğraflarınıza eşsiz bir dokunuş katın.</string>
+    <string name="on_board_title_2">Sticker\'ları Keşfedin!</string>
+    <string name="on_board_description_2">Eğlenceli sticker\'lar kullanarak kendinizi ifade edin. Fotoğraflarınıza mizah, duygu veya stil ekleyin.</string>
+    <string name="on_board_title_3">Hassas Düzenleme!</string>
+    <string name="on_board_description_3">Görüntülerinizi kesme, döndürme ve yeniden boyutlandırma seçeneklerini kullanarak hassas bir şekilde ayarlayın.</string>
+    <string name="waring_out_of_memory">Yetersiz bellek. Lütfen resimleri kaldırın veya program çökebilir!!!</string>
+    <string name="txt_share">Gerçek renklerinizin parlamasına izin verin: Fotoğraf düzenleyici ve kolaj oluşturucu.</string>
+    <string name="monthly_body">%20 Tasarruf edersiniz</string>
+    <string name="reset_image_body">Resmi sıfırlamak istediğinizden emin misiniz?</string>
+
+    <string name="contrast_lbl">Kontrast</string>
+    <string name="fade_lbl">Sönme</string>
+    <string name="tone_lbl">Ton</string>
+    <string name="grain_lbl">Tane</string>
+    <string name="convex_lbl">Konveks</string>
+    <string name="exposure_lbl">Maruziyet</string>
+    <string name="ambiance_lbl">Ortam</string>
+    <string name="vig_lbl">Gölge</string>
+    <string name="sharpen_lbl">Keskinleştirme</string>
+    <string name="temp_lbl">Sıcaklık</string>
+    <string name="vib_lbl">Canlılık</string>
+    <string name="sat_lbl">Doygunluk</string>
+    <string name="skintone_lbl">Ten Rengi</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Normal</string>
+    <string name="effect_lighten">Açık</string>
+    <string name="effect_screen">Ekran</string>
+    <string name="effect_colorDodge">Renk Kaçırma</string>
+    <string name="effect_linearBurn">Doğrusal Yanma</string>
+    <string name="effect_darken">Karartma</string>
+    <string name="effect_multiply">Çarpma</string>
+    <string name="effect_overlay">Üzerine Bindirme</string>
+    <string name="effect_hardLight">Sert Işık</string>
+    <string name="effect_exclusion">Dışlama</string>
+    <string name="effect_difference">Fark</string>
+    <string name="effect_divide">Bölme</string>
+
+    <string name="original_lbl">Orijinal</string>
+    <string name="free_lbl">Ücretsiz</string>
+    <string name="image_size_msg">Görüntü boyutu çok büyük, lütfen daha küçük bir görüntü ile tekrar deneyin</string>
+    <string name="privacy_body">Havalimanı uçuş durumu, gizliliğinizi garanti altına almayı hedeflemektedir. Müşteriden kişisel veya sınırlı bilgi vermelerini istemiyoruz ve uygulama kullanımı sırasında bunları toplamıyoruz. Gizliliğinizi koruma konusundaki taahhütlerimiz bulunmaktadır. Veri toplama konusundaki rehber ilkimiz, büyük ölçekte dünya standartlarında bir uygulama hizmetini işletmek için gerekli minimum veriyi toplamaktır. Hangi bilgileri topladığımızı, neleri toplamadığımızı ve bilgileri nasıl topladığımızı, kullandığımızı ve sakladığımızı anlamanızı istiyoruz.</string>
+    <string name="privacy_body_new">Veri toplama konusundaki temel inancımız, büyük ölçekte dünya standartlarında bir uygulama hizmetini işletmek için gereksiz verileri toplamaktır. Hangi bilgileri topladığımızı, neleri toplamadığımızı ve bilgileri nasıl topladığımızı, kullandığımızı ve sakladığımızı anlamanızı istiyoruz. Etkinliklerinize ilişkin kayıtları, gezinme geçmişi, trafik hedefleri veya DNS istekleri kaydetmiyoruz. Ayrıca, IP adresiniz, etkin IP adresiniz, bağlantı zaman damgası veya oturum süresi gibi bağlantı kayıtlarını da saklamıyoruz. Sistemlerimizin sizin hakkınızda hassas bilgi içermemesi için tasarladık, ancak zorlanmış olsak bile sahip olmadığımız bilgileri veremeyiz. Bu Gizlilik Politikası, Havalimanı Uçuş Durumu ve iş ortakları ("Havalimanı Uçuş Durumu", "biz", "bizim" veya "bize") hizmetlerimizin ve uygulamalarımızın kullanımına ilişkin bilgilerinizi nasıl topladığını, kullandığını ve paylaştığını anlatır. Bu Gizlilik Politikası ("Gizlilik Politikası"), hizmetlerimizi kullanırken işleyebileceğiniz bilgilere uygulanmaz.</string>
+    <string name="bg_remover_lbl">Arka Plan Kaldırıcı</string>
+    <string name="bg_remover_msg">AI Arka Plan Kaldırıcı aracımızın sihrini yaşayın</string>
+    <string name="bg_remover_ai">AI Arka Plan Kaldırıcı</string>
+    <string name="all_features_lbl">Tüm Özellikler</string>
+    <string name="filters_lbl">Filtreler</string>
+    <string name="crop_lbl">Kırp</string>
+    <string name="adjust_lbl">Ayarla</string>
+    <string name="blur_lbl">Bulanıklaştır</string>
+    <string name="splash_lbl">Sıçrat</string>
+    <string name="overlay_lbl">Üstüne Koy</string>
+    <string name="brush_lbl">Fırça</string>
+    <string name="stickers_lbl">Etiketler</string>
+    <string name="text_lbl">Metin</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="lifetime_lbl">Sürekli</string>
+    <string name="yearly_lbl">Yıllık</string>
+    <string name="lifetime_payment_body">$500 Ömür Boyu Ödeme</string>
+    <string name="monthly_payment_body">$15 Aylık Ödeme</string>
+    <string name="yearly_payment_body">$50 Yıllık Ödeme</string>
+    <string name="coming_soon_msg">Yakında!!</string>
+
+</resources>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>Afsny</item>
+        <item>Filtreer</item>
+        <item>Effek</item>
+        <item>Aanpas</item>
+        <item>HSL</item>
+        <item>Laag</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Kleur1</item>
+        <item>Kleur2</item>
+        <item>Duo</item>
+        <item>Pienk</item>
+        <item>Vars</item>
+        <item>Europa</item>
+        <item>Donker</item>
+        <item>Ins</item>
+        <item>Elegante</item>
+        <item>Goue</item>
+        <item>Tint</item>
+        <item>Fliek</item>
+        <item>Lomo</item>
+        <item>Fliek</item>
+        <item>Retro</item>
+        <item>SW</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Belig1</item>
+        <item>Belig2</item>
+        <item>Feestelik</item>
+        <item>Liefde</item>
+        <item>Prisma</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Stof</item>
+        <item>Vleke</item>
+        <item>Ouwe</item>
+        <item>Krap</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Sneeu</item>
+        <item>Wolke</item>
+        <item>Mis</item>
+        <item>Sonlig</item>
+    </string-array>
+
+    <string name="background_image">Agtergrondbeeld</string>
+    <string name="light_effect">Ligeffek</string>
+    <string name="resize">Verklein</string>
+    <string name="rotate">Draai</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Sny</string>
+    <string name="vertical">Vertikaal</string>
+    <string name="horizontal">Horisontaal</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Maak toe</string>
+    <string name="done">Klaar</string>
+    <string name="blend">Vervaag</string>
+    <string name="effect">Effek</string>
+    <string name="light">Lig</string>
+    <string name="texture">Tekstuur</string>
+    <string name="weather">Weer</string>
+    <string name="gallery">Galerij</string>
+    <string name="hue">KLEURTOON</string>
+    <string name="saturation">VERZADIGING</string>
+    <string name="brightness">HELDERHEID</string>
+    <string name="icon">Ikon</string>
+    <string name="text">Teksa</string>
+    <string name="sticker">Sticker</string>
+    <string name="border">Rand</string>
+    <string name="black_icon">Swart Ikon</string>
+    <string name="border_blur">Randvervaging</string>
+    <string name="done_save">Klaar|Stoor</string>
+    <string name="reset">Herstel</string>
+    <string name="welcome">Gemaak met 💕💕💕</string>
+    <string name="login_email_hint">E-pos</string>
+    <string name="login_password_hint">Wagwoord</string>
+
+    <string name="signup_login_hint">Het u reeds \'n rekening? Teken aan</string>
+    <string name="login_signup_hint">Het u nie \'n rekening nie? Sluit aan</string>
+    <string name="login_name_hint">Naam</string>
+    <string name="login_mobile_number_hint">Mobiele nommer</string>
+    <string name="password">Wagwoord</string>
+    <string name="email_address">E-posadres</string>
+    <string name="register1">Sluit Aan</string>
+    <string name="login">Teken Aan</string>
+    <string name="don_t_have_an_account_sign_up">Het u nie \'n rekening nie? sluit aan</string>
+    <string name="email">E-pos</string>
+    <string name="login2">Teken Aan</string>
+    <string name="have_an_account_login">Het u \'n rekening? Teken aan</string>
+    <string name="logout">Teken Uit</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="beauty_title">Skoonheid</string>
+    <string name="remover_title">Verwyderaar</string>
+    <string name="collage_title">Kollage</string>
+    <string name="mosaic_title">Mosaïek</string>
+    <string name="capture_title">Neem Hoë Kwaliteit Beelde</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Toegang tot Foto\'s</string>
+    <string name="storage_perm_body">Verleen toestemming om foto\'s vanaf die galerij hier te benader!</string>
+    <string name="storage_perm_txt">Staan Toegang Toe</string>
+    <string name="open_settings">Laat vanaf Instellings toe</string>
+    <string name="cam_denied">Kamera-toegang geweier</string>
+    <string name="noti_msg_body">Kennisgewingstoestemming geweier. Staan dit vanaf instellings toe</string>
+    <string name="top_features_title">Ons Topkenmerke</string>
+
+    <string name="select_photos_label">Kies tot 10 foto(\'s)</string>
+    <string name="albums_lbl">Kies Album</string>
+    <string name="collage_error_msg">Kies asseblief foto(\'s) om \'n kollage te skep</string>
+    <string name="photos_lbl">Kies Foto(\'s)</string>
+    <string name="flip_label">Keer om</string>
+    <string name="rotate_label">Draai</string>
+    <string name="crop_label">Sny</string>
+    <string name="replace_label">Vervang</string>
+    <string name="layout_label">Uitleg</string>
+    <string name="border_label">Rand</string>
+    <string name="background_label">Agtergrond</string>
+    <string name="save_label">Stoor</string>
+    <string name="crop_image_lbl">Sny Beeld</string>
+    <string name="collage_label">Skep Kollage</string>
+    <string name="photos_warning_lbl">U het slegs %d foto(\'s) nodig</string>
+    <string name="next_lbl">Volgende</string>
+    <string name="share_header">Deel via</string>
+    <string name="save_picture_lbl">Stoor Prent</string>
+    <string name="insta_msg">Instagram is nie op hierdie toestel geïnstalleer nie</string>
+    <string name="whatsapp_msg">WhatsApp is nie op hierdie toestel geïnstalleer nie</string>
+    <string name="facebook_msg">Facebook is nie op hierdie toestel geïnstalleer nie</string>
+    <string name="share_lbl">Deel</string>
+    <string name="cancel_label">Kanselleer</string>
+    <string name="share_picture_lbl">Deel Prent</string>
+    <string name="share_whatsapp">Wil jy hierdie prent na WhatsApp deel?</string>
+    <string name="share_facebook">Wil jy hierdie prent na Facebook deel?</string>
+    <string name="share_instagram">Wil jy hierdie prent na Instagram deel?</string>
+    <string name="edit_photo_lbl">Wysig Foto</string>
+    <string name="apply_lbl">Aanwend</string>
+    <string name="revert_changes_lbl">Keer Wysigings Terug</string>
+    <string name="enter_here_hint">Voer hier in</string>
+
+    <string name="done_lbl">Voeg By</string>
+    <string name="changes_appl_lbl">Veranderinge Aangewend</string>
+    <string name="select_language_lbl">Kies Taal</string>
+    <string name="select_lbl">Kies</string>
+    <string name="remove_ads_label">Verwyder Advertensies</string>
+    <string name="get_features_label">Kry Alle Premium Kenmerke</string>
+    <string name="get_filters_label">Kry Onbeperkte Filtre</string>
+    <string name="vip_channel_label">VIP Uitsluitende Kanaal</string>
+    <string name="premium_plan_lbl">Premium Plan</string>
+    <string name="weekly_lbl">Weekliks</string>
+    <string name="weekly_body">Jy spaar 10%</string>
+    <string name="monthly_lbl">Maandeliks</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Bestuur Inskrywing</u></string>
+    <string name="terms_of_use_lbl">Gebruiksvoor</string>
+    <string name="privacy_policy_lbl">Privaatheid</string>
+    <string name="restore_lbl">Herstel</string>
+    <string name="filter_to_try_lbl">Filtre om Te Probeer</string>
+    <string name="before_lbl">Voor</string>
+    <string name="after_lbl">Na</string>
+    <string name="try_now_lbl">Probeer Nou</string>
+    <string name="home_lbl">Tuis</string>
+    <string name="mine_lbl">Myne</string>
+    <string name="camera_lbl">Kamera</string>
+    <string name="gallery_lbl">Galerij</string>
+    <string name="collage_lbl">Kollage</string>
+    <string name="no_converted_msg">Oops! Dit lyk asof jy nog nie enige foto\'s aangepas en gestoor het nie.</string>
+    <string name="saved_lbl">Gestoor</string>
+    <string name="delete_label">Skrap</string>
+    <string name="rename_label">Hernoem</string>
+
+    <string name="rename_file_label">Hernoem Lêer</string>
+    <string name="con_error_msg">\'n Fout het voorgekom! Probeer asseblief weer na \'n paar oomblikke</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Voer Naam In</string>
+    <string name="duplicate_name">Duplikeer beeldnaam. Kies asseblief \'n ander naam</string>
+    <string name="retry_label">Probeer weer</string>
+    <string name="overwrite_label">Oorskryf</string>
+    <string name="overwrite_body1">Prent bestaan reeds met hierdie</string>
+    <string name="overwrite_body2">naam, om dit te oorskryf sal die bestaande prent verwyder. Wil jy dit oorskryf?</string>
+    <string name="rename_err_msg">Naam kan nie leeg wees nie!</string>
+    <string name="name_update">Naam Opgedateer</string>
+    <string name="ad_label">Advertensie</string>
+    <string name="del_img_header">Verwyder Beeld</string>
+    <string name="del_img_msg">Wil jy hierdie omgesette beeld verwyder?</string>
+    <string name="del_img_success_msg">Foto suksesvol verwyder</string>
+    <string name="image_deleted_label">Beeld Verwyder</string>
+    <string name="image_deleted_msg">Beeld suksesvol verwyder</string>
+    <string name="general_label">Algemeen</string>
+    <string name="rate_us_msg">Beveel ons aan by ander deur ons te gradering op die speelwinkel</string>
+    <string name="app_ver_label">Toepingsweergawe: </string>
+    <string name="device_info_label">Toestelinligting:</string>
+    <string name="os_ver_label">Bedryfstelselweergawe: </string>
+    <string name="api_level_label">Bedryfstelsel API-vlak: </string>
+    <string name="dev_label">Toestel: </string>
+    <string name="model_label">Model (en Produk): </string>
+    <string name="feedback_msg">Skryf asseblief jou terugvoering hieronder</string>
+    <string name="share_title">Foto-redigeerder</string>
+    <string name="share_body">Laat my jou die beste foto-redigeerder toep aanbeveel. Probeer dit nou!</string>
+    <string name="no_email_txt">Geen toep gevind om \'n e-pos te stuur nie</string>
+    <string name="user_agreement_para1">Ons versamel nie logboeke van jou aktiwiteit nie, insluitend geen logboek van jou blaai-geskiedenis, verkeersbestemming of DNS-navrae nie. Ons stoor ook nooit koppelingslogboeke nie, d.w.s. geen logboeke van jou IP-adres, jou uitgaande IP-adres, koppelingsdatumstempel of sessieduur nie. Ons het ons stelsels ontwerp om nie sensitiewe data oor jou te hê nie; selfs wanneer gedwing, kan ons nie data verskaf wat ons nie besit nie.</string>
+
+    <string name="details_label">Vir meer, besoek ons</string>
+    <string name="privacy_underlined_label"><u>Privaatheidsbeleid</u></string>
+    <string name="feedback_label">Terugvoering</string>
+    <string name="gallery_label">Galerij</string>
+    <string name="saved_files_label">My Wysigings</string>
+    <string name="communicate_label">Kommunikeer</string>
+    <string name="language_label">Taal</string>
+    <string name="privacy_policy_label">Privaatheidsbeleid</string>
+    <string name="more_apps_label">Meer Toepassings</string>
+    <string name="collage_header">Kollage</string>
+    <string name="cartoon_filters_header">Kartoefilter</string>
+    <string name="choose_picture_lbl">Kies Prent</string>
+    <string name="cropper_lbl">Sny Beeld</string>
+    <string name="apply_filter">Pas Filter Toe</string>
+    <string name="internet_con_msg">Kontroleer asseblief jou internetverbinding en probeer weer</string>
+    <string name="convert_header">Beeld Word Omgewerk</string>
+    <string name="convert_body">Wag asseblief om die meesterstuk te sien</string>
+    <string name="upload_image_message">Wag asseblief terwyl ons jou prent oplaai om die filter toe te pas.</string>
+    <string name="upload_image_header">Beeld Oplaai</string>
+    <string name="saving_your_image_lbl">Hou vas!! \nJou beeld word gestoor!</string>
+    <string name="camera_perm_success_msg">Kamer Toestemming Verleen</string>
+    <string name="app_name">Foto-redigeerder</string>
+    <string name="splash_tag_1">Pas jou Prent aan</string>
+    <string name="splash_tag_2">met </string>
+    <string name="splash_tag_3">Skoonheidskamera </string>
+    <string name="splash_tag_4">Toep</string>
+    <string name="continue_label">Aanhou</string>
+    <string name="loading_ad_label">Advertensie Laai</string>
+    <string name="agreement_dialog_label">Gebruiker Se Ooreenkoms</string>
+    <string name="agreement_body_1">Ons respekteer jou privaatheid en is toegewyd om jou persoonlike data veilig te hou. Vir inligting oor die stappe wat ons neem om jou privaatheid te beskerm en hoe ons jou inligting gebruik, lees asseblief ons Privaatheidskennisgewing.</string>
+    <string name="terms_of_service_1">Ek aanvaar die</string>
+    <string name="terms_of_service_2"><u>Diensvoorwaardes</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Aanvaar & Aanhou]]></string>
+    <string name="saved_label">Gestoor</string>
+    <string name="saved_body">Jou beeld is suksesvol gestoor</string>
+    <string name="exit_label">Kanselleer</string>
+    <string name="exit_lbl">Uitgang</string>
+    <string name="confirm_exit_label">Bevestig Uitgang?</string>
+    <string name="confirm_exit_body">Is jy seker jy wil uitgaan?</string>
+    <string name="confirm_label">Bevestig</string>
+    <string name="rate_us_label">Gee ons \'n gradering</string>
+    <string name="rate_us_body">Ons sal baie dankbaar wees as jy ons kan gradering gee!</string>
+    <string name="skip_label">Overslaan</string>
+    <string name="on_board_title_1">Koele Filter!</string>
+    <string name="on_board_description_1">Pas artistieke filtre en effekte toe om jou foto\'s \'n unieke aanraking te gee.</string>
+    <string name="on_board_title_2">Ontdek Stickers!</string>
+    <string name="on_board_description_2">Druk jouself uit deur verbasingwekkende stickers te gebruik. Voeg humor, gevoel of styl by jou beelde.</string>
+    <string name="on_board_title_3">Noukeurige Redigering!</string>
+    <string name="on_board_description_3">Verfyn jou beelde noukeurig deur sny, draai en skuif opsies te gebruik.</string>
+    <string name="waring_out_of_memory">Nie genoeg geheue nie. Verwyder asseblief beelde anders sal jou program afsluit.!!!</string>
+    <string name="txt_share">Laat jou ware kleure skyn deur ons: Foto-redigeerder en kollagemaker.</string>
+    <string name="monthly_body">Jy spaar 20%</string>
+    <string name="reset_image_body">Is jy seker jy wil die prent herstel?</string>
+
+    <string name="contrast_lbl">Kontraste</string>
+    <string name="fade_lbl">Verswak</string>
+    <string name="tone_lbl">Toon</string>
+    <string name="grain_lbl">Korrel</string>
+    <string name="convex_lbl">Welfsel</string>
+    <string name="exposure_lbl">Blootstelling</string>
+    <string name="ambiance_lbl">Omgewing</string>
+    <string name="vig_lbl">Vignette</string>
+    <string name="sharpen_lbl">Skerp</string>
+    <string name="temp_lbl">Temperatuur</string>
+    <string name="vib_lbl">Lewendigheid</string>
+    <string name="sat_lbl">Versadiging</string>
+    <string name="skintone_lbl">Velkleur</string>
+
+    <string name="effect_alpha">Alfa</string>
+    <string name="effect_normal">Normaal</string>
+    <string name="effect_lighten">Verlig</string>
+    <string name="effect_screen">Skerm</string>
+    <string name="effect_colorDodge">Kleur Ontwyk</string>
+    <string name="effect_linearBurn">Lineêre Brand</string>
+    <string name="effect_darken">Donker</string>
+    <string name="effect_multiply">Vermenigvuldig</string>
+    <string name="effect_overlay">Oorvleuel</string>
+    <string name="effect_hardLight">Harde Lig</string>
+    <string name="effect_exclusion">Uitsluiting</string>
+    <string name="effect_difference">Verskil</string>
+    <string name="effect_divide">Deel</string>
+
+    <string name="original_lbl">Oorspronklike</string>
+    <string name="free_lbl">Gratis</string>
+    <string name="image_size_msg">Beeldgrootte is te groot, probeer weer met \'n kleiner beeld</string>
+    <string name="privacy_body">Lugawenstatus is sentreer op die versekering van jou privaatheid. Ons benodig nie die klient om enige persoonlike of beperkte inligting te voorsien nie en ons versamel dit nie tydens die gebruik van die aansoek nie. Ons is verbind tot die beskerming van jou privaatheid. Ons leidende beginsel ten opsigte van die insameling van data is om slegs die minimum data wat nodig is vir die bedryf van \'n wêreldgehalte aansoekdiens in te samel. Ons wil hê jy moet verstaan watter inligting ons inwin, watter ons nie inwin nie, en hoe ons inligting inwin, gebruik en berg.</string>
+    <string name="privacy_body_new">Ons basiese oortuiging ten opsigte van data-insameling is om slegs die onnodige data wat benodig word om vir \'n wêreldgehalte toepassingsdiens op \'n groot skaal te werk, in te samel. Ons wil hê jy moet verstaan watter inligting ons inwin, wat ons nie inwin nie, en hoe ons inligting inwin, gebruik en berg. Ons inwin nie logs van jou aktiwiteit nie, insluitend geen logging van jou blaai-geskiedenis, verkeersbestemming, of DNS-versoeke nie. Ons stoor ook nooit koppelingslogs nie, dit wil sê enige logs van jou IP-adres, jou aktiewe IP-adres, koppelingsstempel, of sessieduur nie. Ons het ons stelsels ontwerp om nie sensitiewe inligting oor jou te hê nie; nietemin, wanneer dit beperk word, kan ons nie inligting verskaf wat ons nie het nie. Hierdie Privaatheidsbeleid beskryf hoe Lugawenstatus en sy vennote ("Lugawenstatus," "ons," "ons" of "ons") inligting inwin, gebruik en deel met betrekking tot jou gebruik van ons dienste en aansoeke (algemeen bekend as die "Dienste"). Hierdie Privaatheidsbeleid (die "Privaatheidsbeleid") is nie van toepassing op die inligting wat jy mag hanteer terwyl jy ons Dienste gebruik nie.</string>
+    <string name="bg_remover_lbl">Agtergrond Verwyderaar</string>
+    <string name="bg_remover_msg">Aanskou die toor van ons KI Agtergrond Verwyderaar</string>
+    <string name="bg_remover_ai">KI Agtergrond Verwyderaar</string>
+    <string name="all_features_lbl">Alle Funksies</string>
+    <string name="filters_lbl">Filtre</string>
+    <string name="crop_lbl">Sny</string>
+    <string name="adjust_lbl">Pas aan</string>
+    <string name="blur_lbl">Vervaag</string>
+    <string name="splash_lbl">Spatsel</string>
+    <string name="overlay_lbl">Oorlê</string>
+    <string name="brush_lbl">Kwassie</string>
+    <string name="stickers_lbl">Stickers</string>
+    <string name="text_lbl">Teks</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="lifetime_lbl">Lewenslange</string>
+    <string name="yearly_lbl">Jaarliks</string>
+    <string name="lifetime_payment_body">Lewenslange Betaling van $500</string>
+    <string name="monthly_payment_body">Maandelikse Betaling van $15</string>
+    <string name="yearly_payment_body">Jaarlikse Betaling van $50</string>
+    <string name="coming_soon_msg">Binnekort beskikbaar!!</string>
+
+
+</resources>

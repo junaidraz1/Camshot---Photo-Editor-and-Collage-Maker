@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>Oříznout</item>
+        <item>Filtr</item>
+        <item>Effekt</item>
+        <item>Upravit</item>
+        <item>HSL</item>
+        <item>Vrstva</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Barva 1</item>
+        <item>Barva 2</item>
+        <item>Duo</item>
+        <item>Růžový</item>
+        <item>Svěží</item>
+        <item>Euro</item>
+        <item>Tmavý</item>
+        <item>Insta</item>
+        <item>Elegantní</item>
+        <item>Zlatý</item>
+        <item>Odstín</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Filmový</item>
+        <item>Retró</item>
+        <item>ČB</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Světlo 1</item>
+        <item>Světlo 2</item>
+        <item>Festival</item>
+        <item>Láska</item>
+        <item>Prizma</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Prach</item>
+        <item>Skvrny</item>
+        <item>Vintage</item>
+        <item>Škrábance</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Sníh</item>
+        <item>Oblačno</item>
+        <item>Mlha</item>
+        <item>Sluneční svit</item>
+    </string-array>
+
+    <string name="background_image">Pozadí</string>
+    <string name="light_effect">Světelný efekt</string>
+    <string name="resize">Změnit velikost</string>
+    <string name="rotate">Otočit</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Oříznout</string>
+    <string name="vertical">Svisle</string>
+    <string name="horizontal">Vodorovně</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Zavřít</string>
+    <string name="done">Hotovo</string>
+    <string name="blend">Sjednotit</string>
+    <string name="effect">Efekt</string>
+    <string name="light">Světlo</string>
+    <string name="texture">Textura</string>
+    <string name="weather">Počasí</string>
+    <string name="gallery">Galerie</string>
+    <string name="hue">ODSTÍN</string>
+    <string name="saturation">SASIČTĚNÍ</string>
+    <string name="brightness">JAS</string>
+    <string name="icon">Ikona</string>
+    <string name="text">Text</string>
+    <string name="sticker">Nálepka</string>
+    <string name="border">Rámeček</string>
+    <string name="black_icon">Černá ikona</string>
+    <string name="border_blur">Rozmazání rámečku</string>
+    <string name="done_save">Hotovo|Uložit</string>
+    <string name="reset">Obnovit</string>
+    <string name="welcome">Vytvořeno s 💕💕💕</string>
+    <string name="login_email_hint">E-mail</string>
+    <string name="login_password_hint">Heslo</string>
+
+    <string name="signup_login_hint">Už máte účet? Přihlásit se</string>
+    <string name="login_signup_hint">Nemáte účet? Zaregistrovat se</string>
+    <string name="login_name_hint">Jméno</string>
+    <string name="login_mobile_number_hint">Mobilní číslo</string>
+    <string name="password">Heslo</string>
+    <string name="email_address">E-mailová adresa</string>
+    <string name="register1">Zaregistrovat se</string>
+    <string name="login">Přihlásit se</string>
+    <string name="don_t_have_an_account_sign_up">Nemáte účet? Zaregistrovat se</string>
+    <string name="email">E-mail</string>
+    <string name="login2">Přihlásit se</string>
+    <string name="have_an_account_login">Máte účet? Přihlásit se</string>
+    <string name="logout">Odhlásit se</string>
+    <string name="yes">Ano</string>
+    <string name="no">Ne</string>
+    <string name="beauty_title">Krása</string>
+    <string name="remover_title">Odstranit</string>
+    <string name="collage_title">Koláž</string>
+    <string name="mosaic_title">Mozaika</string>
+    <string name="capture_title">Fotografování vysokorychlostními snímky</string>
+    <string name="iphone_title">Iphone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Přístup k fotografiím</string>
+    <string name="storage_perm_body">Udělte povolení ke získání přístupu k fotografiím z galerie zde!</string>
+    <string name="storage_perm_txt">Povolit přístup</string>
+    <string name="open_settings">Povolit v Nastavení</string>
+    <string name="cam_denied">Přístup k fotoaparátu zamítnut</string>
+    <string name="noti_msg_body">Odmítnuto povolení k oznámení. Povolit v nastavení</string>
+    <string name="top_features_title">Naše nejlepší funkce</string>
+
+    <string name="select_photos_label">Vyberte až 10 fotografií</string>
+    <string name="albums_lbl">Vyberte album</string>
+    <string name="collage_error_msg">Prosím vyberte fotky pro vytvoření koláže</string>
+    <string name="photos_lbl">Vyberte fotky</string>
+    <string name="flip_label">Překlopit</string>
+    <string name="rotate_label">Otočit</string>
+    <string name="crop_label">Oříznout</string>
+    <string name="replace_label">Nahradit</string>
+    <string name="layout_label">Rozložení</string>
+    <string name="border_label">Rámeček</string>
+    <string name="background_label">Pozadí</string>
+    <string name="save_label">Uložit</string>
+    <string name="crop_image_lbl">Oříznout fotku</string>
+    <string name="collage_label">Vytvořit koláž</string>
+    <string name="photos_warning_lbl">Potřebujete pouze %d fotku(y)</string>
+    <string name="next_lbl">Dále</string>
+    <string name="share_header">Sdílet přes</string>
+    <string name="save_picture_lbl">Uložit obrázek</string>
+    <string name="insta_msg">Instagram není nainstalován na tomto zařízení</string>
+    <string name="whatsapp_msg">WhatsApp není nainstalován na tomto zařízení</string>
+    <string name="facebook_msg">Facebook není nainstalován na tomto zařízení</string>
+    <string name="share_lbl">Sdílet</string>
+    <string name="cancel_label">Zrušit</string>
+    <string name="share_picture_lbl">Sdílet obrázek</string>
+    <string name="share_whatsapp">Chcete tuto fotku sdílet na WhatsAppu?</string>
+    <string name="share_facebook">Chcete tuto fotku sdílet na Facebooku?</string>
+    <string name="share_instagram">Chcete tuto fotku sdílet na Instagramu?</string>
+    <string name="edit_photo_lbl">Upravit fotku</string>
+    <string name="apply_lbl">Použít</string>
+    <string name="revert_changes_lbl">Vrátit změny</string>
+    <string name="enter_here_hint">Zadejte zde</string>
+
+    <string name="done_lbl">Přidat</string>
+    <string name="changes_appl_lbl">Změny uplatněny</string>
+    <string name="select_language_lbl">Vyberte jazyk</string>
+    <string name="select_lbl">Vybrat</string>
+    <string name="remove_ads_label">Odebrat reklamy</string>
+    <string name="get_features_label">Získejte všechny prémiové funkce</string>
+    <string name="get_filters_label">Získejte neomezené filtry</string>
+    <string name="vip_channel_label">VIP Exkluzivní kanál</string>
+    <string name="premium_plan_lbl">Prémiový plán</string>
+    <string name="weekly_lbl">Týdně</string>
+    <string name="weekly_body">Ušetříte 10 %</string>
+    <string name="monthly_lbl">Měsíčně</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Spravovat předplatné</u></string>
+    <string name="terms_of_use_lbl">Podmínky</string>
+    <string name="privacy_policy_lbl">Zásady ochrany</string>
+    <string name="restore_lbl">Obnovit</string>
+    <string name="filter_to_try_lbl">Filtr k vyzkoušení</string>
+    <string name="before_lbl">Před</string>
+    <string name="after_lbl">Po</string>
+    <string name="try_now_lbl">Vyzkoušet nyní</string>
+    <string name="home_lbl">Domů</string>
+    <string name="mine_lbl">Mé</string>
+    <string name="camera_lbl">Fotoaparát</string>
+    <string name="gallery_lbl">Galerie</string>
+    <string name="collage_lbl">Koláž</string>
+    <string name="no_converted_msg">Ups! Vypadá to, že jste dosud neupravili a neuložili žádné obrázky.</string>
+    <string name="saved_lbl">Uloženo</string>
+    <string name="delete_label">Smazat</string>
+    <string name="rename_label">Přejmenovat</string>
+
+    <string name="rename_file_label">Přejmenovat soubor</string>
+    <string name="con_error_msg">Došlo k chybě! Zkuste to prosím za chvíli znovu</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Zadejte název</string>
+    <string name="duplicate_name">Duplikovaný název obrázku. Vyberte prosím jiný název</string>
+    <string name="retry_label">Zkusit znovu</string>
+    <string name="overwrite_label">Přepsat</string>
+    <string name="overwrite_body1">Obrázek s tímto názvem již existuje </string>
+    <string name="overwrite_body2">, přepsáním se stávající obrázek odstraní. Chcete ho přepsat?</string>
+    <string name="rename_err_msg">Název nesmí být prázdný!</string>
+    <string name="name_update">Název aktualizován</string>
+    <string name="ad_label">Reklama</string>
+    <string name="del_img_header">Smazat obrázek</string>
+    <string name="del_img_msg">Chcete smazat tento upravený obrázek?</string>
+    <string name="del_img_success_msg">Obrázek byl úspěšně smazán</string>
+    <string name="image_deleted_label">Obrázek smazán</string>
+    <string name="image_deleted_msg">Obrázek byl úspěšně smazán</string>
+    <string name="general_label">Obecné</string>
+    <string name="rate_us_msg">Doporučte nás ostatním tím, že nás ohodnotíte v Obchodě Play</string>
+    <string name="app_ver_label">Verze aplikace: </string>
+    <string name="device_info_label">Informace o zařízení:</string>
+    <string name="os_ver_label">Verze operačního systému: </string>
+    <string name="api_level_label">Verze API operačního systému: </string>
+    <string name="dev_label">Zařízení: </string>
+    <string name="model_label">Model (a produkt): </string>
+    <string name="feedback_msg">Napište nám svou zpětnou vazbu níže</string>
+    <string name="share_title">Editor fotografií</string>
+    <string name="share_body">Nechte mě doporučit vám nejlepší aplikaci pro úpravu fotografií. Vyzkoušejte ji nyní!</string>
+    <string name="no_email_txt">Nebyla nalezena aplikace pro odeslání e-mailu</string>
+    <string name="user_agreement_para1">Nesbíráme žádné záznamy o vaší činnosti, včetně záznamu o historii prohlížení, cílových destinací provozu nebo dotazů DNS. Také neuchováváme žádné záznamy o připojení, což znamená, že nemáme žádné záznamy o vaší IP adrese, odchozí IP adrese, časovém razítku připojení nebo trvání relace. Navrhli jsme naše systémy tak, aby neobsahovaly citlivá data o vás. Dokonce ani na základě nařízení nemůžeme poskytnout data, která nemáme.</string>
+
+    <string name="details_label">Více informací najdete na naší</string>
+    <string name="privacy_underlined_label"><u>Zásady ochrany osobních údajů</u></string>
+    <string name="feedback_label">Zpětná vazba</string>
+    <string name="gallery_label">Galerie</string>
+    <string name="saved_files_label">Mé úpravy</string>
+    <string name="communicate_label">Komunikace</string>
+    <string name="language_label">Jazyk</string>
+    <string name="privacy_policy_label">Zásady ochrany osobních údajů</string>
+    <string name="more_apps_label">Další aplikace</string>
+    <string name="collage_header">Koláž</string>
+    <string name="cartoon_filters_header">Kreslené filtry</string>
+    <string name="choose_picture_lbl">Vyberte obrázek</string>
+    <string name="cropper_lbl">Oříznout obrázek</string>
+    <string name="apply_filter">Použít filtr</string>
+    <string name="internet_con_msg">Prosím, zkontrolujte své připojení k internetu a zkuste to znovu</string>
+    <string name="convert_header">Převádění obrázku</string>
+    <string name="convert_body">Počkejte, až uvidíte mistrovské dílo</string>
+    <string name="upload_image_message">Počkejte, zatímco nahráváme váš obrázek \n pro aplikaci filtru.</string>
+    <string name="upload_image_header">Nahrávání obrázku</string>
+    <string name="saving_your_image_lbl">Počkejte!! \nVáš obrázek se ukládá!</string>
+    <string name="camera_perm_success_msg">Povolení pro fotoaparát bylo uděleno</string>
+    <string name="app_name">Editor fotografií</string>
+    <string name="splash_tag_1">Přizpůsobte si svůj obrázek</string>
+    <string name="splash_tag_2">s </string>
+    <string name="splash_tag_3">Krásná kamera </string>
+    <string name="splash_tag_4">aplikací</string>
+    <string name="continue_label">Pokračovat</string>
+    <string name="loading_ad_label">Načítání reklamy</string>
+    <string name="agreement_dialog_label">Uživatelská smlouva</string>
+    <string name="agreement_body_1">Respektujeme vaše soukromí a zavazujeme se chránit vaše osobní údaje. Informace o opatřeních, která přijímáme k ochraně vašeho soukromí a o tom, jak vaše údaje používáme, naleznete v našem prohlášení o ochraně osobních údajů.</string>
+    <string name="terms_of_service_1">Přijímám</string>
+    <string name="terms_of_service_2"><u>Uživatelskou smlouvu</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Souhlasit a pokračovat]]></string>
+    <string name="saved_label">Uloženo</string>
+    <string name="saved_body">Váš obrázek byl úspěšně uložen</string>
+    <string name="exit_label">Zrušit</string>
+    <string name="exit_lbl">Ukončit</string>
+    <string name="confirm_exit_label">Potvrdit ukončení?</string>
+    <string name="confirm_exit_body">Opravdu chcete ukončit?</string>
+    <string name="confirm_label">Potvrdit</string>
+    <string name="rate_us_label">Ohodnoťte nás</string>
+    <string name="rate_us_body">Byli bychom velmi vděční, kdybyste nás ohodnotili!</string>
+    <string name="skip_label">Přeskočit</string>
+    <string name="on_board_title_1">Skvělý filtr!</string>
+    <string name="on_board_description_1">Použijte umělecké filtry a efekty, abyste dali svým fotografiím jedinečný vzhled.</string>
+    <string name="on_board_title_2">Objevujte samolepky!</string>
+    <string name="on_board_description_2">Vyjádřete se pomocí úžasných samolepek. Přidejte humor, citovost nebo styl k vašim obrázkům.</string>
+    <string name="on_board_title_3">Přesná úprava!</string>
+    <string name="on_board_description_3">Ladění obrázků s precizností pomocí funkcí oříznutí, otočení a změny velikosti.</string>
+    <string name="waring_out_of_memory">Nedostatek paměti. Prosím, odstraňte obrázky, jinak může dojít k pádu programu.!!!</string>
+    <string name="txt_share">Nechte své pravé barvy zářit prostřednictvím naší aplikace: Editoru fotografií a tvůrce koláží.</string>
+    <string name="monthly_body">Ušetříte 20%</string>
+    <string name="reset_image_body">Jste si jisti, že chcete obnovit obrázek?</string>
+
+    <string name="contrast_lbl">Kontrast</string>
+    <string name="fade_lbl">Ztráta</string>
+    <string name="tone_lbl">Tón</string>
+    <string name="grain_lbl">Zrnitost</string>
+    <string name="convex_lbl">Konvexní</string>
+    <string name="exposure_lbl">Expozice</string>
+    <string name="ambiance_lbl">Atmosféra</string>
+    <string name="vig_lbl">Vignetovat</string>
+    <string name="sharpen_lbl">Zostření</string>
+    <string name="temp_lbl">Teplota</string>
+    <string name="vib_lbl">Živost</string>
+    <string name="sat_lbl">Sytost</string>
+    <string name="skintone_lbl">Tón pleti</string>
+
+    <string name="effect_alpha">Alfa</string>
+    <string name="effect_normal">Normální</string>
+    <string name="effect_lighten">Světlení</string>
+    <string name="effect_screen">Sítotisk</string>
+    <string name="effect_colorDodge">Odstín k barvě</string>
+    <string name="effect_linearBurn">Lineární vypálení</string>
+    <string name="effect_darken">Ztmavit</string>
+    <string name="effect_multiply">Násobení</string>
+    <string name="effect_overlay">Překryv</string>
+    <string name="effect_hardLight">Tvrdý světelný</string>
+    <string name="effect_exclusion">Vyloučení</string>
+    <string name="effect_difference">Rozdíl</string>
+    <string name="effect_divide">Dělení</string>
+
+    <string name="original_lbl">Původní</string>
+    <string name="free_lbl">Zdarma</string>
+    <string name="image_size_msg">Velikost obrázku je příliš velká, zkuste to znovu s menším obrázkem</string>
+    <string name="privacy_body">Stav letištních letů je zaměřen na zajištění vaší soukromí. Nepotřebujeme, abyste nám klient poskytoval jakékoliv osobní nebo omezené informace, a nepožadujeme jejich sběr během používání aplikace. Jsme zavázáni chránit vaše soukromí. Náš hlavní princip ohledně sběru dat je sbírat pouze minimální množství dat nezbytných pro provoz služby světové třídy ve velkém měřítku. Chceme, abyste rozuměli, jaké informace shromažďujeme, co neshromažďujeme, a jak informace shromažďujeme, používáme a ukládáme.</string>
+    <string name="privacy_body_new">Náš základní přesvědčení ohledně sběru dat spočívá v tom, shromažďovat pouze nepodstatná data nezbytná k provozu služby aplikace na světové úrovni. Chceme, abyste rozuměli, jaké informace shromažďujeme, co neshromažďujeme, a jak informace shromažďujeme, používáme a ukládáme. Nezaznamenáváme žádné záznamy o vaší činnosti, včetně historie prohlížení, cílového provozu nebo dotazů DNS. Také nikdy neuchováváme žádné záznamy o připojení, jako jsou záznamy o vaší IP adrese, aktivní IP adrese, časovém razítku připojení nebo délce relace. Naše systémy byly navrženy tak, aby neobsahovaly citlivá data o vás; nicméně, když jsme omezeni, nemůžeme poskytovat data, která nemáme. Tato zásada ochrany soukromí popisuje, jak Stav letištních letů a jeho partneři ("Stav letištních letů," "my," "naše" nebo "nás") shromažďují, používají a sdílejí informace týkající se vašeho používání našich služeb a aplikací (obecně označovaných jako "Služby"). Tato zásada ochrany soukromí (Zásada ochrany soukromí) se nevztahuje na informace, které můžete zpracovávat při používání našich služeb.</string>
+    <string name="bg_remover_lbl">Odstranění pozadí</string>
+    <string name="bg_remover_msg">Poznejte kouzlo našeho odstraňovače pozadí s umělou inteligencí</string>
+    <string name="bg_remover_ai">Odstraňovač pozadí s umělou inteligencí</string>
+    <string name="all_features_lbl">Všechny funkce</string>
+    <string name="filters_lbl">Filtry</string>
+    <string name="crop_lbl">Oříznout</string>
+    <string name="adjust_lbl">Nastavit</string>
+    <string name="blur_lbl">Rozmazat</string>
+    <string name="splash_lbl">Stříkání</string>
+    <string name="overlay_lbl">Překrytí</string>
+    <string name="brush_lbl">Štětec</string>
+    <string name="stickers_lbl">Nálepky</string>
+    <string name="text_lbl">Text</string>
+    <string name="pro_lbl">Profesionální</string>
+    <string name="lifetime_lbl">Doživotně</string>
+    <string name="yearly_lbl">Ročně</string>
+    <string name="lifetime_payment_body">Doživotní platba ve výši 500 dolarů</string>
+    <string name="monthly_payment_body">Měsíční platba ve výši 15 dolarů</string>
+    <string name="yearly_payment_body">Roční platba ve výši 50 dolarů</string>
+    <string name="coming_soon_msg">Brzy!!</string>
+
+</resources>

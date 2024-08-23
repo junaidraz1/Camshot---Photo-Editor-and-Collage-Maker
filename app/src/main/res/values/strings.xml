@@ -1,0 +1,402 @@
+<resources>
+
+    <!--TODO : Replace  Admob App ID here -->
+    <string name="Admob_AppID" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+
+    <!--TODO : Replace  Admob UNIT ID here -->
+    <string name="Admob_adUnitId" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--TODO : Replace  Facebook Ad ID here -->
+    <string name="fb_adid" translatable="false">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+
+
+    <integer-array name="img_options">
+        <item>@drawable/icon_bottom_menu_crop</item>
+        <item>@drawable/icon_bottom_menu_filter</item>
+        <item>@drawable/icon_bottom_menu_effect</item>
+        <item>@drawable/icon_bottom_menu_adjust</item>
+        <item>@drawable/icon_bottom_menu_hsl</item>
+        <item>@drawable/icon_bottom_menu_layer</item>
+    </integer-array>
+
+    <string-array name="sticker_color">
+        <item>#000000</item>
+        <item>#FFFFFF</item>
+        <item>#C9BCB4</item>
+        <item>#F0ACAC</item>
+        <item>#F2B78E</item>
+        <item>#F0D69C</item>
+        <item>#C5DDA2</item>
+        <item>#4EB2A7</item>
+        <item>#05779A</item>
+        <item>#9AB9F0</item>
+        <item>#A484B7</item>
+        <item>#F2C0E3</item>
+        <item>#B91F32</item>
+        <item>#C26024</item>
+        <item>#FA9E28</item>
+        <item>#FEE847</item>
+        <item>#72C52F</item>
+        <item>#0B7D09</item>
+        <item>#27CBB9</item>
+        <item>#3574E6</item>
+        <item>#4040C9</item>
+        <item>#8A33B5</item>
+    </string-array>
+
+    <array name="fonts_sticker">
+        <item>font/anton_regular.ttf</item>
+        <item>font/artifact.ttf</item>
+        <item>font/BPdotsUnicaseSquare.otf</item>
+        <item>font/carbontype.ttf</item>
+        <item>font/caveat_regular.ttf</item>
+        <item>font/curve.ttf</item>
+        <item>font/digital.ttf</item>
+        <item>font/FrederickatheGreat_Regular.ttf</item>
+        <item>font/libre.otf</item>
+        <item>font/LibreBarcode39Text_Regular.ttf</item>
+        <item>font/mono.ttf</item>
+        <item>font/pecita.otf</item>
+        <item>font/pirataone.ttf</item>
+        <item>font/report.ttf</item>
+        <item>font/Roboto_BoldCondensed.ttf</item>
+        <item>font/RobotoMono_Medium.ttf</item>
+        <item>font/Russian_AmaticSC.ttf</item>
+        <item>font/Russian_Blogger.otf</item>
+        <item>font/Russian_Pacifico.ttf</item>
+        <item>font/Russian_Regular.ttf</item>
+        <item>font/selima.otf</item>
+        <item>font/silkscreen.ttf</item>
+        <item>font/sticker_time.otf</item>
+    </array>
+
+    <string name="blocked_by_developer" translatable="false">Blocked by Developer</string>
+    <string name="para_one" translatable="false">For your security, your phone is not allowed to install this app from unknown source which can be unsafe some time.</string>
+    <string name="para_two" translatable="false">Your phone and personal data are more vulnerable to attack by apps from unknown sources .</string>
+    <string name="install" translatable="false">Install From PlayStore</string>
+
+    <!--Translate from below-->
+
+    <string-array name="text_options">
+        <item>Crop</item>
+        <item>Filter</item>
+        <item>Effect</item>
+        <item>Adjust</item>
+        <item>HSL</item>
+        <item>Layer</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Color1</item>
+        <item>Color2</item>
+        <item>Duo</item>
+        <item>Pink</item>
+        <item>Fresh</item>
+        <item>Euro</item>
+        <item>Dark</item>
+        <item>Ins</item>
+        <item>Elegant</item>
+        <item>Golden</item>
+        <item>Tint</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Movie</item>
+        <item>Retro</item>
+        <item>BW</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Light1</item>
+        <item>Light2</item>
+        <item>Festival</item>
+        <item>Love</item>
+        <item>Prism</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Dust</item>
+        <item>Stains</item>
+        <item>Vintage</item>
+        <item>Scratch</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Snow</item>
+        <item>Cloud</item>
+        <item>Fog</item>
+        <item>Sunlight</item>
+    </string-array>
+
+    <string name="background_image">Background Image</string>
+    <string name="light_effect">Light Effect</string>
+    <string name="resize">Resize</string>
+    <string name="rotate">Rotate</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Crop</string>
+    <string name="vertical">Vertical</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Close</string>
+    <string name="done">Done</string>
+    <string name="blend">Blend</string>
+    <string name="effect">Effect</string>
+    <string name="light">Light</string>
+    <string name="texture">Texture</string>
+    <string name="weather">Weather</string>
+    <string name="gallery">Gallery</string>
+    <string name="hue">HUE</string>
+    <string name="saturation">SATURATION</string>
+    <string name="brightness">BRIGHTNESS</string>
+    <string name="icon">Icon</string>
+    <string name="text">Text</string>
+    <string name="sticker">Sticker</string>
+    <string name="border">Border</string>
+    <string name="black_icon">Black Icon</string>
+    <string name="border_blur">Border Blur</string>
+    <string name="done_save">Done|Save</string>
+    <string name="reset">Reset</string>
+    <string name="welcome">Made with 💕💕💕</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="login_name_hint">Name</string>
+    <string name="login_mobile_number_hint">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="email_address">Email address</string>
+    <string name="register1">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? sign up</string>
+    <string name="email">Email</string>
+    <string name="login2">Login</string>
+    <string name="have_an_account_login">have an account?Login</string>
+    <string name="logout">Logout</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="beauty_title">Beauty</string>
+    <string name="remover_title">Remover</string>
+    <string name="collage_title">Collage</string>
+    <string name="mosaic_title">Mosaic</string>
+    <string name="capture_title">Capture High Quality Images</string>
+    <string name="iphone_title">Iphone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon \nD850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Access to Photos</string>
+    <string name="storage_perm_body">Grant permission to access photos from gallery here!</string>
+    <string name="storage_perm_txt">Allow Access</string>
+    <string name="open_settings">Allow from Settings</string>
+    <string name="cam_denied">Camera Access Denied</string>
+    <string name="noti_msg_body">Notification permission denied. Allow from settings</string>
+    <string name="top_features_title">Our Top Features</string>
+
+    <string name="select_photos_label">Select up to 10 photo(s)</string>
+    <string name="albums_lbl">Select Album</string>
+    <string name="collage_error_msg">Please select photo(s) to create collage</string>
+    <string name="photos_lbl">Select Photo(s)</string>
+    <string name="flip_label">Flip</string>
+    <string name="rotate_label">Rotate</string>
+    <string name="crop_label">Crop</string>
+    <string name="replace_label">Replace</string>
+    <string name="layout_label">Layout</string>
+    <string name="border_label">Border</string>
+    <string name="background_label">Background</string>
+    <string name="save_label">Save</string>
+    <string name="crop_image_lbl">Crop Image</string>
+    <string name="collage_label">Create Collage</string>
+    <string name="photos_warning_lbl">You only need %d photo(s)</string>
+    <string name="next_lbl">Next</string>
+    <string name="share_header">Share via</string>
+    <string name="save_picture_lbl">Save Picture</string>
+    <string name="insta_msg">Instagram is not installed on this device</string>
+    <string name="whatsapp_msg">WhatsApp is not installed on this device</string>
+    <string name="facebook_msg">Facebook is not installed on this device</string>
+    <string name="share_lbl">Share</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="share_picture_lbl">Share Picture</string>
+    <string name="share_whatsapp">Do you want to share this picture to Whatsapp?</string>
+    <string name="share_facebook">Do you want to share this picture to Facebook?</string>
+    <string name="share_instagram">Do you want to share this picture to Instagram?</string>
+    <string name="edit_photo_lbl">Edit Photo</string>
+    <string name="apply_lbl">Apply</string>
+    <string name="revert_changes_lbl">Revert Changes</string>
+    <string name="enter_here_hint">Enter here</string>
+
+    <string name="done_lbl">Add</string>
+    <string name="changes_appl_lbl">Changes Applied</string>
+    <string name="select_language_lbl">Select Language</string>
+    <string name="select_lbl">Select</string>
+    <string name="remove_ads_label">Remove Ads</string>
+    <string name="get_features_label">Get All Premium Features</string>
+    <string name="get_filters_label">Get Unlimited Filters</string>
+    <string name="vip_channel_label">VIP Exclusive Channel</string>
+    <string name="premium_plan_lbl">Premium Plan</string>
+    <string name="weekly_lbl">Weekly</string>
+    <string name="weekly_body">You save 10%</string>
+    <string name="monthly_lbl">Monthly</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Manage Subscription</u></string>
+    <string name="terms_of_use_lbl">Terms of use</string>
+    <string name="privacy_policy_lbl">Privacy Policy</string>
+    <string name="restore_lbl">Restore</string>
+    <string name="filter_to_try_lbl">Filter to Try</string>
+    <string name="before_lbl">Before</string>
+    <string name="after_lbl">After</string>
+    <string name="try_now_lbl">Try Now</string>
+    <string name="home_lbl">Home</string>
+    <string name="mine_lbl">Mine</string>
+    <string name="camera_lbl">Camera</string>
+    <string name="gallery_lbl">Gallery</string>
+    <string name="collage_lbl">Collage</string>
+    <string name="no_converted_msg">Oops! It looks like you haven\'t edited and saved any pictures yet.</string>
+    <string name="saved_lbl">Saved</string>
+    <string name="delete_label">Delete</string>
+    <string name="rename_label">Rename</string>
+
+    <string name="rename_file_label">Rename File</string>
+    <string name="con_error_msg">An error occurred! Please try again after few moments</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Enter Name</string>
+    <string name="duplicate_name">Duplicate image name. Please choose a different name</string>
+    <string name="retry_label">Retry</string>
+    <string name="overwrite_label">Overwrite</string>
+    <string name="overwrite_body1">Picture already exist with this </string>
+    <string name="overwrite_body2"> name, overwriting it shall remove existing picture. Do you want to overwrite it?</string>
+    <string name="rename_err_msg">Name cannot be empty!</string>
+    <string name="name_update">Name Updated</string>
+    <string name="ad_label">Ad</string>
+    <string name="del_img_header">Delete Image</string>
+    <string name="del_img_msg">Do you want to delete this converted image?</string>
+    <string name="del_img_success_msg">Photo deleted successfully</string>
+    <string name="image_deleted_label">Image Deleted</string>
+    <string name="image_deleted_msg">Image deleted successfully</string>
+    <string name="general_label">General</string>
+    <string name="rate_us_msg">Recommend us to others by rating us on play store</string>
+    <string name="app_ver_label">App Version: </string>
+    <string name="device_info_label">Device Info:</string>
+    <string name="os_ver_label">OS Version: </string>
+    <string name="api_level_label">OS API Level: </string>
+    <string name="dev_label">Device: </string>
+    <string name="model_label">Model (and Product): </string>
+    <string name="feedback_msg">Please write your feedback below</string>
+    <string name="share_title">Photo Editor</string>
+    <string name="share_body">Let me recommend you the best Photo Editor app. Try it now!</string>
+    <string name="no_email_txt">No app found to send email</string>
+    <string name="user_agreement_para1">We do not collect logs of your activity, including no logging of browsing history, traffic destination, or DNS queries. We also never store connection logs, i.e., no logs of your IP address, your outgoing IP address, connection timestamp, or session duration. We designed our systems not to have sensitive data about you; even when compelled, we cannot provide data that we do not possess.</string>
+
+    <string name="details_label">For more, Visit our</string>
+    <string name="privacy_underlined_label"><u>Privacy Policy</u></string>
+    <string name="feedback_label">Feedback</string>
+    <string name="gallery_label">Gallery</string>
+    <string name="saved_files_label">My Edits</string>
+    <string name="communicate_label">Communicate</string>
+    <string name="language_label">Language</string>
+    <string name="privacy_policy_label">Privacy Policy</string>
+    <string name="more_apps_label">More Apps</string>
+    <string name="collage_header">Collage</string>
+    <string name="cartoon_filters_header">Cartoon Filters</string>
+    <string name="choose_picture_lbl">Choose Picture</string>
+    <string name="cropper_lbl">Crop Image</string>
+    <string name="apply_filter">Apply Filter</string>
+    <string name="internet_con_msg">Please check your internet connection and try again</string>
+    <string name="convert_header">Converting Image</string>
+    <string name="convert_body">Please wait to see the masterpiece</string>
+    <string name="upload_image_message">Please wait while we upload your picture \n to apply the filter.</string>
+    <string name="upload_image_header">Uploading Image</string>
+    <string name="saving_your_image_lbl">Hold on!! \nYour image is being saved!</string>
+    <string name="camera_perm_success_msg">Camera Permission Granted</string>
+    <string name="app_name">CamShot</string>
+    <string name="splash_tag_1">Customize your Picture</string>
+    <string name="splash_tag_2">with </string>
+    <string name="splash_tag_3">Beauty Camera </string>
+    <string name="splash_tag_4">App</string>
+    <string name="continue_label">Continue</string>
+    <string name="loading_ad_label">Loading Ad</string>
+    <string name="agreement_dialog_label">User\'s Agreement</string>
+    <string name="agreement_body_1">We respect your privacy and are committed to protect your personal date safe. For information on the steps we take to protect your privacy and how we use your information, Please review our Privacy Notice.</string>
+    <string name="terms_of_service_1">I accept the</string>
+    <string name="terms_of_service_2"><u>Terms of Service</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Agree & Continue]]></string>
+    <string name="saved_label">Saved</string>
+    <string name="saved_body">Your image has been saved successfully</string>
+    <string name="exit_label">Cancel</string>
+    <string name="exit_lbl">Exit</string>
+    <string name="confirm_exit_label">Confirm Exit?</string>
+    <string name="confirm_exit_body">Are you sure you want to exit?</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="rate_us_label">Rate Us</string>
+    <string name="rate_us_body">We would be very grateful if you could rate us !</string>
+    <string name="skip_label">Skip</string>
+    <string name="on_board_title_1">Cool Filter!</string>
+    <string name="on_board_description_1">Apply artistic filters and effects to \ngive your photos a unique touch.</string>
+    <string name="on_board_title_2">Explore Stickers!</string>
+    <string name="on_board_description_2">Express yourself by using amazing stickers. \nAdd humor, sentiment, or style to your images.</string>
+    <string name="on_board_title_3">Precise Editing!</string>
+    <string name="on_board_description_3">Fine-tune your images with precision \nusing crop, rotate, and resize options.</string>
+    <string name="waring_out_of_memory">Not enough memory. Please remove images or your program will be crashed.!!!</string>
+    <string name="txt_share">Let your true colors shine though Our: Photo editor &amp; collage maker.</string>
+    <string name="monthly_body">You save 20%</string>
+    <string name="reset_image_body">Are you sure you want to reset image?</string>
+
+    <string name="contrast_lbl">Contrast</string>
+    <string name="fade_lbl">Fade</string>
+    <string name="tone_lbl">Tone</string>
+    <string name="grain_lbl">Grain</string>
+    <string name="convex_lbl">Convex</string>
+    <string name="exposure_lbl">Exposure</string>
+    <string name="ambiance_lbl">Ambiance</string>
+    <string name="vig_lbl">Vignette</string>
+    <string name="sharpen_lbl">Sharpen</string>
+    <string name="temp_lbl">Temperature</string>
+    <string name="vib_lbl">Vibrance</string>
+    <string name="sat_lbl">Saturation</string>
+    <string name="skintone_lbl">Skintone</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Normal</string>
+    <string name="effect_lighten">Lighten</string>
+    <string name="effect_screen">Screen</string>
+    <string name="effect_colorDodge">Color Dodge</string>
+    <string name="effect_linearBurn">Linear Burn</string>
+    <string name="effect_darken">Darken</string>
+    <string name="effect_multiply">Multiply</string>
+    <string name="effect_overlay">Overlay</string>
+    <string name="effect_hardLight">Hard Light</string>
+    <string name="effect_exclusion">Exclusion</string>
+    <string name="effect_difference">Difference</string>
+    <string name="effect_divide">Divide</string>
+    <string name="original_lbl">Original</string>
+    <string name="free_lbl">Free</string>
+    <string name="image_size_msg">Image size is too large, please try again with an image of smaller size</string>
+    <string name="privacy_body">Airport flights status is centered on guaranteeing your security. We needn\'t bother with the customer to give any up close and personal or restricted information and don\'t assemble it during the use of the application. We are committed to protecting your policy. Our guiding principle toward data collection is to collect only the minimal data required to operate a world-class app service at scale. We want you to understand what information we collect, what we don\’t collect, and how we collect, use, and store information.</string>
+    <string name="privacy_body_new">Our basic belief toward data grouping is to assemble only the irrelevant data expected to work for a world-class application organization at scale. We need you to appreciate what information we assemble, what we don\'t accumulate, and how we assemble, use, and store information. We don\'t assemble logs of your activity, including no logging of scrutinizing history, traffic objective, or DNS requests. We in like manner never store affiliation logs, i.e., any logs of your IP address, your dynamic IP address, affiliation timestamp, or meeting term. We arranged our systems not to have delicate data about you; regardless, when compelled, we can\'t give data that we don\'t have. This Privacy Policy depicts how Airport flights status and its accomplices ("Airport flights status," "we," "our" or "us") assemble, use, and offer information with respect to your usage of our organizations, and applications (overall, the "Organizations"). This Privacy Policy (the "Insurance Policy") doesn\'t make a difference to the information you may deal with while using our Services.</string>
+
+    <string name="bg_remover_lbl">Background Remover</string>
+    <string name="bg_remover_msg">Witness the magic of our AI Background Remover</string>
+    <string name="bg_remover_ai">AI Background Remover</string>
+    <string name="all_features_lbl">All Features</string>
+    <string name="filters_lbl">Filters</string>
+    <string name="crop_lbl">Crop</string>
+    <string name="adjust_lbl">Adjust</string>
+    <string name="blur_lbl">Blur</string>
+    <string name="splash_lbl">Splash</string>
+    <string name="overlay_lbl">Overlay</string>
+    <string name="brush_lbl">Brush</string>
+    <string name="stickers_lbl">Stickers</string>
+    <string name="text_lbl">Text</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="ai_lbl" translatable="false">AI</string>
+    <string name="lifetime_lbl">Lifetime</string>
+    <string name="yearly_lbl">Yearly</string>
+    <string name="lifetime_payment_body">Lifetime Payment of $500</string>
+    <string name="monthly_payment_body">Monthly Payment of $15</string>
+    <string name="yearly_payment_body">Yearly Payment of $50</string>
+    <string name="coming_soon_msg">Coming Soon!!</string>
+    <string name="edit_image_lbl">Edit Image</string>
+
+
+</resources>

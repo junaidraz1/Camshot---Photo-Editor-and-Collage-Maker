@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>자르기</item>
+        <item>필터</item>
+        <item>효과</item>
+        <item>조정</item>
+        <item>HSL</item>
+        <item>레이어</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>색상1</item>
+        <item>색상2</item>
+        <item>듀오</item>
+        <item>핑크</item>
+        <item>신선한</item>
+        <item>유럽식</item>
+        <item>어두운</item>
+        <item>인스</item>
+        <item>우아한</item>
+        <item>황금빛</item>
+        <item>색조</item>
+        <item>필름</item>
+        <item>로모</item>
+        <item>영화</item>
+        <item>레트로</item>
+        <item>흑백</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>빛1</item>
+        <item>빛2</item>
+        <item>축제</item>
+        <item>사랑</item>
+        <item>프리즘</item>
+        <item>네온</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>먼지</item>
+        <item>얼룩</item>
+        <item>빈티지</item>
+        <item>긁힘</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>눈</item>
+        <item>구름</item>
+        <item>안개</item>
+        <item>햇빛</item>
+    </string-array>
+
+    <string name="background_image">배경 이미지</string>
+    <string name="light_effect">빛 효과</string>
+    <string name="resize">크기 조정</string>
+    <string name="rotate">회전</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">자르기</string>
+    <string name="vertical">수직</string>
+    <string name="horizontal">수평</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">닫기</string>
+    <string name="done">완료</string>
+    <string name="blend">혼합</string>
+    <string name="effect">효과</string>
+    <string name="light">빛</string>
+    <string name="texture">질감</string>
+    <string name="weather">날씨</string>
+    <string name="gallery">갤러리</string>
+    <string name="hue">색조</string>
+    <string name="saturation">채도</string>
+    <string name="brightness">밝기</string>
+    <string name="icon">아이콘</string>
+    <string name="text">텍스트</string>
+    <string name="sticker">스티커</string>
+    <string name="border">테두리</string>
+    <string name="black_icon">검정 아이콘</string>
+    <string name="border_blur">테두리 흐림</string>
+    <string name="done_save">완료|저장</string>
+    <string name="reset">초기화</string>
+    <string name="welcome">💕💕💕와 함께 만들었습니다</string>
+    <string name="login_email_hint">이메일</string>
+    <string name="login_password_hint">비밀번호</string>
+
+    <string name="signup_login_hint">이미 계정이 있으신가요? 로그인</string>
+    <string name="login_signup_hint">계정이 없으신가요? 가입하기</string>
+    <string name="login_name_hint">이름</string>
+    <string name="login_mobile_number_hint">휴대전화 번호</string>
+    <string name="password">암호</string>
+    <string name="email_address">이메일 주소</string>
+    <string name="register1">가입하기</string>
+    <string name="login">로그인</string>
+    <string name="don_t_have_an_account_sign_up">계정이 없으신가요? 가입하기</string>
+    <string name="email">이메일</string>
+    <string name="login2">로그인</string>
+    <string name="have_an_account_login">계정이 있으신가요? 로그인</string>
+    <string name="logout">로그아웃</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="beauty_title">뷰티</string>
+    <string name="remover_title">제거기</string>
+    <string name="collage_title">콜라주</string>
+    <string name="mosaic_title">모자이크</string>
+    <string name="capture_title">고품질 이미지 촬영</string>
+    <string name="iphone_title">아이폰 14 Pro</string>
+    <string name="samsung_title">삼성 S23</string>
+    <string name="nikon_title">니콘 D850</string>
+    <string name="sony_title">소니 \nA7IV</string>
+    <string name="storage_perm_header">사진 액세스</string>
+    <string name="storage_perm_body">갤러리에서 사진에 액세스하려면 권한을 부여하십시오!</string>
+    <string name="storage_perm_txt">액세스 허용</string>
+    <string name="open_settings">설정에서 허용</string>
+    <string name="cam_denied">카메라 액세스 거부됨</string>
+    <string name="noti_msg_body">알림 권한이 거부되었습니다. 설정에서 허용하십시오</string>
+    <string name="top_features_title">우리의 최고 기능</string>
+
+    <string name="select_photos_label">최대 10장의 사진 선택</string>
+    <string name="albums_lbl">앨범 선택</string>
+    <string name="collage_error_msg">콜라주를 만들 사진을 선택하십시오</string>
+    <string name="photos_lbl">사진 선택</string>
+    <string name="flip_label">뒤집기</string>
+    <string name="rotate_label">회전</string>
+    <string name="crop_label">자르기</string>
+    <string name="replace_label">대체</string>
+    <string name="layout_label">레이아웃</string>
+    <string name="border_label">테두리</string>
+    <string name="background_label">배경</string>
+    <string name="save_label">저장</string>
+    <string name="crop_image_lbl">이미지 자르기</string>
+    <string name="collage_label">콜라주 만들기</string>
+    <string name="photos_warning_lbl">%d장의 사진만 필요합니다</string>
+    <string name="next_lbl">다음</string>
+    <string name="share_header">다음으로 공유</string>
+    <string name="save_picture_lbl">사진 저장</string>
+    <string name="insta_msg">이 기기에는 Instagram이 설치되어 있지 않습니다</string>
+    <string name="whatsapp_msg">이 기기에는 WhatsApp이 설치되어 있지 않습니다</string>
+    <string name="facebook_msg">이 기기에는 Facebook이 설치되어 있지 않습니다</string>
+    <string name="share_lbl">공유</string>
+    <string name="cancel_label">취소</string>
+    <string name="share_picture_lbl">사진 공유</string>
+    <string name="share_whatsapp">이 사진을 WhatsApp으로 공유하시겠습니까?</string>
+    <string name="share_facebook">이 사진을 Facebook으로 공유하시겠습니까?</string>
+    <string name="share_instagram">이 사진을 Instagram으로 공유하시겠습니까?</string>
+    <string name="edit_photo_lbl">사진 편집</string>
+    <string name="apply_lbl">적용</string>
+    <string name="revert_changes_lbl">변경 사항 되돌리기</string>
+    <string name="enter_here_hint">여기에 입력</string>
+
+    <string name="done_lbl">추가</string>
+    <string name="changes_appl_lbl">변경 사항 적용됨</string>
+    <string name="select_language_lbl">언어 선택</string>
+    <string name="select_lbl">선택</string>
+    <string name="remove_ads_label">광고 제거</string>
+    <string name="get_features_label">모든 프리미엄 기능 획득</string>
+    <string name="get_filters_label">무제한 필터 획득</string>
+    <string name="vip_channel_label">VIP 전용 채널</string>
+    <string name="premium_plan_lbl">프리미엄 플랜</string>
+    <string name="weekly_lbl">주간</string>
+    <string name="weekly_body">10% 할인</string>
+    <string name="monthly_lbl">월간</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>구독 관리</u></string>
+    <string name="terms_of_use_lbl">이용 약관</string>
+    <string name="privacy_policy_lbl">개인 정보 보호 정책</string>
+    <string name="restore_lbl">복원</string>
+    <string name="filter_to_try_lbl">시도할 필터</string>
+    <string name="before_lbl">이전</string>
+    <string name="after_lbl">이후</string>
+    <string name="try_now_lbl">지금 시도</string>
+    <string name="home_lbl">홈</string>
+    <string name="mine_lbl">내 프로필</string>
+    <string name="camera_lbl">카메라</string>
+    <string name="gallery_lbl">갤러리</string>
+    <string name="collage_lbl">콜라주</string>
+    <string name="no_converted_msg">이런! 아직 편집하고 저장한 사진이 없는 것 같습니다.</string>
+    <string name="saved_lbl">저장됨</string>
+    <string name="delete_label">삭제</string>
+    <string name="rename_label">이름 바꾸기</string>
+
+    <string name="rename_file_label">파일 이름 바꾸기</string>
+    <string name="con_error_msg">오류가 발생했습니다! 잠시 후 다시 시도해주세요</string>
+    <string name="ok_label">확인</string>
+    <string name="enter_name_label">이름 입력</string>
+    <string name="duplicate_name">중복된 이미지 이름입니다. 다른 이름을 선택해 주세요</string>
+    <string name="retry_label">다시 시도</string>
+    <string name="overwrite_label">덮어쓰기</string>
+    <string name="overwrite_body1">이 사진이 이미 존재합니다.</string>
+    <string name="overwrite_body2"> 이름, 덮어쓰기를 하면 기존 이미지가 삭제됩니다. 덮어쓰시겠습니까?</string>
+    <string name="rename_err_msg">이름을 비워둘 수 없습니다!</string>
+    <string name="name_update">이름이 업데이트되었습니다</string>
+    <string name="ad_label">광고</string>
+    <string name="del_img_header">이미지 삭제</string>
+    <string name="del_img_msg">변환된 이미지를 삭제하시겠습니까?</string>
+    <string name="del_img_success_msg">사진이 성공적으로 삭제되었습니다</string>
+    <string name="image_deleted_label">이미지 삭제됨</string>
+    <string name="image_deleted_msg">이미지가 성공적으로 삭제되었습니다</string>
+    <string name="general_label">일반</string>
+    <string name="rate_us_msg">Play 스토어에서 평가를 통해 다른 사용자에게 추천해 주세요</string>
+    <string name="app_ver_label">앱 버전: </string>
+    <string name="device_info_label">장치 정보:</string>
+    <string name="os_ver_label">OS 버전: </string>
+    <string name="api_level_label">OS API 레벨: </string>
+    <string name="dev_label">장치: </string>
+    <string name="model_label">모델 (및 제품): </string>
+    <string name="feedback_msg">아래에 피드백을 작성해주세요</string>
+    <string name="share_title">사진 편집기</string>
+    <string name="share_body">최고의 사진 편집 앱을 추천합니다. 지금 시도해보세요!</string>
+    <string name="no_email_txt">이메일을 보낼 앱을 찾을 수 없습니다</string>
+    <string name="user_agreement_para1">당사는 활동에 대한 로그를 수집하지 않으며, 탐색 기록, 트래픽 대상 또는 DNS 쿼리 로그도 수집하지 않습니다. 또한 연결 로그를 저장하지 않으며, 즉 IP 주소, 발신 IP 주소, 연결 타임스탬프 또는 세션 지속 시간의 로그를 수집하지 않습니다. 우리는 시스템을 설계하여 귀하에 대한 민감한 데이터가 없도록 했습니다. 강요를 받을 때라도 소유하지 않은 데이터는 제공할 수 없습니다.</string>
+
+    <string name="details_label">더 많은 정보는 당사의</string>
+    <string name="privacy_underlined_label"><u>개인 정보 보호 정책</u></string>
+    <string name="feedback_label">피드백</string>
+    <string name="gallery_label">갤러리</string>
+    <string name="saved_files_label">내 편집</string>
+    <string name="communicate_label">연락처</string>
+    <string name="language_label">언어</string>
+    <string name="privacy_policy_label">개인 정보 보호 정책</string>
+    <string name="more_apps_label">더 많은 앱</string>
+    <string name="collage_header">콜라주</string>
+    <string name="cartoon_filters_header">만화 필터</string>
+    <string name="choose_picture_lbl">사진 선택</string>
+    <string name="cropper_lbl">이미지 자르기</string>
+    <string name="apply_filter">필터 적용</string>
+    <string name="internet_con_msg">인터넷 연결을 확인하고 다시 시도해주세요</string>
+    <string name="convert_header">이미지 변환 중</string>
+    <string name="convert_body">마스터피스를 보려면 잠시 기다려주세요</string>
+    <string name="upload_image_message">필터 적용을 위해 사진을 업로드하는 동안 잠시 기다려주세요.</string>
+    <string name="upload_image_header">이미지 업로드 중</string>
+    <string name="saving_your_image_lbl">잠시만 기다려주세요! \n이미지가 저장 중입니다!</string>
+    <string name="camera_perm_success_msg">카메라 권한 허용됨</string>
+    <string name="app_name">사진 편집기</string>
+    <string name="splash_tag_1">사진을 맞춤형으로 만들어보세요</string>
+    <string name="splash_tag_2"> </string>
+    <string name="splash_tag_3">뷰티 카메라 앱</string>
+    <string name="splash_tag_4">로</string>
+    <string name="continue_label">계속</string>
+    <string name="loading_ad_label">광고 로딩 중</string>
+    <string name="agreement_dialog_label">사용자 동의서</string>
+    <string name="agreement_body_1">당사는 귀하의 개인 정보를 존중하며 개인 데이터를 안전하게 보호하기 위해 노력하고 있습니다. 개인 정보 보호 및 정보 사용 방법에 대한 자세한 정보는 개인 정보 보호 공지를 확인해주세요.</string>
+    <string name="terms_of_service_1">저는</string>
+    <string name="terms_of_service_2"><u>서비스 약관</u></string>를 수락합니다.
+
+    <string name="agreement_btn_label"><![CDATA[동의하고 계속]]></string>
+    <string name="saved_label">저장됨</string>
+    <string name="saved_body">이미지가 성공적으로 저장되었습니다</string>
+    <string name="exit_label">취소</string>
+    <string name="exit_lbl">나가기</string>
+    <string name="confirm_exit_label">나가시겠습니까?</string>
+    <string name="confirm_exit_body">정말로 나가시겠습니까?</string>
+    <string name="confirm_label">확인</string>
+    <string name="rate_us_label">평가하기</string>
+    <string name="rate_us_body">평가해 주시면 감사하겠습니다!</string>
+    <string name="skip_label">건너뛰기</string>
+    <string name="on_board_title_1">멋진 필터!</string>
+    <string name="on_board_description_1">아티스틱 필터와 효과를 적용하여 \n사진에 독특한 터치를 부여하세요.</string>
+    <string name="on_board_title_2">스티커 탐구!</string>
+    <string name="on_board_description_2">놀라운 스티커를 사용하여 자신을 표현하세요. \n이미지에 유머, 감정 또는 스타일을 추가하세요.</string>
+    <string name="on_board_title_3">정밀한 편집!</string>
+    <string name="on_board_description_3">자르기, 회전 및 크기 조절 옵션을 사용하여 정밀하게 이미지를 조정하세요.</string>
+    <string name="waring_out_of_memory">충분한 메모리가 없습니다. 이미지를 제거하지 않으면 프로그램이 충돌할 수 있습니다.!!!</string>
+    <string name="txt_share">진정한 색깔을 뽐내세요. 당사의: 사진 편집기 &amp; 콜라주 메이커를 통해.</string>
+    <string name="monthly_body">20% 할인됩니다</string>
+    <string name="reset_image_body">이미지를 재설정하시겠습니까?</string>
+
+    <string name="contrast_lbl">대비</string>
+    <string name="fade_lbl">페이드</string>
+    <string name="tone_lbl">톤</string>
+    <string name="grain_lbl">곡물</string>
+    <string name="convex_lbl">볼록</string>
+    <string name="exposure_lbl">노출</string>
+    <string name="ambiance_lbl">분위기</string>
+    <string name="vig_lbl">비네트</string>
+    <string name="sharpen_lbl">날카로움</string>
+    <string name="temp_lbl">온도</string>
+    <string name="vib_lbl">진한 정도</string>
+    <string name="sat_lbl">채도</string>
+    <string name="skintone_lbl">피부톤</string>
+
+    <string name="effect_alpha">알파</string>
+    <string name="effect_normal">보통</string>
+    <string name="effect_lighten">밝게</string>
+    <string name="effect_screen">스크린</string>
+    <string name="effect_colorDodge">컬러 도지</string>
+    <string name="effect_linearBurn">선형 연소</string>
+    <string name="effect_darken">어둡게</string>
+    <string name="effect_multiply">곱하기</string>
+    <string name="effect_overlay">오버레이</string>
+    <string name="effect_hardLight">강렬한 빛</string>
+    <string name="effect_exclusion">배제</string>
+    <string name="effect_difference">차이</string>
+    <string name="effect_divide">나누기</string>
+
+    <string name="original_lbl">원본</string>
+    <string name="free_lbl">무료</string>
+    <string name="image_size_msg">이미지 크기가 너무 큽니다. 더 작은 크기의 이미지로 다시 시도하세요</string>
+    <string name="privacy_body">공항 항공편 상태는 당신의 개인 정보 보호에 중점을 두고 있습니다. 고객에게 개인 정보나 제한된 정보를 제공할 필요가 없으며, 응용 프로그램 사용 중에 이러한 정보를 수집하지 않습니다. 당사는 귀하의 개인 정보를 보호하기 위해 약속드립니다. 데이터 수집에 대한 당사의 가이드 원칙은 대규모로 세계적인 앱 서비스를 운영하는 데 필요한 최소한의 데이터만 수집하는 것입니다. 어떤 정보를 수집하고 수집하지 않는지, 정보를 어떻게 수집하고 사용하며 저장하는지 이해하실 것을 바랍니다.</string>
+    <string name="privacy_body_new">데이터 수집에 대한 당사의 기본 신념은 대규모 세계 클래스 앱 서비스를 운영하는 데 필요한 관련성이 없는 데이터만 수집하는 것입니다. 어떤 정보를 수집하고 수집하지 않는지, 정보를 어떻게 수집하고 사용하며 저장하는지 이해하실 것을 바랍니다. 활동 로그, 브라우징 기록, 트래픽 목적지 또는 DNS 요청을 포함한 활동의 로그를 수집하지 않습니다. 또한 IP 주소, 활성 IP 주소, 연결 타임 스탬프 또는 세션 기간과 관련된 연결 로그도 저장하지 않습니다. 당사는 귀하에 대한 민감한 정보가 없도록 시스템을 설계했지만, 강제적으로 정보를 제공할 때, 갖고 있지 않은 정보를 제공할 수 없습니다. 본 개인 정보 보호 정책은 공항 항공편 상태와 그 협력 업체 ("공항 항공편 상태," "우리," "당사" 또는 "우리"라고 함)가 당사의 서비스 및 앱을 이용하는 데 관한 정보를 수집, 사용 및 공유하는 방식에 대해 설명합니다. 본 개인 정보 보호 정책(개인 정보 보호 정책이라고 함)은 당사의 서비스를 이용하는 동안 처리하실 정보에는 적용되지 않습니다.</string>
+    <string name="bg_remover_lbl">배경 제거기</string>
+    <string name="bg_remover_msg">우리의 AI 배경 제거기의 마법 presença로 트리아</string>
+    <string name="bg_remover_ai">AI 배경 제거기</string>
+    <string name="all_features_lbl">모든 기능</string>
+    <string name="filters_lbl">필터</string>
+    <string name="crop_lbl">자르기</string>
+    <string name="adjust_lbl">조정</string>
+    <string name="blur_lbl">흐리게 하기</string>
+    <string name="splash_lbl">스플래시</string>
+    <string name="overlay_lbl">오버레이</string>
+    <string name="brush_lbl">브러시</string>
+    <string name="stickers_lbl">스티커</string>
+    <string name="text_lbl">텍스트</string>
+    <string name="pro_lbl">프로</string>
+    <string name="lifetime_lbl">평생</string>
+    <string name="yearly_lbl">매년</string>
+    <string name="lifetime_payment_body">$500의 평생 결제</string>
+    <string name="monthly_payment_body">$15의 월간 결제</string>
+    <string name="yearly_payment_body">$50의 연간 결제</string>
+    <string name="coming_soon_msg">곧 공개 예정입니다!!</string>
+
+</resources>

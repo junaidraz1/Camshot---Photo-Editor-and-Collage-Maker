@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>Potong</item>
+        <item>Filter</item>
+        <item>Efek</item>
+        <item>Atur</item>
+        <item>HSL</item>
+        <item>Lapisan</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Warna1</item>
+        <item>Warna2</item>
+        <item>Duo</item>
+        <item>Merah Muda</item>
+        <item>Segar</item>
+        <item>Euro</item>
+        <item>Gelap</item>
+        <item>Ins</item>
+        <item>Elegan</item>
+        <item>Emas</item>
+        <item>Warna Tint</item>
+        <item>Film</item>
+        <item>Lomo</item>
+        <item>Film</item>
+        <item>Retro</item>
+        <item>Hitam Putih</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Cahaya1</item>
+        <item>Cahaya2</item>
+        <item>Festival</item>
+        <item>Cinta</item>
+        <item>Prisma</item>
+        <item>Neon</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Debu</item>
+        <item>Noda</item>
+        <item>Vintage</item>
+        <item>Goresan</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Salju</item>
+        <item>Awan</item>
+        <item>Kabut</item>
+        <item>Sinar Matahari</item>
+    </string-array>
+
+    <string name="background_image">Gambar Latar</string>
+    <string name="light_effect">Efek Cahaya</string>
+    <string name="resize">Ubah Ukuran</string>
+    <string name="rotate">Putar</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Potong</string>
+    <string name="vertical">Vertikal</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Tutup</string>
+    <string name="done">Selesai</string>
+    <string name="blend">Campur</string>
+    <string name="effect">Efek</string>
+    <string name="light">Cahaya</string>
+    <string name="texture">Tekstur</string>
+    <string name="weather">Cuaca</string>
+    <string name="gallery">Galeri</string>
+    <string name="hue">HUE</string>
+    <string name="saturation">SATURASI</string>
+    <string name="brightness">KECERAHAN</string>
+    <string name="icon">Ikon</string>
+    <string name="text">Teks</string>
+    <string name="sticker">Stiker</string>
+    <string name="border">Batas</string>
+    <string name="black_icon">Ikon Hitam</string>
+    <string name="border_blur">Batas Kabur</string>
+    <string name="done_save">Selesai|Simpan</string>
+    <string name="reset">Atur Ulang</string>
+    <string name="welcome">Dibuat dengan 💕💕💕</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Kata Sandi</string>
+
+    <string name="signup_login_hint">Sudah memiliki akun? Masuk</string>
+    <string name="login_signup_hint">Belum memiliki akun? Daftar</string>
+    <string name="login_name_hint">Nama</string>
+    <string name="login_mobile_number_hint">Nomor HP</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email_address">Alamat Email</string>
+    <string name="register1">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="don_t_have_an_account_sign_up">Belum punya akun? Daftar</string>
+    <string name="email">Email</string>
+    <string name="login2">Masuk</string>
+    <string name="have_an_account_login">Sudah punya akun? Masuk</string>
+    <string name="logout">Keluar</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="beauty_title">Kecantikan</string>
+    <string name="remover_title">Penghapus</string>
+    <string name="collage_title">Kolase</string>
+    <string name="mosaic_title">Mosaik</string>
+    <string name="capture_title">Ambil Gambar Berkualitas Tinggi</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Akses ke Foto</string>
+    <string name="storage_perm_body">Izinkan akses ke foto dari galeri di sini!</string>
+    <string name="storage_perm_txt">Izinkan Akses</string>
+    <string name="open_settings">Izinkan dari Pengaturan</string>
+    <string name="cam_denied">Akses Kamera Ditolak</string>
+    <string name="noti_msg_body">Izin pemberitahuan ditolak. Izinkan dari pengaturan</string>
+    <string name="top_features_title">Fitur Unggulan Kami</string>
+
+    <string name="select_photos_label">Pilih hingga 10 foto</string>
+    <string name="albums_lbl">Pilih Album</string>
+    <string name="collage_error_msg">Harap pilih foto untuk membuat kolase</string>
+    <string name="photos_lbl">Pilih Foto</string>
+    <string name="flip_label">Balik</string>
+    <string name="rotate_label">Putar</string>
+    <string name="crop_label">Potong</string>
+    <string name="replace_label">Ganti</string>
+    <string name="layout_label">Tata Letak</string>
+    <string name="border_label">Batas</string>
+    <string name="background_label">Latar Belakang</string>
+    <string name="save_label">Simpan</string>
+    <string name="crop_image_lbl">Potong Gambar</string>
+    <string name="collage_label">Buat Kolase</string>
+    <string name="photos_warning_lbl">Anda hanya memerlukan %d foto</string>
+    <string name="next_lbl">Selanjutnya</string>
+    <string name="share_header">Bagikan melalui</string>
+    <string name="save_picture_lbl">Simpan Gambar</string>
+    <string name="insta_msg">Instagram tidak terinstal di perangkat ini</string>
+    <string name="whatsapp_msg">WhatsApp tidak terinstal di perangkat ini</string>
+    <string name="facebook_msg">Facebook tidak terinstal di perangkat ini</string>
+    <string name="share_lbl">Bagikan</string>
+    <string name="cancel_label">Batal</string>
+    <string name="share_picture_lbl">Bagikan Gambar</string>
+    <string name="share_whatsapp">Apakah Anda ingin membagikan gambar ini ke WhatsApp?</string>
+    <string name="share_facebook">Apakah Anda ingin membagikan gambar ini ke Facebook?</string>
+    <string name="share_instagram">Apakah Anda ingin membagikan gambar ini ke Instagram?</string>
+    <string name="edit_photo_lbl">Edit Foto</string>
+    <string name="apply_lbl">Terapkan</string>
+    <string name="revert_changes_lbl">Batal Perubahan</string>
+    <string name="enter_here_hint">Masukkan di sini</string>
+
+    <string name="done_lbl">Tambah</string>
+    <string name="changes_appl_lbl">Perubahan Terapkan</string>
+    <string name="select_language_lbl">Pilih Bahasa</string>
+    <string name="select_lbl">Pilih</string>
+    <string name="remove_ads_label">Hapus Iklan</string>
+    <string name="get_features_label">Dapatkan Semua Fitur Premium</string>
+    <string name="get_filters_label">Dapatkan Filter Tanpa Batas</string>
+    <string name="vip_channel_label">Kanal Eksklusif VIP</string>
+    <string name="premium_plan_lbl">Paket Premium</string>
+    <string name="weekly_lbl">Mingguan</string>
+    <string name="weekly_body">Anda hemat 10%</string>
+    <string name="monthly_lbl">Bulanan</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Kelola Langganan</u></string>
+    <string name="terms_of_use_lbl">Syarat Penggu</string>
+    <string name="privacy_policy_lbl">Kebijakan Privasi</string>
+    <string name="restore_lbl">Kembalikan</string>
+    <string name="filter_to_try_lbl">Coba Filter</string>
+    <string name="before_lbl">Sebelum</string>
+    <string name="after_lbl">Setelah</string>
+    <string name="try_now_lbl">Coba Sekarang</string>
+    <string name="home_lbl">Beranda</string>
+    <string name="mine_lbl">Milik Saya</string>
+    <string name="camera_lbl">Kamera</string>
+    <string name="gallery_lbl">Galeri</string>
+    <string name="collage_lbl">Kolase</string>
+    <string name="no_converted_msg">Ups! Sepertinya Anda belum mengedit dan menyimpan gambar apa pun.</string>
+    <string name="saved_lbl">Tersimpan</string>
+    <string name="delete_label">Hapus</string>
+    <string name="rename_label">Ganti Nama</string>
+
+    <string name="rename_file_label">Ganti Nama Berkas</string>
+    <string name="con_error_msg">Terjadi kesalahan! Silakan coba lagi setelah beberapa saat</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Masukkan Nama</string>
+    <string name="duplicate_name">Nama gambar sudah ada. Harap pilih nama yang berbeda</string>
+    <string name="retry_label">Coba Lagi</string>
+    <string name="overwrite_label">Timpa</string>
+    <string name="overwrite_body1">Gambar sudah ada dengan nama ini</string>
+    <string name="overwrite_body2">, menimpanya akan menghapus gambar yang sudah ada. Apakah Anda ingin menimpanya?</string>
+    <string name="rename_err_msg">Nama tidak boleh kosong!</string>
+    <string name="name_update">Nama Diperbarui</string>
+    <string name="ad_label">Iklan</string>
+    <string name="del_img_header">Hapus Gambar</string>
+    <string name="del_img_msg">Apakah Anda ingin menghapus gambar yang sudah dikonversi ini?</string>
+    <string name="del_img_success_msg">Gambar berhasil dihapus</string>
+    <string name="image_deleted_label">Gambar Dihapus</string>
+    <string name="image_deleted_msg">Gambar berhasil dihapus</string>
+    <string name="general_label">Umum</string>
+    <string name="rate_us_msg">Rekomendasikan kami kepada orang lain dengan memberi peringkat di Play Store</string>
+    <string name="app_ver_label">Versi Aplikasi: </string>
+    <string name="device_info_label">Info Perangkat:</string>
+    <string name="os_ver_label">Versi OS: </string>
+    <string name="api_level_label">Tingkat API OS: </string>
+    <string name="dev_label">Perangkat: </string>
+    <string name="model_label">Model (dan Produk): </string>
+    <string name="feedback_msg">Silakan tulis masukan Anda di bawah</string>
+    <string name="share_title">Editor Foto</string>
+    <string name="share_body">Izinkan saya merekomendasikan aplikasi Editor Foto terbaik kepada Anda. Coba sekarang!</string>
+    <string name="no_email_txt">Tidak ditemukan aplikasi untuk mengirim email</string>
+    <string name="user_agreement_para1">Kami tidak mengumpulkan log aktivitas Anda, termasuk tidak ada pencatatan riwayat penjelajahan, tujuan lalu lintas, atau pertanyaan DNS. Kami juga tidak pernah menyimpan log koneksi, yaitu tidak ada log alamat IP Anda, alamat IP keluar Anda, timestamp koneksi, atau durasi sesi. Kami merancang sistem kami agar tidak memiliki data sensitif tentang Anda; bahkan jika dipaksa, kami tidak dapat memberikan data yang tidak kami miliki.</string>
+
+    <string name="details_label">Untuk informasi lebih lanjut, kunjungi</string>
+    <string name="privacy_underlined_label"><u>Kebijakan Privasi</u></string>
+    <string name="feedback_label">Masukan</string>
+    <string name="gallery_label">Galeri</string>
+    <string name="saved_files_label">Edit Saya</string>
+    <string name="communicate_label">Komunikasi</string>
+    <string name="language_label">Bahasa</string>
+    <string name="privacy_policy_label">Kebijakan Privasi</string>
+    <string name="more_apps_label">Aplikasi Lainnya</string>
+    <string name="collage_header">Kolase</string>
+    <string name="cartoon_filters_header">Filter Kartun</string>
+    <string name="choose_picture_lbl">Pilih Gambar</string>
+    <string name="cropper_lbl">Potong Gambar</string>
+    <string name="apply_filter">Terapkan Filter</string>
+    <string name="internet_con_msg">Harap periksa koneksi internet Anda dan coba lagi</string>
+    <string name="convert_header">Mengonversi Gambar</string>
+    <string name="convert_body">Harap tunggu untuk melihat karya seni</string>
+    <string name="upload_image_message">Harap tunggu sementara kami mengunggah gambar Anda\nuntuk menerapkan filter.</string>
+    <string name="upload_image_header">Mengunggah Gambar</string>
+    <string name="saving_your_image_lbl">Tunggu sebentar!!\nGambar Anda sedang disimpan!</string>
+    <string name="camera_perm_success_msg">Izin Kamera Diberikan</string>
+    <string name="app_name">Editor Foto</string>
+    <string name="splash_tag_1">Kustomisasi gambar Anda</string>
+    <string name="splash_tag_2">dengan</string>
+    <string name="splash_tag_3">Kamera Kecantikan</string>
+    <string name="splash_tag_4">Aplikasi</string>
+    <string name="continue_label">Lanjutkan</string>
+    <string name="loading_ad_label">Memuat Iklan</string>
+    <string name="agreement_dialog_label">Perjanjian Pengguna</string>
+    <string name="agreement_body_1">Kami menghormati privasi Anda dan berkomitmen untuk melindungi data pribadi Anda. Untuk informasi tentang langkah-langkah yang kami ambil untuk melindungi privasi Anda dan bagaimana kami menggunakan informasi Anda, harap tinjau Pemberitahuan Privasi kami.</string>
+    <string name="terms_of_service_1">Saya menerima</string>
+    <string name="terms_of_service_2"><u>Syarat Penggunaan</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Setuju & Lanjutkan]]></string>
+    <string name="saved_label">Tersimpan</string>
+    <string name="saved_body">Gambar Anda telah disimpan dengan sukses</string>
+    <string name="exit_label">Batal</string>
+    <string name="exit_lbl">Keluar</string>
+    <string name="confirm_exit_label">Konfirmasi Keluar?</string>
+    <string name="confirm_exit_body">Apakah Anda yakin ingin keluar?</string>
+    <string name="confirm_label">Konfirmasi</string>
+    <string name="rate_us_label">Beri Peringkat Kami</string>
+    <string name="rate_us_body">Kami akan sangat berterima kasih jika Anda memberi peringkat kepada kami!</string>
+    <string name="skip_label">Lewati</string>
+    <string name="on_board_title_1">Filter Keren!</string>
+    <string name="on_board_description_1">Terapkan filter seni dan efek untuk memberi sentuhan unik pada foto Anda.</string>
+    <string name="on_board_title_2">Jelajahi Stiker!</string>
+    <string name="on_board_description_2">Ekspresikan diri Anda dengan menggunakan stiker menakjubkan. Tambahkan humor, perasaan, atau gaya ke gambar Anda.</string>
+    <string name="on_board_title_3">Pengeditan Tepat!</string>
+    <string name="on_board_description_3">Perhalus gambar Anda dengan presisi menggunakan opsi potong, putar, dan ubah ukuran.</string>
+    <string name="waring_out_of_memory">Tidak cukup memori. Harap hapus gambar atau program Anda akan terhenti!!!</string>
+    <string name="txt_share">Biarkan warna asli Anda bersinar melalui Aplikasi Kami: Editor foto &amp; pembuat kolase.</string>
+    <string name="monthly_body">Anda hemat 20%</string>
+    <string name="reset_image_body">Apakah Anda yakin ingin mereset gambar?</string>
+
+    <string name="contrast_lbl">Kontras</string>
+    <string name="fade_lbl">Pudar</string>
+    <string name="tone_lbl">Tone</string>
+    <string name="grain_lbl">Butiran</string>
+    <string name="convex_lbl">Cembung</string>
+    <string name="exposure_lbl">Pemaparan</string>
+    <string name="ambiance_lbl">Suasana</string>
+    <string name="vig_lbl">Vignet</string>
+    <string name="sharpen_lbl">Mempertajam</string>
+    <string name="temp_lbl">Suhu</string>
+    <string name="vib_lbl">Getaran</string>
+    <string name="sat_lbl">Saturasi</string>
+    <string name="skintone_lbl">Tone Kulit</string>
+
+    <string name="effect_alpha">Alpha</string>
+    <string name="effect_normal">Normal</string>
+    <string name="effect_lighten">Terang</string>
+    <string name="effect_screen">Layar</string>
+    <string name="effect_colorDodge">Warna Dodge</string>
+    <string name="effect_linearBurn">Pembakaran Linier</string>
+    <string name="effect_darken">Gelap</string>
+    <string name="effect_multiply">Kalikan</string>
+    <string name="effect_overlay">Tumpang Tindih</string>
+    <string name="effect_hardLight">Cahaya Kuat</string>
+    <string name="effect_exclusion">Pengecualian</string>
+    <string name="effect_difference">Perbedaan</string>
+    <string name="effect_divide">Bagi</string>
+
+    <string name="original_lbl">Asli</string>
+    <string name="free_lbl">Gratis</string>
+    <string name="image_size_msg">Ukuran gambar terlalu besar, coba lagi dengan gambar yang lebih kecil</string>
+    <string name="privacy_body">Status penerbangan di bandara difokuskan pada menjamin privasi Anda. Kami tidak memerlukan pelanggan untuk memberikan informasi pribadi atau terbatas, dan kami tidak mengumpulkannya selama penggunaan aplikasi. Kami berkomitmen untuk melindungi privasi Anda. Prinsip panduan kami dalam pengumpulan data adalah untuk mengumpulkan hanya data minimum yang diperlukan untuk mengoperasikan layanan aplikasi kelas dunia dalam skala besar. Kami ingin Anda memahami informasi apa yang kami kumpulkan, informasi apa yang tidak kami kumpulkan, dan bagaimana kami mengumpulkan, menggunakan, dan menyimpan informasi.</string>
+    <string name="privacy_body_new">Keyakinan mendasar kami dalam pengumpulan data adalah mengumpulkan hanya data yang tidak relevan yang diperlukan untuk mengoperasikan layanan aplikasi kelas dunia dalam skala besar. Kami ingin Anda memahami informasi apa yang kami kumpulkan, informasi apa yang tidak kami kumpulkan, dan bagaimana kami mengumpulkan, menggunakan, dan menyimpan informasi. Kami tidak mengumpulkan log aktivitas Anda, termasuk tidak ada pencatatan riwayat penjelajahan, tujuan lalu lintas, atau permintaan DNS. Kami juga tidak pernah menyimpan log koneksi, seperti log alamat IP Anda, alamat IP aktif Anda, penanda waktu koneksi, atau durasi sesi. Kami merancang sistem kami untuk tidak memiliki data sensitif tentang Anda; namun, ketika terpaksa, kami tidak dapat memberikan informasi yang tidak kami miliki. Kebijakan Privasi ini menjelaskan bagaimana status penerbangan di bandara dan mitra-mitra kami ("status penerbangan di bandara," "kami," "kami" atau "kami") mengumpulkan, menggunakan, dan berbagi informasi mengenai penggunaan layanan dan aplikasi kami (secara keseluruhan, "Layanan"). Kebijakan Privasi ini (Kebijakan Perlindungan Privasi) tidak berlaku untuk informasi yang mungkin Anda proses saat menggunakan Layanan kami.</string>
+    <string name="bg_remover_lbl">Penghapus Latar Belakang</string>
+    <string name="bg_remover_msg">Saksikan keajaiban Penghapus Latar Belakang AI kami</string>
+    <string name="bg_remover_ai">Penghapus Latar Belakang AI</string>
+    <string name="all_features_lbl">Semua Fitur</string>
+    <string name="filters_lbl">Filter</string>
+    <string name="crop_lbl">Potong</string>
+    <string name="adjust_lbl">Atur</string>
+    <string name="blur_lbl">Berkabut</string>
+    <string name="splash_lbl">Percikan</string>
+    <string name="overlay_lbl">Lapisan</string>
+    <string name="brush_lbl">Kuas</string>
+    <string name="stickers_lbl">Stiker</string>
+    <string name="text_lbl">Teks</string>
+    <string name="pro_lbl">Pro</string>
+    <string name="lifetime_lbl">Seumur Hidup</string>
+    <string name="yearly_lbl">Tahunan</string>
+    <string name="lifetime_payment_body">Pembayaran Seumur Hidup $500</string>
+    <string name="monthly_payment_body">Pembayaran Bulanan $15</string>
+    <string name="yearly_payment_body">Pembayaran Tahunan $50</string>
+    <string name="coming_soon_msg">Segera hadir!!</string>
+
+</resources>

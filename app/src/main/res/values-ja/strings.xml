@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>トリミング</item>
+        <item>フィルター</item>
+        <item>エフェクト</item>
+        <item>調整</item>
+        <item>HSL</item>
+        <item>レイヤー</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>カラー1</item>
+        <item>カラー2</item>
+        <item>デュオ</item>
+        <item>ピンク</item>
+        <item>フレッシュ</item>
+        <item>ユーロ</item>
+        <item>ダーク</item>
+        <item>インス</item>
+        <item>エレガント</item>
+        <item>ゴールデン</item>
+        <item>ティント</item>
+        <item>フィルム</item>
+        <item>ロモ</item>
+        <item>ムービー</item>
+        <item>レトロ</item>
+        <item>白黒</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>ライト1</item>
+        <item>ライト2</item>
+        <item>フェスティバル</item>
+        <item>ラブ</item>
+        <item>プリズム</item>
+        <item>ネオン</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>ほこり</item>
+        <item>しみ</item>
+        <item>ヴィンテージ</item>
+        <item>傷</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>雪</item>
+        <item>雲</item>
+        <item>霧</item>
+        <item>陽光</item>
+    </string-array>
+
+    <string name="background_image">背景画像</string>
+    <string name="light_effect">ライトエフェクト</string>
+    <string name="resize">リサイズ</string>
+    <string name="rotate">回転</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">トリミング</string>
+    <string name="vertical">垂直</string>
+    <string name="horizontal">水平</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">閉じる</string>
+    <string name="done">完了</string>
+    <string name="blend">ブレンド</string>
+    <string name="effect">エフェクト</string>
+    <string name="light">ライト</string>
+    <string name="texture">テクスチャ</string>
+    <string name="weather">天候</string>
+    <string name="gallery">ギャラリー</string>
+    <string name="hue">色相</string>
+    <string name="saturation">彩度</string>
+    <string name="brightness">明るさ</string>
+    <string name="icon">アイコン</string>
+    <string name="text">テキスト</string>
+    <string name="sticker">ステッカー</string>
+    <string name="border">ボーダー</string>
+    <string name="black_icon">黒アイコン</string>
+    <string name="border_blur">ボーダーぼかし</string>
+    <string name="done_save">完了|保存</string>
+    <string name="reset">リセット</string>
+    <string name="welcome">💕💕💕で作成</string>
+    <string name="login_email_hint">メール</string>
+    <string name="login_password_hint">パスワード</string>
+
+    <string name="signup_login_hint">すでにアカウントをお持ちですか？ サインイン</string>
+    <string name="login_signup_hint">アカウントをお持ちでない場合は、サインアップ</string>
+    <string name="login_name_hint">名前</string>
+    <string name="login_mobile_number_hint">携帯番号</string>
+    <string name="password">パスワード</string>
+    <string name="email_address">メールアドレス</string>
+    <string name="register1">サインアップ</string>
+    <string name="login">ログイン</string>
+    <string name="don_t_have_an_account_sign_up">アカウントをお持ちでない場合は、サインアップ</string>
+    <string name="email">メール</string>
+    <string name="login2">ログイン</string>
+    <string name="have_an_account_login">アカウントをお持ちですか？ ログイン</string>
+    <string name="logout">ログアウト</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="beauty_title">美容</string>
+    <string name="remover_title">除去</string>
+    <string name="collage_title">コラージュ</string>
+    <string name="mosaic_title">モザイク</string>
+    <string name="capture_title">高品質な画像のキャプチャ</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">写真へのアクセス</string>
+    <string name="storage_perm_body">ギャラリーから写真にアクセスする許可を付与してください。</string>
+    <string name="storage_perm_txt">アクセスを許可</string>
+    <string name="open_settings">設定から許可</string>
+    <string name="cam_denied">カメラアクセスが拒否されました</string>
+    <string name="noti_msg_body">通知の許可が拒否されました。設定から許可してください</string>
+    <string name="top_features_title">私たちのトップ機能</string>
+
+    <string name="select_photos_label">最大10枚の写真を選択</string>
+    <string name="albums_lbl">アルバムを選択</string>
+    <string name="collage_error_msg">コラージュを作成するために写真を選択してください</string>
+    <string name="photos_lbl">写真を選択</string>
+    <string name="flip_label">反転</string>
+    <string name="rotate_label">回転</string>
+    <string name="crop_label">トリミング</string>
+    <string name="replace_label">置き換え</string>
+    <string name="layout_label">レイアウト</string>
+    <string name="border_label">ボーダー</string>
+    <string name="background_label">背景</string>
+    <string name="save_label">保存</string>
+    <string name="crop_image_lbl">画像をトリミング</string>
+    <string name="collage_label">コラージュを作成</string>
+    <string name="photos_warning_lbl">%d枚の写真だけが必要です</string>
+    <string name="next_lbl">次へ</string>
+    <string name="share_header">共有先</string>
+    <string name="save_picture_lbl">画像を保存</string>
+    <string name="insta_msg">Instagramはこのデバイスにインストールされていません</string>
+    <string name="whatsapp_msg">WhatsAppはこのデバイスにインストールされていません</string>
+    <string name="facebook_msg">Facebookはこのデバイスにインストールされていません</string>
+    <string name="share_lbl">共有</string>
+    <string name="cancel_label">キャンセル</string>
+    <string name="share_picture_lbl">画像を共有</string>
+    <string name="share_whatsapp">この画像をWhatsAppで共有しますか？</string>
+    <string name="share_facebook">この画像をFacebookで共有しますか？</string>
+    <string name="share_instagram">この画像をInstagramで共有しますか？</string>
+    <string name="edit_photo_lbl">写真を編集</string>
+    <string name="apply_lbl">適用</string>
+    <string name="revert_changes_lbl">変更を元に戻す</string>
+    <string name="enter_here_hint">ここに入力</string>
+
+    <string name="done_lbl">追加</string>
+    <string name="changes_appl_lbl">変更が適用されました</string>
+    <string name="select_language_lbl">言語を選択</string>
+    <string name="select_lbl">選択</string>
+    <string name="remove_ads_label">広告を削除</string>
+    <string name="get_features_label">プレミアム機能をすべて取得</string>
+    <string name="get_filters_label">無制限のフィルターを取得</string>
+    <string name="vip_channel_label">VIP専用チャンネル</string>
+    <string name="premium_plan_lbl">プレミアムプラン</string>
+    <string name="weekly_lbl">週間</string>
+    <string name="weekly_body">10%節約</string>
+    <string name="monthly_lbl">月間</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>サブスクリプションの管理</u></string>
+    <string name="terms_of_use_lbl">利用規約</string>
+    <string name="privacy_policy_lbl">プライバシーポリシー</string>
+    <string name="restore_lbl">復元</string>
+    <string name="filter_to_try_lbl">試すフィルター</string>
+    <string name="before_lbl">前</string>
+    <string name="after_lbl">後</string>
+    <string name="try_now_lbl">今すぐ試す</string>
+    <string name="home_lbl">ホーム</string>
+    <string name="mine_lbl">マイページ</string>
+    <string name="camera_lbl">カメラ</string>
+    <string name="gallery_lbl">ギャラリー</string>
+    <string name="collage_lbl">コラージュ</string>
+    <string name="no_converted_msg">おっと！まだ編集して保存した写真がないようです。</string>
+    <string name="saved_lbl">保存済み</string>
+    <string name="delete_label">削除</string>
+    <string name="rename_label">名前の変更</string>
+
+    <string name="rename_file_label">ファイルの名前を変更</string>
+    <string name="con_error_msg">エラーが発生しました！数分後に再試行してください</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">名前を入力</string>
+    <string name="duplicate_name">重複した画像名です。異なる名前を選択してください</string>
+    <string name="retry_label">再試行</string>
+    <string name="overwrite_label">上書き</string>
+    <string name="overwrite_body1">これにはすでに画像が存在します</string>
+    <string name="overwrite_body2">名前の画像が既に存在しています。上書きすると既存の画像が削除されます。上書きしますか？</string>
+    <string name="rename_err_msg">名前は空白にできません！</string>
+    <string name="name_update">名前が更新されました</string>
+    <string name="ad_label">広告</string>
+    <string name="del_img_header">画像を削除</string>
+    <string name="del_img_msg">この変換された画像を削除しますか？</string>
+    <string name="del_img_success_msg">写真が正常に削除されました</string>
+    <string name="image_deleted_label">画像が削除されました</string>
+    <string name="image_deleted_msg">画像が正常に削除されました</string>
+    <string name="general_label">一般</string>
+    <string name="rate_us_msg">Google Playストアで評価して他のユーザーにおすすめしてください</string>
+    <string name="app_ver_label">アプリバージョン: </string>
+    <string name="device_info_label">デバイス情報:</string>
+    <string name="os_ver_label">OSバージョン: </string>
+    <string name="api_level_label">OS APIレベル: </string>
+    <string name="dev_label">デバイス: </string>
+    <string name="model_label">モデル（および製品）: </string>
+    <string name="feedback_msg">以下にフィードバックを書いてください</string>
+    <string name="share_title">フォトエディター</string>
+    <string name="share_body">最高のフォトエディターアプリをお勧めします。今すぐ試してみてください！</string>
+    <string name="no_email_txt">メールを送信するアプリが見つかりません</string>
+    <string name="user_agreement_para1">私たちはアクティビティのログを収集しません。ブラウジング履歴、トラフィックの宛先、DNSクエリのログも記録しません。接続ログも保存せず、IPアドレス、送信IPアドレス、接続のタイムスタンプ、セッションの期間のログも記録しません。私たちのシステムは、あなたに関する機密データを持たないように設計されています。強制されても、私たちが持っていないデータを提供することはできません。</string>
+
+    <string name="details_label">詳細については、弊社の</string>
+    <string name="privacy_underlined_label"><u>プライバシーポリシー</u></string>
+    <string name="feedback_label">フィードバック</string>
+    <string name="gallery_label">ギャラリー</string>
+    <string name="saved_files_label">マイ編集</string>
+    <string name="communicate_label">コミュニケーション</string>
+    <string name="language_label">言語</string>
+    <string name="privacy_policy_label">プライバシーポリシー</string>
+    <string name="more_apps_label">その他のアプリ</string>
+    <string name="collage_header">コラージュ</string>
+    <string name="cartoon_filters_header">カートゥーンフィルター</string>
+    <string name="choose_picture_lbl">画像を選択</string>
+    <string name="cropper_lbl">画像のトリミング</string>
+    <string name="apply_filter">フィルターを適用</string>
+    <string name="internet_con_msg">インターネット接続を確認して、もう一度お試しください</string>
+    <string name="convert_header">画像の変換</string>
+    <string name="convert_body">傑作を見るまでお待ちください</string>
+    <string name="upload_image_message">フィルターを適用するために画像をアップロードしています。お待ちください。</string>
+    <string name="upload_image_header">画像のアップロード</string>
+    <string name="saving_your_image_lbl">お待ちください！\n画像を保存中です！</string>
+    <string name="camera_perm_success_msg">カメラの許可が付与されました</string>
+    <string name="app_name">フォトエディター</string>
+    <string name="splash_tag_1">写真をカスタマイズ</string>
+    <string name="splash_tag_2">美容カメラアプリ</string>
+    <string name="splash_tag_3">美容カメラ</string>
+    <string name="splash_tag_4">編集</string>
+    <string name="continue_label">続行</string>
+    <string name="loading_ad_label">広告を読み込み中</string>
+    <string name="agreement_dialog_label">ユーザー規約</string>
+    <string name="agreement_body_1">私たちはプライバシーを尊重し、個人データを安全に保護することを約束しています。プライバシーを保護し、情報の使用方法についての詳細については、弊社のプライバシーに関する通知をご確認ください。</string>
+    <string name="terms_of_service_1">私は</string>
+    <string name="terms_of_service_2"><u>利用規約</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[同意して続行]]></string>
+    <string name="saved_label">保存済み</string>
+    <string name="saved_body">画像は正常に保存されました</string>
+    <string name="exit_label">キャンセル</string>
+    <string name="exit_lbl">終了</string>
+    <string name="confirm_exit_label">終了の確認</string>
+    <string name="confirm_exit_body">本当に終了しますか？</string>
+    <string name="confirm_label">確認</string>
+    <string name="rate_us_label">評価</string>
+    <string name="rate_us_body">評価していただければ非常に感謝します！</string>
+    <string name="skip_label">スキップ</string>
+    <string name="on_board_title_1">クールなフィルター！</string>
+    <string name="on_board_description_1">アートフィルターや効果を適用して、写真に独自のタッチを加えます。</string>
+    <string name="on_board_title_2">ステッカーを探索！</string>
+    <string name="on_board_description_2">素晴らしいステッカーを使って自己表現。画像にユーモア、感情、スタイルを追加します。</string>
+    <string name="on_board_title_3">精密な編集！</string>
+    <string name="on_board_description_3">トリミング、回転、リサイズオプションを使用して、画像を細かく調整します。</string>
+    <string name="waring_out_of_memory">メモリが不足しています。画像を削除するか、プログラムがクラッシュします。!!!</string>
+    <string name="txt_share">真の色を輝かせるために、当社の写真エディター＆コラージュメーカーをご利用ください。</string>
+    <string name="monthly_body">20%割引</string>
+    <string name="reset_image_body">画像をリセットしてもよろしいですか？</string>
+
+    <string name="contrast_lbl">コントラスト</string>
+    <string name="fade_lbl">フェード</string>
+    <string name="tone_lbl">トーン</string>
+    <string name="grain_lbl">粒子</string>
+    <string name="convex_lbl">凹凸</string>
+    <string name="exposure_lbl">露出</string>
+    <string name="ambiance_lbl">雰囲気</string>
+    <string name="vig_lbl">ビネット</string>
+    <string name="sharpen_lbl">シャープ</string>
+    <string name="temp_lbl">温度</string>
+    <string name="vib_lbl">ビヴィブリアンス</string>
+    <string name="sat_lbl">彩度</string>
+    <string name="skintone_lbl">肌のトーン</string>
+
+    <string name="effect_alpha">アルファ</string>
+    <string name="effect_normal">ノーマル</string>
+    <string name="effect_lighten">明るくする</string>
+    <string name="effect_screen">スクリーン</string>
+    <string name="effect_colorDodge">カラードッジ</string>
+    <string name="effect_linearBurn">線形バーン</string>
+    <string name="effect_darken">暗くする</string>
+    <string name="effect_multiply">乗算</string>
+    <string name="effect_overlay">オーバーレイ</string>
+    <string name="effect_hardLight">ハードライト</string>
+    <string name="effect_exclusion">除外</string>
+    <string name="effect_difference">差分</string>
+    <string name="effect_divide">分割</string>
+
+    <string name="original_lbl">オリジナル</string>
+    <string name="free_lbl">無料</string>
+    <string name="image_size_msg">画像のサイズが大きすぎます。サイズが小さい画像で再試行してください</string>
+    <string name="privacy_body">空港のフライトステータスは、あなたのプライバシーを保証することに焦点を当てています。顧客に個人情報や制限された情報を提供する必要はありませんし、アプリの使用中にそれらを収集しません。私たちはあなたのプライバシーを保護することにコミットしています。データ収集に関する私たちの指針は、世界クラスのアプリケーションサービスを大規模に運用するために必要な最小限のデータのみを収集することです。私たちはどの情報を収集し、収集しないか、情報をどのように収集し、使用し、保存するかを理解していただきたいのです。</string>
+    <string name="privacy_body_new">データ収集に関する私たちの基本的な信念は、大規模なワールドクラスのアプリケーションサービスを運用するために必要な関連性のないデータのみを収集することです。私たちはどの情報を収集し、収集しないか、情報をどのように収集し、使用し、保存するかを理解していただきたいのです。活動のログ、ブラウジング履歴の記録、トラフィックの宛先、DNSリクエストなど、あなたの活動に関するログは収集しません。また、IPアドレス、アクティブIPアドレス、接続のタイムスタンプ、セッションの期間などの接続ログも保存しません。私たちはあなたに関する機密情報を保有しないようにシステムを設計していますが、必要に応じて私たちが持っていない情報を提供することはできません。このプライバシーポリシーでは、空港のフライトステータスとその提携先（以下、"空港のフライトステータス"、"私たち"、"当社"、"我々"などといいます）が、サービスおよびアプリケーションのご利用に関連する情報を収集し、利用し、共有する方法について説明しています。このプライバシーポリシー（以下、"プライバシーポリシー"）は、弊社のサービスを利用する際にお客様が処理する情報には適用されません。</string>
+    <string name="bg_remover_lbl">背景除去</string>
+    <string name="bg_remover_msg">弊社のAI背景除去の魔法をご覧ください</string>
+    <string name="bg_remover_ai">AI背景除去</string>
+    <string name="all_features_lbl">すべての機能</string>
+    <string name="filters_lbl">フィルター</string>
+    <string name="crop_lbl">トリミング</string>
+    <string name="adjust_lbl">調整</string>
+    <string name="blur_lbl">ぼかし</string>
+    <string name="splash_lbl">スプラッシュ</string>
+    <string name="overlay_lbl">オーバーレイ</string>
+    <string name="brush_lbl">ブラシ</string>
+    <string name="stickers_lbl">ステッカー</string>
+    <string name="text_lbl">テキスト</string>
+    <string name="pro_lbl">プロ</string>
+    <string name="lifetime_lbl">終身</string>
+    <string name="yearly_lbl">年間</string>
+    <string name="lifetime_payment_body">$500の終身支払い</string>
+    <string name="monthly_payment_body">$15の月額支払い</string>
+    <string name="yearly_payment_body">$50の年間支払い</string>
+    <string name="coming_soon_msg">近日公開予定！！</string>
+
+</resources>

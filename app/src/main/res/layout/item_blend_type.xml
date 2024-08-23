@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_adjust"
+    android:layout_width="@dimen/_70sdp"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/_5sdp"
+    android:layout_marginEnd="@dimen/_3sdp"
+    android:orientation="vertical"
+    android:layoutDirection="locale"
+    android:padding="@dimen/_3sdp">
+
+    <TextView
+        android:id="@+id/text_blend_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:fontFamily="@font/poppins_regular"
+        android:gravity="center"
+        android:lines="1"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_10ssp" />
+
+</RelativeLayout>

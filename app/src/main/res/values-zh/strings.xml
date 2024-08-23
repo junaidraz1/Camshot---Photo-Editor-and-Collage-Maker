@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_options">
+        <item>裁剪</item>
+        <item>滤镜</item>
+        <item>特效</item>
+        <item>调整</item>
+        <item>HSL</item>
+        <item>图层</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>颜色1</item>
+        <item>颜色2</item>
+        <item>复古</item>
+        <item>粉色</item>
+        <item>清新</item>
+        <item>欧洲</item>
+        <item>深色</item>
+        <item>模仿社交媒体应用</item>
+        <item>高雅</item>
+        <item>金色</item>
+        <item>色调</item>
+        <item>电影胶片</item>
+        <item>洛摩</item>
+        <item>电影</item>
+        <item>复古</item>
+        <item>黑白</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>灯光1</item>
+        <item>灯光2</item>
+        <item>节日</item>
+        <item>爱情</item>
+        <item>棱镜</item>
+        <item>霓虹</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>尘埃</item>
+        <item>污点</item>
+        <item>复古</item>
+        <item>划痕</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>雪</item>
+        <item>云</item>
+        <item>雾</item>
+        <item>阳光</item>
+    </string-array>
+
+    <string name="background_image">背景图片</string>
+    <string name="light_effect">光效</string>
+    <string name="resize">调整大小</string>
+    <string name="rotate">旋转</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">裁剪</string>
+    <string name="vertical">垂直</string>
+    <string name="horizontal">水平</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">关闭</string>
+    <string name="done">完成</string>
+    <string name="blend">混合</string>
+    <string name="effect">特效</string>
+    <string name="light">光</string>
+    <string name="texture">纹理</string>
+    <string name="weather">天气</string>
+    <string name="gallery">图库</string>
+    <string name="hue">色调</string>
+    <string name="saturation">饱和度</string>
+    <string name="brightness">亮度</string>
+    <string name="icon">图标</string>
+    <string name="text">文本</string>
+    <string name="sticker">贴纸</string>
+    <string name="border">边框</string>
+    <string name="black_icon">黑色图标</string>
+    <string name="border_blur">边框模糊</string>
+    <string name="done_save">完成|保存</string>
+    <string name="reset">重置</string>
+    <string name="welcome">制作于 💕💕💕</string>
+    <string name="login_email_hint">电子邮件</string>
+    <string name="login_password_hint">密码</string>
+
+    <string name="signup_login_hint">已经有帐户？登录</string>
+    <string name="login_signup_hint">还没有帐户？注册</string>
+    <string name="login_name_hint">姓名</string>
+    <string name="login_mobile_number_hint">手机号码</string>
+    <string name="password">密码</string>
+    <string name="email_address">电子邮件地址</string>
+    <string name="register1">注册</string>
+    <string name="login">登录</string>
+    <string name="don_t_have_an_account_sign_up">还没有帐户？注册</string>
+    <string name="email">电子邮件</string>
+    <string name="login2">登录</string>
+    <string name="have_an_account_login">已经有帐户？登录</string>
+    <string name="logout">登出</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="beauty_title">美颜</string>
+    <string name="remover_title">去除器</string>
+    <string name="collage_title">拼贴</string>
+    <string name="mosaic_title">马赛克</string>
+    <string name="capture_title">拍摄高质量照片</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">三星 S23</string>
+    <string name="nikon_title">尼康 D850</string>
+    <string name="sony_title">索尼 \nA7IV</string>
+    <string name="storage_perm_header">访问照片</string>
+    <string name="storage_perm_body">允许访问相册中的照片！</string>
+    <string name="storage_perm_txt">允许访问</string>
+    <string name="open_settings">从设置中允许</string>
+    <string name="cam_denied">相机访问被拒绝</string>
+    <string name="noti_msg_body">通知权限被拒绝。请从设置中允许。</string>
+    <string name="top_features_title">我们的顶级功能</string>
+
+    <string name="select_photos_label">选择最多 10 张照片</string>
+    <string name="albums_lbl">选择相册</string>
+    <string name="collage_error_msg">请先选择照片以创建拼贴</string>
+    <string name="photos_lbl">选择照片</string>
+    <string name="flip_label">翻转</string>
+    <string name="rotate_label">旋转</string>
+    <string name="crop_label">裁剪</string>
+    <string name="replace_label">替换</string>
+    <string name="layout_label">布局</string>
+    <string name="border_label">边框</string>
+    <string name="background_label">背景</string>
+    <string name="save_label">保存</string>
+    <string name="crop_image_lbl">裁剪图片</string>
+    <string name="collage_label">创建拼贴</string>
+    <string name="photos_warning_lbl">您只需要 %d 张照片</string>
+    <string name="next_lbl">下一步</string>
+    <string name="share_header">分享方式</string>
+    <string name="save_picture_lbl">保存图片</string>
+    <string name="insta_msg">Instagram 未安装在此设备上</string>
+    <string name="whatsapp_msg">WhatsApp 未安装在此设备上</string>
+    <string name="facebook_msg">Facebook 未安装在此设备上</string>
+    <string name="share_lbl">分享</string>
+    <string name="cancel_label">取消</string>
+    <string name="share_picture_lbl">分享图片</string>
+    <string name="share_whatsapp">您是否要将此图片分享到 WhatsApp？</string>
+    <string name="share_facebook">您是否要将此图片分享到 Facebook？</string>
+    <string name="share_instagram">您是否要将此图片分享到 Instagram？</string>
+    <string name="edit_photo_lbl">编辑照片</string>
+    <string name="apply_lbl">应用</string>
+    <string name="revert_changes_lbl">恢复更改</string>
+    <string name="enter_here_hint">在此输入</string>
+
+    <string name="done_lbl">添加</string>
+    <string name="changes_appl_lbl">已应用更改</string>
+    <string name="select_language_lbl">选择语言</string>
+    <string name="select_lbl">选择</string>
+    <string name="remove_ads_label">移除广告</string>
+    <string name="get_features_label">获取所有高级功能</string>
+    <string name="get_filters_label">获取无限滤镜</string>
+    <string name="vip_channel_label">VIP 专属频道</string>
+    <string name="premium_plan_lbl">高级计划</string>
+    <string name="weekly_lbl">每周</string>
+    <string name="weekly_body">您可节省 10%</string>
+    <string name="monthly_lbl">每月</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>管理订阅</u></string>
+    <string name="terms_of_use_lbl">使用条款</string>
+    <string name="privacy_policy_lbl">隐私政策</string>
+    <string name="restore_lbl">恢复</string>
+    <string name="filter_to_try_lbl">试用滤镜</string>
+    <string name="before_lbl">之前</string>
+    <string name="after_lbl">之后</string>
+    <string name="try_now_lbl">立即试用</string>
+    <string name="home_lbl">首页</string>
+    <string name="mine_lbl">我的</string>
+    <string name="camera_lbl">相机</string>
+    <string name="gallery_lbl">相册</string>
+    <string name="collage_lbl">拼贴</string>
+    <string name="no_converted_msg">哎呀！看起来您尚未编辑并保存任何照片。</string>
+    <string name="saved_lbl">已保存</string>
+    <string name="delete_label">删除</string>
+    <string name="rename_label">重命名</string>
+
+    <string name="rename_file_label">重命名文件</string>
+    <string name="con_error_msg">发生错误！请稍后重试</string>
+    <string name="ok_label">确定</string>
+    <string name="enter_name_label">输入名称</string>
+    <string name="duplicate_name">重复的图片名称。请选择不同的名称</string>
+    <string name="retry_label">重试</string>
+    <string name="overwrite_label">覆盖</string>
+    <string name="overwrite_body1">该名称的图片已存在</string>
+    <string name="overwrite_body2">，覆盖它将删除现有的图片。您是否要覆盖它？</string>
+    <string name="rename_err_msg">名称不能为空！</string>
+    <string name="name_update">名称已更新</string>
+    <string name="ad_label">广告</string>
+    <string name="del_img_header">删除图片</string>
+    <string name="del_img_msg">您是否要删除此转换后的图片？</string>
+    <string name="del_img_success_msg">图片删除成功</string>
+    <string name="image_deleted_label">图片已删除</string>
+    <string name="image_deleted_msg">图片删除成功</string>
+    <string name="general_label">通用</string>
+    <string name="rate_us_msg">通过在应用商店评分来向其他人推荐我们</string>
+    <string name="app_ver_label">应用版本： </string>
+    <string name="device_info_label">设备信息：</string>
+    <string name="os_ver_label">操作系统版本： </string>
+    <string name="api_level_label">操作系统 API 级别： </string>
+    <string name="dev_label">设备： </string>
+    <string name="model_label">型号（和产品）： </string>
+    <string name="feedback_msg">请在下面写下您的反馈</string>
+    <string name="share_title">照片编辑器</string>
+    <string name="share_body">让我向您推荐最好的照片编辑器应用。立即尝试吧！</string>
+    <string name="no_email_txt">未找到发送电子邮件的应用</string>
+    <string name="user_agreement_para1">我们不会收集您的活动日志，包括不记录浏览历史、流量目标或 DNS 查询。我们也不会存储连接日志，即不会记录您的 IP 地址、出站 IP 地址、连接时间戳或会话持续时间。我们的系统设计成不拥有有关您的敏感数据；即使被迫，我们也不能提供我们不拥有的数据。</string>
+
+    <string name="details_label">了解更多，请访问我们的</string>
+    <string name="privacy_underlined_label"><u>隐私政策</u></string>
+    <string name="feedback_label">反馈</string>
+    <string name="gallery_label">相册</string>
+    <string name="saved_files_label">我的编辑</string>
+    <string name="communicate_label">联系</string>
+    <string name="language_label">语言</string>
+    <string name="privacy_policy_label">隐私政策</string>
+    <string name="more_apps_label">更多应用</string>
+    <string name="collage_header">拼贴</string>
+    <string name="cartoon_filters_header">卡通滤镜</string>
+    <string name="choose_picture_lbl">选择图片</string>
+    <string name="cropper_lbl">裁剪图片</string>
+    <string name="apply_filter">应用滤镜</string>
+    <string name="internet_con_msg">请检查您的互联网连接并重试</string>
+    <string name="convert_header">正在转换图片</string>
+    <string name="convert_body">请等待，欣赏杰作</string>
+    <string name="upload_image_message">请稍等，我们正在上传您的图片以应用滤镜。</string>
+    <string name="upload_image_header">正在上传图片</string>
+    <string name="saving_your_image_lbl">稍等！\n您的图片正在保存中！</string>
+    <string name="camera_perm_success_msg">相机权限已授予</string>
+    <string name="app_name">照片编辑器</string>
+    <string name="splash_tag_1">自定义您的图片</string>
+    <string name="splash_tag_2">使用 </string>
+    <string name="splash_tag_3">美颜相机 </string>
+    <string name="splash_tag_4">应用</string>
+    <string name="continue_label">继续</string>
+    <string name="loading_ad_label">加载广告</string>
+    <string name="agreement_dialog_label">用户协议</string>
+    <string name="agreement_body_1">我们尊重您的隐私，致力于保护您的个人数据。关于我们采取的保护隐私措施以及我们如何使用您的信息的信息，请查看我们的隐私声明。</string>
+    <string name="terms_of_service_1">我接受</string>
+    <string name="terms_of_service_2"><u>服务条款</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[同意并继续]]></string>
+    <string name="saved_label">已保存</string>
+    <string name="saved_body">您的图片已成功保存</string>
+    <string name="exit_label">取消</string>
+    <string name="exit_lbl">退出</string>
+    <string name="confirm_exit_label">确认退出？</string>
+    <string name="confirm_exit_body">您确定要退出吗？</string>
+    <string name="confirm_label">确认</string>
+    <string name="rate_us_label">给我们评分</string>
+    <string name="rate_us_body">如果您能给我们评分，我们将非常感激！</string>
+    <string name="skip_label">跳过</string>
+    <string name="on_board_title_1">酷炫滤镜！</string>
+    <string name="on_board_description_1">应用艺术滤镜和效果，为您的照片添加独特的风格。</string>
+    <string name="on_board_title_2">探索贴纸！</string>
+    <string name="on_board_description_2">使用令人惊叹的贴纸来表达自己。为您的图像增添幽默、情感或风格。</string>
+    <string name="on_board_title_3">精确编辑！</string>
+    <string name="on_board_description_3">使用裁剪、旋转和调整大小选项精细调整您的图像。</string>
+    <string name="waring_out_of_memory">内存不足。请删除图片，否则程序将崩溃！</string>
+    <string name="txt_share">让您真正的色彩在我们的照片编辑器和拼贴制作者中发光。</string>
+    <string name="monthly_body">您可节省 20%</string>
+    <string name="reset_image_body">您确定要重置图像吗？</string>
+
+    <string name="contrast_lbl">对比度</string>
+    <string name="fade_lbl">褪色</string>
+    <string name="tone_lbl">色调</string>
+    <string name="grain_lbl">颗粒度</string>
+    <string name="convex_lbl">凸起</string>
+    <string name="exposure_lbl">曝光</string>
+    <string name="ambiance_lbl">氛围</string>
+    <string name="vig_lbl">晕影</string>
+    <string name="sharpen_lbl">锐化</string>
+    <string name="temp_lbl">色温</string>
+    <string name="vib_lbl">活力</string>
+    <string name="sat_lbl">饱和度</string>
+    <string name="skintone_lbl">肤色</string>
+
+    <string name="effect_alpha">阿爾法</string>
+    <string name="effect_normal">普通的</string>
+    <string name="effect_lighten">减轻</string>
+    <string name="effect_screen">屏幕</string>
+    <string name="effect_colorDodge">颜色减淡</string>
+    <string name="effect_linearBurn">线性烧伤</string>
+    <string name="effect_darken">变暗</string>
+    <string name="effect_multiply">乘</string>
+    <string name="effect_overlay">覆盖</string>
+    <string name="effect_hardLight">强光</string>
+    <string name="effect_exclusion">排除</string>
+    <string name="effect_difference">不同之处</string>
+    <string name="effect_divide">划分</string>
+
+    <string name="original_lbl">原始</string>
+    <string name="free_lbl">免费</string>
+    <string name="image_size_msg">图片尺寸过大，请尝试使用较小的图片再次操作</string>
+    <string name="privacy_body">机场航班状态致力于保障您的隐私。我们不要求客户提供任何个人或受限信息，并不会在应用程序使用过程中收集这些信息。我们承诺保护您的隐私。我们在数据收集方面的指导原则是仅收集运营世界一流应用服务所需的最少数据。我们希望您了解我们收集了哪些信息，我们没有收集哪些信息，以及我们如何收集、使用和存储信息。</string>
+    <string name="privacy_body_new">我们的基本信念是仅收集运营世界一流应用服务所需的无关紧要数据。我们希望您了解我们收集了哪些信息，我们没有收集哪些信息，以及我们如何收集、使用和存储信息。我们不收集您的活动日志，包括不记录浏览历史、流量目标或 DNS 请求。我们也从不存储连接日志，例如不存储您的 IP 地址、活动 IP 地址、连接时间戳或会话时长。我们设计我们的系统不包含有关您的敏感信息；但是，当被迫时，我们无法提供我们没有的信息。本隐私政策描述了机场航班状态及其合作伙伴（以下简称“机场航班状态”，“我们”，“我们的”或“我们”）如何收集、使用和分享有关您使用我们的服务和应用的信息（统称“服务”）。本隐私政策（以下称“隐私政策”）不适用于您使用我们的服务时可能处理的信息。</string>
+    <string name="bg_remover_lbl">背景移除工具</string>
+    <string name="bg_remover_msg">体验我们的AI背景移除工具的魔力</string>
+    <string name="bg_remover_ai">AI背景移除工具</string>
+    <string name="all_features_lbl">所有功能</string>
+    <string name="filters_lbl">滤镜</string>
+    <string name="crop_lbl">裁剪</string>
+    <string name="adjust_lbl">调整</string>
+    <string name="blur_lbl">模糊</string>
+    <string name="splash_lbl">飞溅</string>
+    <string name="overlay_lbl">叠加</string>
+    <string name="brush_lbl">画笔</string>
+    <string name="stickers_lbl">贴纸</string>
+    <string name="text_lbl">文本</string>
+    <string name="pro_lbl">专业版</string>
+    <string name="lifetime_lbl">终身</string>
+    <string name="yearly_lbl">年度</string>
+    <string name="lifetime_payment_body">终身支付 $500</string>
+    <string name="monthly_payment_body">月付 $15</string>
+    <string name="yearly_payment_body">年付 $50</string>
+    <string name="coming_soon_msg">即将上线！！</string>
+
+</resources>

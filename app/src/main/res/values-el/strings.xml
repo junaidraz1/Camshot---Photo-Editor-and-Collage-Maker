@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="text_options">
+        <item>Περικοπή</item>
+        <item>Φίλτρο</item>
+        <item>Εφέ</item>
+        <item>Προσαρμογή</item>
+        <item>HSL</item>
+        <item>Στρώση</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Χρώμα1</item>
+        <item>Χρώμα2</item>
+        <item>Δίδυμο</item>
+        <item>Ροζ</item>
+        <item>Φρέσκο</item>
+        <item>Ευρώ</item>
+        <item>Σκούρο</item>
+        <item>Εφέ Inst</item>
+        <item>Κομψό</item>
+        <item>Χρυσό</item>
+        <item>Χρώμα</item>
+        <item>Ταινία</item>
+        <item>Lomo</item>
+        <item>Ταινία</item>
+        <item>Ρετρό</item>
+        <item>Ασπρόμαυρο</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Φωτεινότητα1</item>
+        <item>Φωτεινότητα2</item>
+        <item>Φεστιβάλ</item>
+        <item>Αγάπη</item>
+        <item>Πρίσμα</item>
+        <item>Νέον</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Σκόνη</item>
+        <item>Λεκέδες</item>
+        <item>Παλαιότητα</item>
+        <item>Γρατζουνιές</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Χιόνι</item>
+        <item>Σύννεφο</item>
+        <item>Ομίχλη</item>
+        <item>Ηλιακό Φως</item>
+    </string-array>
+
+    <string name="background_image">Φόντο Εικόνας</string>
+    <string name="light_effect">Εφέ Φωτός</string>
+    <string name="resize">Αλλαγή Μεγέθους</string>
+    <string name="rotate">Περιστροφή</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Κοπή</string>
+    <string name="vertical">Κατακόρυφα</string>
+    <string name="horizontal">Οριζόντια</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Κλείσιμο</string>
+    <string name="done">Ολοκλήρωση</string>
+    <string name="blend">Ανάμειξη</string>
+    <string name="effect">Εφέ</string>
+    <string name="light">Φως</string>
+    <string name="texture">Υφή</string>
+    <string name="weather">Καιρός</string>
+    <string name="gallery">Γκαλερί</string>
+    <string name="hue">Απόχρωση</string>
+    <string name="saturation">Κορεσμός</string>
+    <string name="brightness">Φωτεινότητα</string>
+    <string name="icon">Εικονίδιο</string>
+    <string name="text">Κείμενο</string>
+    <string name="sticker">Αυτοκόλλητο</string>
+    <string name="border">Πλαίσιο</string>
+    <string name="black_icon">Μαύρο Εικονίδιο</string>
+    <string name="border_blur">Πλαίσιο Θάμβος</string>
+    <string name="done_save">Ολοκλήρωση|Αποθήκευση</string>
+    <string name="reset">Επαναφορά</string>
+    <string name="welcome">Δημιουργήθηκε με 💕💕💕</string>
+    <string name="login_email_hint">Ηλεκτρονικό Ταχυδρομείο</string>
+    <string name="login_password_hint">Κωδικός πρόσβασης</string>
+
+    <string name="signup_login_hint">Έχετε ήδη λογαριασμό; Συνδεθείτε</string>
+    <string name="login_signup_hint">Δεν έχετε λογαριασμό; Εγγραφείτε</string>
+    <string name="login_name_hint">Όνομα</string>
+    <string name="login_mobile_number_hint">Αριθμός Κινητού</string>
+    <string name="password">Κωδικός πρόσβασης</string>
+    <string name="email_address">Διεύθυνση Email</string>
+    <string name="register1">Εγγραφή</string>
+    <string name="login">Σύνδεση</string>
+    <string name="don_t_have_an_account_sign_up">Δεν έχετε λογαριασμό; Εγγραφείτε</string>
+    <string name="email">Email</string>
+    <string name="login2">Σύνδεση</string>
+    <string name="have_an_account_login">Έχετε λογαριασμό; Σύνδεση</string>
+    <string name="logout">Αποσύνδεση</string>
+    <string name="yes">Ναι</string>
+    <string name="no">Όχι</string>
+    <string name="beauty_title">Ομορφιά</string>
+    <string name="remover_title">Αφαίρεση</string>
+    <string name="collage_title">Κολάζ</string>
+    <string name="mosaic_title">Μωσαϊκό</string>
+    <string name="capture_title">Λήψη Εικόνων Υψηλής Ποιότητας</string>
+    <string name="iphone_title">iPhone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Πρόσβαση στις Φωτογραφίες</string>
+    <string name="storage_perm_body">Χορήγηση άδειας πρόσβασης στις φωτογραφίες από την γκαλερί εδώ!</string>
+    <string name="storage_perm_txt">Να επιτρέπεται η πρόσβαση</string>
+    <string name="open_settings">Επιτρέπεται από τις ρυθμίσεις</string>
+    <string name="cam_denied">Απόρριψη πρόσβασης στην κάμερα</string>
+    <string name="noti_msg_body">Απόρριψη δικαιώματος ειδοποιήσεων. Επιτρέψτε από τις ρυθμίσεις</string>
+    <string name="top_features_title">Οι κορυφαίες μας λειτουργίες</string>
+
+    <string name="select_photos_label">Επιλέξτε έως 10 φωτογραφίες</string>
+    <string name="albums_lbl">Επιλογή Άλμπουμ</string>
+    <string name="collage_error_msg">Επιλέξτε φωτογραφίες για να δημιουργήσετε κολάζ</string>
+    <string name="photos_lbl">Επιλογή Φωτογραφιών</string>
+    <string name="flip_label">Αναστροφή</string>
+    <string name="rotate_label">Περιστροφή</string>
+    <string name="crop_label">Περικοπή</string>
+    <string name="replace_label">Αντικατάσταση</string>
+    <string name="layout_label">Διάταξη</string>
+    <string name="border_label">Πλαίσιο</string>
+    <string name="background_label">Φόντο</string>
+    <string name="save_label">Αποθήκευση</string>
+    <string name="crop_image_lbl">Περικοπή Εικόνας</string>
+    <string name="collage_label">Δημιουργία Κολάζ</string>
+    <string name="photos_warning_lbl">Χρειάζεστε μόνο %d φωτογραφία(ες)</string>
+    <string name="next_lbl">Επόμενο</string>
+    <string name="share_header">Κοινοποίηση μέσω</string>
+    <string name="save_picture_lbl">Αποθήκευση Εικόνας</string>
+    <string name="insta_msg">Το Instagram δεν είναι εγκατεστημένο σε αυτή τη συσκευή</string>
+    <string name="whatsapp_msg">Το WhatsApp δεν είναι εγκατεστημένο σε αυτή τη συσκευή</string>
+    <string name="facebook_msg">Το Facebook δεν είναι εγκατεστημένο σε αυτή τη συσκευή</string>
+    <string name="share_lbl">Κοινοποίηση</string>
+    <string name="cancel_label">Ακύρωση</string>
+    <string name="share_picture_lbl">Κοινοποίηση Εικόνας</string>
+    <string name="share_whatsapp">Θέλετε να κοινοποιήσετε αυτή την εικόνα στο WhatsApp;</string>
+    <string name="share_facebook">Θέλετε να κοινοποιήσετε αυτή την εικόνα στο Facebook;</string>
+    <string name="share_instagram">Θέλετε να κοινοποιήσετε αυτή την εικόνα στο Instagram;</string>
+    <string name="edit_photo_lbl">Επεξεργασία Φωτογραφίας</string>
+    <string name="apply_lbl">Εφαρμογή</string>
+    <string name="revert_changes_lbl">Αναίρεση Αλλαγών</string>
+    <string name="enter_here_hint">Εισαγωγή εδώ</string>
+
+    <string name="done_lbl">Προσθήκη</string>
+    <string name="changes_appl_lbl">Οι αλλαγές εφαρμόστηκαν</string>
+    <string name="select_language_lbl">Επιλογή Γλώσσας</string>
+    <string name="select_lbl">Επιλογή</string>
+    <string name="remove_ads_label">Αφαίρεση Διαφημίσεων</string>
+    <string name="get_features_label">Αποκτήστε όλες τις Προχωρημένες Λειτουργίες</string>
+    <string name="get_filters_label">Απεριόριστα Φίλτρα</string>
+    <string name="vip_channel_label">VIP Αποκλειστικό Κανάλι</string>
+    <string name="premium_plan_lbl">Προχωρημένο Πλάνο</string>
+    <string name="weekly_lbl">Εβδομαδιαία</string>
+    <string name="weekly_body">Εξοικονομείτε 10%</string>
+    <string name="monthly_lbl">Μηνιαία</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Διαχείριση Συνδρομής</u></string>
+    <string name="terms_of_use_lbl">Όροι Χρήσης</string>
+    <string name="privacy_policy_lbl">Πολιτική Απορρήτου</string>
+    <string name="restore_lbl">Επαναφορά</string>
+    <string name="filter_to_try_lbl">Δοκιμαστικά Φίλτρα</string>
+    <string name="before_lbl">Πριν</string>
+    <string name="after_lbl">Μετά</string>
+    <string name="try_now_lbl">Δοκιμάστε Τώρα</string>
+    <string name="home_lbl">Αρχική</string>
+    <string name="mine_lbl">Δικά Μου</string>
+    <string name="camera_lbl">Φωτογραφική Μηχανή</string>
+    <string name="gallery_lbl">Γκαλερί</string>
+    <string name="collage_lbl">Κολάζ</string>
+    <string name="no_converted_msg">Όπα! Φαίνεται ότι δεν έχετε επεξεργαστεί και αποθηκεύσει ακόμα καμία φωτογραφία.</string>
+    <string name="saved_lbl">Αποθηκεύτηκε</string>
+    <string name="delete_label">Διαγραφή</string>
+    <string name="rename_label">Μετονομασία</string>
+
+    <string name="rename_file_label">Μετονομασία Αρχείου</string>
+    <string name="con_error_msg">Παρουσιάστηκε σφάλμα! Παρακαλούμε δοκιμάστε ξανά αργότερα</string>
+    <string name="ok_label">Εντάξει</string>
+    <string name="enter_name_label">Εισάγετε Όνομα</string>
+    <string name="duplicate_name">Διπλό όνομα εικόνας. Παρακαλώ επιλέξτε διαφορετικό όνομα</string>
+    <string name="retry_label">Προσπάθεια Ξανά</string>
+    <string name="overwrite_label">Αντικατάσταση</string>
+    <string name="overwrite_body1">Η εικόνα υπάρχει ήδη με αυτό</string>
+    <string name="overwrite_body2">όνομα, η αντικατάσταση της θα διαγράψει την υπάρχουσα εικόνα. Θέλετε να την αντικαταστήσετε?</string>
+    <string name="rename_err_msg">Το όνομα δεν μπορεί να είναι κενό!</string>
+    <string name="name_update">Το όνομα ενημερώθηκε</string>
+    <string name="ad_label">Διαφήμιση</string>
+    <string name="del_img_header">Διαγραφή Εικόνας</string>
+    <string name="del_img_msg">Θέλετε να διαγράψετε αυτήν τη μετατραπείσα εικόνα;</string>
+    <string name="del_img_success_msg">Η φωτογραφία διαγράφηκε με επιτυχία</string>
+    <string name="image_deleted_label">Εικόνα Διαγράφηκε</string>
+    <string name="image_deleted_msg">Η εικόνα διαγράφηκε με επιτυχία</string>
+    <string name="general_label">Γενικές Ρυθμίσεις</string>
+    <string name="rate_us_msg">Προτείνετε μας σε άλλους αξιολογώντας μας στο Play Store</string>
+    <string name="app_ver_label">Έκδοση Εφαρμογής: </string>
+    <string name="device_info_label">Πληροφορίες Συσκευής:</string>
+    <string name="os_ver_label">Έκδοση Λειτουργικού Συστήματος: </string>
+    <string name="api_level_label">Επίπεδο API Λειτουργικού Συστήματος: </string>
+    <string name="dev_label">Συσκευή: </string>
+    <string name="model_label">Μοντέλο (και Προϊόν): </string>
+    <string name="feedback_msg">Παρακαλώ γράψτε τα σχόλιά σας παρακάτω</string>
+    <string name="share_title">Επεξεργαστής Φωτογραφιών</string>
+    <string name="share_body">Ας σας προτείνω την καλύτερη εφαρμογή Επεξεργασίας Φωτογραφιών. Δοκιμάστε την τώρα!</string>
+    <string name="no_email_txt">Δεν βρέθηκε εφαρμογή για αποστολή email</string>
+    <string name="user_agreement_para1">Δεν συλλέγουμε καταγραφές της δραστηριότητάς σας, συμπεριλαμβανομένης της καταγραφής της ιστορικής περιήγησης, του προορισμού της κυκλοφορίας ή των αιτημάτων DNS. Δεν αποθηκεύουμε ποτέ καταγραφές σύνδεσης, δηλαδή καταγραφές της διεύθυνσης IP σας, της εξερχόμενης διεύθυνσης IP σας, της χρονοσήμανσης σύνδεσης ή της διάρκειας της συνεδρίας. Σχεδιάσαμε τα συστήματά μας έτσι ώστε να μην έχουν ευαίσθητα δεδομένα για εσάς· ακόμη και όταν είμαστε υποχρεωμένοι, δεν μπορούμε να παρέχουμε δεδομένα που δεν κατέχουμε.</string>
+
+    <string name="details_label">Για περισσότερες πληροφορίες, επισκεφθείτε την</string>
+    <string name="privacy_underlined_label"><u>Πολιτική Απορρήτου</u></string>
+    <string name="feedback_label">Ανατροφοδότηση</string>
+    <string name="gallery_label">Γκαλερί</string>
+    <string name="saved_files_label">Οι Δικές μου Επεξεργασίες</string>
+    <string name="communicate_label">Επικοινωνία</string>
+    <string name="language_label">Γλώσσα</string>
+    <string name="privacy_policy_label">Πολιτική Απορρήτου</string>
+    <string name="more_apps_label">Περισσότερες Εφαρμογές</string>
+    <string name="collage_header">Κολάζ</string>
+    <string name="cartoon_filters_header">Φίλτρα Κινουμένων Σχεδίων</string>
+    <string name="choose_picture_lbl">Επιλέξτε Εικόνα</string>
+    <string name="cropper_lbl">Περικοπή Εικόνας</string>
+    <string name="apply_filter">Εφαρμογή Φίλτρου</string>
+    <string name="internet_con_msg">Παρακαλώ ελέγξτε τη σύνδεσή σας στο internet και προσπαθήστε ξανά</string>
+    <string name="convert_header">Μετατροπή Εικόνας</string>
+    <string name="convert_body">Παρακαλώ περιμένετε για να δείτε το αριστούργημα</string>
+    <string name="upload_image_message">Παρακαλώ περιμένετε ενώ ανεβάζουμε την εικόνα σας \n για να εφαρμόσουμε το φίλτρο.</string>
+    <string name="upload_image_header">Ανέβασμα Εικόνας</string>
+    <string name="saving_your_image_lbl">Κρατηθείτε!! \n Η εικόνα σας αποθηκεύεται!</string>
+    <string name="camera_perm_success_msg">Παραχώρηση Δικαιώματος Φωτογραφικής Μηχανής</string>
+    <string name="app_name">Επεξεργαστής Φωτογραφιών</string>
+    <string name="splash_tag_1">Προσαρμόστε τη φωτογραφία σας</string>
+    <string name="splash_tag_2">με την</string>
+    <string name="splash_tag_3">Κάμερα ομορφιάς</string>
+    <string name="splash_tag_4">Εφαρμογή</string>
+    <string name="continue_label">Συνέχεια</string>
+    <string name="loading_ad_label">Φόρτωση Διαφήμισης</string>
+    <string name="agreement_dialog_label">Συμφωνία Χρήστη</string>
+    <string name="agreement_body_1">Σεβόμαστε την ιδιωτικότητά σας και δεσμευόμαστε να προστατεύσουμε τα προσωπικά σας δεδομένα. Για πληροφορίες σχετικά με τα μέτρα που λαμβάνουμε για την προστασία της ιδιωτικότητάς σας και πώς χρησιμοποιούμε τις πληροφορίες σας, παρακαλούμε δείτε την Πολιτική Απορρήτου μας.</string>
+    <string name="terms_of_service_1">Αποδέχομαι τους</string>
+    <string name="terms_of_service_2"><u>Όρους Χρήσης</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Συμφωνώ και Συνέχισε]]></string>
+    <string name="saved_label">Αποθηκεύτηκε</string>
+    <string name="saved_body">Η εικόνα σας αποθηκεύτηκε με επιτυχία</string>
+    <string name="exit_label">Άκυρο</string>
+    <string name="exit_lbl">Έξοδος</string>
+    <string name="confirm_exit_label">Επιβεβαίωση Έξοδου;</string>
+    <string name="confirm_exit_body">Είστε σίγουροι ότι θέλετε να αποχωρήσετε;</string>
+    <string name="confirm_label">Επιβεβαίωση</string>
+    <string name="rate_us_label">Βαθμολογήστε Μας</string>
+    <string name="rate_us_body">Θα ήμασταν πολύ ευγνώμοι αν μας βαθμολογήσετε!</string>
+    <string name="skip_label">Παράλειψη</string>
+    <string name="on_board_title_1">Φανταστικό Φίλτρο!</string>
+    <string name="on_board_description_1">Εφαρμόστε καλλιτεχνικά φίλτρα και εφέ \nγια να δώσετε στις φωτογραφίες σας μια μοναδική πινελιά.</string>
+    <string name="on_board_title_2">Εξερευνήστε Αυτοκόλλητα!</string>
+    <string name="on_board_description_2">Εκφραστείτε χρησιμοποιώντας εκπληκτικά αυτοκόλλητα. \nΠροσθέστε χιούμορ, συναισθήματα ή στυλ στις εικόνες σας.</string>
+    <string name="on_board_title_3">Ακριβής Επεξεργασία!</string>
+    <string name="on_board_description_3">Βελτιώστε τις εικόνες σας με ακρίβεια \nχρησιμοποιώντας επιλογές περικοπής, περιστροφής και αλλαγής μεγέθους.</string>
+    <string name="waring_out_of_memory">Δεν υπάρχει αρκετή μνήμη. Παρακαλούμε αφαιρέστε εικόνες ή αλλιώς η εφαρμογή θα κρασάρει.!!!</string>
+    <string name="txt_share">Αφήστε τα αληθινά σας χρώματα να λάμψουν μέσω της εφαρμογής μας: Επεξεργαστής Φωτογραφιών και κατασκευαστής κολάζ.</string>
+    <string name="monthly_body">Εξοικονομείτε 20%</string>
+    <string name="reset_image_body">Είστε σίγουροι ότι θέλετε να επαναφέρετε την εικόνα;</string>
+
+    <string name="contrast_lbl">Αντίθεση</string>
+    <string name="fade_lbl">Ξεθώριασμα</string>
+    <string name="tone_lbl">Τόνος</string>
+    <string name="grain_lbl">Σίτα</string>
+    <string name="convex_lbl">Έξοχο</string>
+    <string name="exposure_lbl">Έκθεση</string>
+    <string name="ambiance_lbl">Ατμόσφαιρα</string>
+    <string name="vig_lbl">Βινιέτα</string>
+    <string name="sharpen_lbl">Επισήμανση</string>
+    <string name="temp_lbl">Θερμοκρασία</string>
+    <string name="vib_lbl">Ζωντάντη</string>
+    <string name="sat_lbl">Κορεσμός</string>
+    <string name="skintone_lbl">Τόνος δέρματος</string>
+
+    <string name="effect_alpha">Άλφα</string>
+    <string name="effect_normal">Κανονικό</string>
+    <string name="effect_lighten">Διαφάνεια</string>
+    <string name="effect_screen">Οθόνη</string>
+    <string name="effect_colorDodge">Διαφορικός Υπολογισμός Χρώματος</string>
+    <string name="effect_linearBurn">Γραμμική Εξάλειψη</string>
+    <string name="effect_darken">Σκοτείνιασμα</string>
+    <string name="effect_multiply">Πολλαπλασιασμός</string>
+    <string name="effect_overlay">Κάλυψη</string>
+    <string name="effect_hardLight">Σκληρό Φως</string>
+    <string name="effect_exclusion">Εξαίρεση</string>
+    <string name="effect_difference">Διαφορά</string>
+    <string name="effect_divide">Διαίρεση</string>
+
+    <string name="original_lbl">Πρωτότυπο</string>
+    <string name="free_lbl">Δωρεάν</string>
+    <string name="image_size_msg">Το μέγεθος της εικόνας είναι πολύ μεγάλο, προσπαθήστε ξανά με μια μικρότερη εικόνα</string>
+    <string name="privacy_body">Ο κατάστασης πτήσεων στο αεροδρόμιο επικεντρώνεται στη διασφάλιση της ιδιωτικότητάς σας. Δεν απαιτούμε από τον πελάτη να παρέχει προσωπικές ή περιορισμένες πληροφορίες και δεν τις συλλέγουμε κατά τη χρήση της εφαρμογής. Δεσμευόμαστε να προστατεύουμε την ιδιωτικότητά σας. Η βασική αρχή μας για τη συλλογή δεδομένων είναι να συλλέγουμε μόνο τα ελάχιστα δεδομένα που απαιτούνται για τη λειτουργία ενός υπηρεσίας εφαρμογής παγκόσμιας κλάσης σε μεγάλη κλίμακα. Θέλουμε να κατανοήσετε ποιες πληροφορίες συλλέγουμε, ποιες δεν συλλέγουμε και πώς συλλέγουμε, χρησιμοποιούμε και αποθηκεύουμε τις πληροφορίες.</string>
+    <string name="privacy_body_new">Η βασική πεποίθησή μας όσον αφορά τη συλλογή δεδομένων είναι να συλλέγουμε μόνο τα ανεπιθύμητα δεδομένα που απαιτούνται για τη λειτουργία μιας υπηρεσίας εφαρμογής παγκόσμιας κλάσης σε μεγάλη κλίμακα. Θέλουμε να κατανοήσετε ποιες πληροφορίες συλλέγουμε, ποιες δεν συλλέγουμε και πώς συλλέγουμε, χρησιμοποιούμε και αποθηκεύουμε τις πληροφορίες. Δεν συλλέγουμε καταγραφές της δραστηριότητάς σας, συμπεριλαμβανομένης της καταγραφής της ιστορικής περιήγησης, των στόχων κυκλοφορίας ή των αιτημάτων DNS. Επίσης, δεν αποθηκεύουμε ποτέ καταγραφές σύνδεσης, όπως καταγραφές της διεύθυνσης IP σας, της ενεργής διεύθυνσης IP, των σταμπ της σύνδεσης ή της διάρκειας της συνεδρίας. Τα συστήματά μας έχουν σχεδιαστεί έτσι ώστε να μην περιέχουν ευαίσθητα δεδομένα σχετικά μαζί σας. Ωστόσο, όταν περιορίζονται, δεν μπορούμε να παρέχουμε δεδομένα που δεν διαθέτουμε. Αυτή η Πολιτική Απορρήτου περιγράφει πώς ο κατάστασης πτήσεων στο αεροδρόμιο και οι συνεργάτες της ("κατάσταση πτήσεων στο αεροδρόμιο," "εμείς," "μας" ή "μας") συλλέγουν, χρησιμοποιούν και μοιράζονται πληροφορίες σχετικά με τη χρήση των υπηρεσιών μας και των εφαρμογών μας (συνολικά, οι "Υπηρεσίες"). Αυτή η Πολιτική Απορρήτου (η "Πολιτική Απορρήτου") δεν ισχύει για τις πληροφορίες που μπορεί να επεξεργαστείτε κατά τη χρήση των υπηρεσιών μας.</string>
+    <string name="bg_remover_lbl">Αφαίρεση Φόντου</string>
+    <string name="bg_remover_msg">Ζήστε τη μαγεία του Εξαιρετικού μας Αφαιρετή Φόντου</string>
+    <string name="bg_remover_ai">Εξαιρετικός Αφαιρετής Φόντου με Τεχνητή Νοημοσύνη</string>
+    <string name="all_features_lbl">Όλες οι Λειτουργίες</string>
+    <string name="filters_lbl">Φίλτρα</string>
+    <string name="crop_lbl">Περικοπή</string>
+    <string name="adjust_lbl">Ρύθμιση</string>
+    <string name="blur_lbl">Θόλωση</string>
+    <string name="splash_lbl">Σπλατσ</string>
+    <string name="overlay_lbl">Επικάλυψη</string>
+    <string name="brush_lbl">Πινέλο</string>
+    <string name="stickers_lbl">Αυτοκόλλητα</string>
+    <string name="text_lbl">Κείμενο</string>
+    <string name="pro_lbl">Επαγγελματική</string>
+    <string name="lifetime_lbl">Εφ\' όρου Ζωής</string>
+    <string name="yearly_lbl">Ετησίως</string>
+    <string name="lifetime_payment_body">Εφ\' όρου Ζωής Πληρωμή 500 δολάρια</string>
+    <string name="monthly_payment_body">Μηνιαία Πληρωμή 15 δολάρια</string>
+    <string name="yearly_payment_body">Ετήσια Πληρωμή 50 δολάρια</string>
+    <string name="coming_soon_msg">Σύντομα κοντά μας!!</string>
+
+
+</resources>

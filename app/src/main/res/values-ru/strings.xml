@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="text_options">
+        <item>Обрезать</item>
+        <item>Фильтр</item>
+        <item>Эффект</item>
+        <item>Настроить</item>
+        <item>HSL</item>
+        <item>Слой</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>Цвет1</item>
+        <item>Цвет2</item>
+        <item>Дуо</item>
+        <item>Розовый</item>
+        <item>Свежий</item>
+        <item>Евро</item>
+        <item>Темный</item>
+        <item>Инс</item>
+        <item>Элегантный</item>
+        <item>Золотой</item>
+        <item>Оттенок</item>
+        <item>Пленка</item>
+        <item>Ломо</item>
+        <item>Кино</item>
+        <item>Ретро</item>
+        <item>ЧБ</item>
+    </string-array>
+
+    <string-array name="effect_light">
+        <item>Свет1</item>
+        <item>Свет2</item>
+        <item>Фестиваль</item>
+        <item>Любовь</item>
+        <item>Призма</item>
+        <item>Неон</item>
+    </string-array>
+
+    <string-array name="effect_texture">
+        <item>Пыль</item>
+        <item>Пятна</item>
+        <item>Винтаж</item>
+        <item>Царапины</item>
+    </string-array>
+
+    <string-array name="effect_weather">
+        <item>Снег</item>
+        <item>Облако</item>
+        <item>Туман</item>
+        <item>Солнечный свет</item>
+    </string-array>
+
+    <string name="background_image">Фоновое изображение</string>
+    <string name="light_effect">Световой эффект</string>
+    <string name="resize">Изменить размер</string>
+    <string name="rotate">Повернуть</string>
+    <string name="_90">- 90°</string>
+    <string name="crop">Обрезать</string>
+    <string name="vertical">Вертикально</string>
+    <string name="horizontal">Горизонтально</string>
+    <string name="plus_90">+ 90°</string>
+    <string name="close">Закрыть</string>
+    <string name="done">Готово</string>
+    <string name="blend">Смешать</string>
+    <string name="effect">Эффект</string>
+    <string name="light">Свет</string>
+    <string name="texture">Текстура</string>
+    <string name="weather">Погода</string>
+    <string name="gallery">Галерея</string>
+    <string name="hue">Оттенок</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="brightness">Яркость</string>
+    <string name="icon">Иконка</string>
+    <string name="text">Текст</string>
+    <string name="sticker">Стикер</string>
+    <string name="border">Граница</string>
+    <string name="black_icon">Черная иконка</string>
+    <string name="border_blur">Размытие границы</string>
+    <string name="done_save">Готово|Сохранить</string>
+    <string name="reset">Сбросить</string>
+    <string name="welcome">Создано с 💕💕💕</string>
+    <string name="login_email_hint">Электронная почта</string>
+    <string name="login_password_hint">Пароль</string>
+
+    <string name="signup_login_hint">Уже есть аккаунт? Войти</string>
+    <string name="login_signup_hint">Нет аккаунта? Зарегистрироваться</string>
+    <string name="login_name_hint">Имя</string>
+    <string name="login_mobile_number_hint">Мобильный номер</string>
+    <string name="password">Пароль</string>
+    <string name="email_address">Адрес электронной почты</string>
+    <string name="register1">Зарегистрироваться</string>
+    <string name="login">Войти</string>
+    <string name="don_t_have_an_account_sign_up">Нет аккаунта? Зарегистрироваться</string>
+    <string name="email">Электронная почта</string>
+    <string name="login2">Войти</string>
+    <string name="have_an_account_login">Есть аккаунт? Войти</string>
+    <string name="logout">Выйти</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="beauty_title">Красота</string>
+    <string name="remover_title">Удаление</string>
+    <string name="collage_title">Коллаж</string>
+    <string name="mosaic_title">Мозаика</string>
+    <string name="capture_title">Создание качественных снимков</string>
+    <string name="iphone_title">Iphone 14 Pro</string>
+    <string name="samsung_title">Samsung S23</string>
+    <string name="nikon_title">Nikon D850</string>
+    <string name="sony_title">Sony \nA7IV</string>
+    <string name="storage_perm_header">Доступ к фотографиям</string>
+    <string name="storage_perm_body">Разрешите доступ к фотографиям из галереи здесь!</string>
+    <string name="storage_perm_txt">Разрешить доступ</string>
+    <string name="open_settings">Разрешить в настройках</string>
+    <string name="cam_denied">Доступ к камере запрещен</string>
+    <string name="noti_msg_body">Отказано в разрешении на уведомления. Разрешите в настройках</string>
+    <string name="top_features_title">Наши основные функции</string>
+
+    <string name="select_photos_label">Выберите до 10 фотографий</string>
+    <string name="albums_lbl">Выбрать альбом</string>
+    <string name="collage_error_msg">Пожалуйста, выберите фотографии для создания коллажа</string>
+    <string name="photos_lbl">Выбрать фотографии</string>
+    <string name="flip_label">Отразить</string>
+    <string name="rotate_label">Повернуть</string>
+    <string name="crop_label">Обрезать</string>
+    <string name="replace_label">Заменить</string>
+    <string name="layout_label">Макет</string>
+    <string name="border_label">Граница</string>
+    <string name="background_label">Фон</string>
+    <string name="save_label">Сохранить</string>
+    <string name="crop_image_lbl">Обрезать изображение</string>
+    <string name="collage_label">Создать коллаж</string>
+    <string name="photos_warning_lbl">Вам нужно всего %d фото(графии)</string>
+    <string name="next_lbl">Далее</string>
+    <string name="share_header">Поделиться через</string>
+    <string name="save_picture_lbl">Сохранить изображение</string>
+    <string name="insta_msg">Instagram не установлено на этом устройстве</string>
+    <string name="whatsapp_msg">WhatsApp не установлено на этом устройстве</string>
+    <string name="facebook_msg">Facebook не установлено на этом устройстве</string>
+    <string name="share_lbl">Поделиться</string>
+    <string name="cancel_label">Отмена</string>
+    <string name="share_picture_lbl">Поделиться изображением</string>
+    <string name="share_whatsapp">Хотите поделиться этим изображением в WhatsApp?</string>
+    <string name="share_facebook">Хотите поделиться этим изображением в Facebook?</string>
+    <string name="share_instagram">Хотите поделиться этим изображением в Instagram?</string>
+    <string name="edit_photo_lbl">Редактировать фото</string>
+    <string name="apply_lbl">Применить</string>
+    <string name="revert_changes_lbl">Отменить изменения</string>
+    <string name="enter_here_hint">Введите здесь</string>
+
+    <string name="done_lbl">Добавить</string>
+    <string name="changes_appl_lbl">Изменения применены</string>
+    <string name="select_language_lbl">Выберите язык</string>
+    <string name="select_lbl">Выбрать</string>
+    <string name="remove_ads_label">Убрать рекламу</string>
+    <string name="get_features_label">Получить все премиум-функции</string>
+    <string name="get_filters_label">Получить неограниченное количество фильтров</string>
+    <string name="vip_channel_label">VIP-эксклюзивный канал</string>
+    <string name="premium_plan_lbl">Премиум-план</string>
+    <string name="weekly_lbl">Еженедельно</string>
+    <string name="weekly_body">Вы экономите 10%</string>
+    <string name="monthly_lbl">Ежемесячно</string>
+    <string name="weekly_rate">$5.00</string>
+    <string name="monthly_rate">$15.00</string>
+    <string name="manage_sub"><u>Управление подпиской</u></string>
+    <string name="terms_of_use_lbl">Условия исполь</string>
+    <string name="privacy_policy_lbl">Политика конфиде</string>
+    <string name="restore_lbl">Восстановить</string>
+    <string name="filter_to_try_lbl">Фильтры для опробования</string>
+    <string name="before_lbl">До</string>
+    <string name="after_lbl">После</string>
+    <string name="try_now_lbl">Попробовать сейчас</string>
+    <string name="home_lbl">Главная</string>
+    <string name="mine_lbl">Мои</string>
+    <string name="camera_lbl">Камера</string>
+    <string name="gallery_lbl">Галерея</string>
+    <string name="collage_lbl">Коллаж</string>
+    <string name="no_converted_msg">Упс! Похоже, вы еще не редактировали и не сохранили ни одного изображения.</string>
+    <string name="saved_lbl">Сохранено</string>
+    <string name="delete_label">Удалить</string>
+    <string name="rename_label">Переименовать</string>
+
+    <string name="rename_file_label">Переименовать файл</string>
+    <string name="con_error_msg">Произошла ошибка! Пожалуйста, повторите попытку через несколько моментов</string>
+    <string name="ok_label">OK</string>
+    <string name="enter_name_label">Введите имя</string>
+    <string name="duplicate_name">Имя изображения уже существует. Пожалуйста, выберите другое имя</string>
+    <string name="retry_label">Повторить</string>
+    <string name="overwrite_label">Перезаписать</string>
+    <string name="overwrite_body1">Изображение с этим уже существует</string>
+    <string name="overwrite_body2">имя, перезаписав его, существующее изображение будет удалено. Вы хотите перезаписать его?</string>
+    <string name="rename_err_msg">Имя не может быть пустым!</string>
+    <string name="name_update">Имя обновлено</string>
+    <string name="ad_label">Реклама</string>
+    <string name="del_img_header">Удалить изображение</string>
+    <string name="del_img_msg">Вы уверены, что хотите удалить это обработанное изображение?</string>
+    <string name="del_img_success_msg">Изображение успешно удалено</string>
+    <string name="image_deleted_label">Изображение удалено</string>
+    <string name="image_deleted_msg">Изображение успешно удалено</string>
+    <string name="general_label">Общее</string>
+    <string name="rate_us_msg">Рекомендуйте нас другим, оценив нас в Google Play</string>
+    <string name="app_ver_label">Версия приложения: </string>
+    <string name="device_info_label">Информация об устройстве:</string>
+    <string name="os_ver_label">Версия ОС: </string>
+    <string name="api_level_label">Уровень API ОС: </string>
+    <string name="dev_label">Устройство: </string>
+    <string name="model_label">Модель (и продукт): </string>
+    <string name="feedback_msg">Пожалуйста, напишите ваш отзыв ниже</string>
+    <string name="share_title">Редактор фотографий</string>
+    <string name="share_body">Позвольте мне порекомендовать вам лучшее приложение для редактирования фотографий. Попробуйте его сейчас!</string>
+    <string name="no_email_txt">Не найдено приложение для отправки электронной почты</string>
+    <string name="user_agreement_para1">Мы не собираем журналов ваших действий, включая журналы истории просмотра, назначения трафика или DNS-запросов. Мы также никогда не храним журналы подключений, то есть журналы вашего IP-адреса, исходящего IP-адреса, метки времени подключения или длительности сеанса. Мы разработали наши системы так, чтобы у нас не было чувствительных данных о вас; даже при наличии соответствующих обязательств, мы не можем предоставить данные, которыми не владеем.</string>
+
+    <string name="details_label">Для получения дополнительной информации, посетите наш</string>
+    <string name="privacy_underlined_label"><u>Политика конфиденциальности</u></string>
+    <string name="feedback_label">Обратная связь</string>
+    <string name="gallery_label">Галерея</string>
+    <string name="saved_files_label">Мои изменения</string>
+    <string name="communicate_label">Связаться</string>
+    <string name="language_label">Язык</string>
+    <string name="privacy_policy_label">Политика конфиденциальности</string>
+    <string name="more_apps_label">Другие приложения</string>
+    <string name="collage_header">Коллаж</string>
+    <string name="cartoon_filters_header">Картонные фильтры</string>
+    <string name="choose_picture_lbl">Выберите изображение</string>
+    <string name="cropper_lbl">Обрезать изображение</string>
+    <string name="apply_filter">Применить фильтр</string>
+    <string name="internet_con_msg">Пожалуйста, проверьте ваше интернет-соединение и попробуйте снова</string>
+    <string name="convert_header">Преобразование изображения</string>
+    <string name="convert_body">Пожалуйста, подождите, чтобы увидеть шедевр</string>
+    <string name="upload_image_message">Пожалуйста, подождите, пока мы загрузим ваше изображение \n для применения фильтра.</string>
+    <string name="upload_image_header">Загрузка изображения</string>
+    <string name="saving_your_image_lbl">Подождите!! \nВаше изображение сохраняется!</string>
+    <string name="camera_perm_success_msg">Разрешение на камеру предоставлено</string>
+    <string name="app_name">Редактор фотографий</string>
+    <string name="splash_tag_1">Настройте ваше изображение</string>
+    <string name="splash_tag_2">с </string>
+    <string name="splash_tag_3">Камера красоты</string>
+    <string name="splash_tag_4">Приложение</string>
+    <string name="continue_label">Продолжить</string>
+    <string name="loading_ad_label">Загрузка рекламы</string>
+    <string name="agreement_dialog_label">Соглашение пользователя</string>
+    <string name="agreement_body_1">Мы уважаем вашу конфиденциальность и обязуемся защищать ваши личные данные. Для получения информации о мерах, которые мы принимаем для защиты вашей конфиденциальности и о том, как мы используем ваши данные, ознакомьтесь с нашим Уведомлением о конфиденциальности.</string>
+    <string name="terms_of_service_1">Я принимаю</string>
+    <string name="terms_of_service_2"><u>Условия обслуживания</u></string>
+
+    <string name="agreement_btn_label"><![CDATA[Согласиться и Продолжить]]></string>
+    <string name="saved_label">Сохранено</string>
+    <string name="saved_body">Ваше изображение успешно сохранено</string>
+    <string name="exit_label">Отмена</string>
+    <string name="exit_lbl">Выход</string>
+    <string name="confirm_exit_label">Подтвердить выход?</string>
+    <string name="confirm_exit_body">Вы уверены, что хотите выйти?</string>
+    <string name="confirm_label">Подтвердить</string>
+    <string name="rate_us_label">Оцените нас</string>
+    <string name="rate_us_body">Мы были бы очень благодарны, если бы вы могли оценить нас!</string>
+    <string name="skip_label">Пропустить</string>
+    <string name="on_board_title_1">Замечательные фильтры!</string>
+    <string name="on_board_description_1">Примените художественные фильтры и эффекты, чтобы придать вашим фотографиям уникальный стиль.</string>
+    <string name="on_board_title_2">Исследуйте наклейки!</string>
+    <string name="on_board_description_2">Выразите себя, используя удивительные наклейки. Добавьте юмор, чувства или стиль к вашим изображениям.</string>
+    <string name="on_board_title_3">Точное редактирование!</string>
+    <string name="on_board_description_3">Настройте свои изображения с высокой точностью с помощью функций обрезки, вращения и изменения размера.</string>
+    <string name="waring_out_of_memory">Недостаточно памяти. Пожалуйста, удалите изображения, иначе ваше приложение может завершиться аварийно.!!!</string>
+    <string name="txt_share">Позвольте своим истинным краскам сиять благодаря нашему редактору фотографий и приложению для создания коллажей.</string>
+    <string name="monthly_body">Вы экономите 20%</string>
+    <string name="reset_image_body">Вы уверены, что хотите сбросить изображение?</string>
+
+    <string name="contrast_lbl">Контраст</string>
+    <string name="fade_lbl">Затухание</string>
+    <string name="tone_lbl">Тон</string>
+    <string name="grain_lbl">Зернистость</string>
+    <string name="convex_lbl">Выпуклость</string>
+    <string name="exposure_lbl">Экспозиция</string>
+    <string name="ambiance_lbl">Обстановка</string>
+    <string name="vig_lbl">Виньетка</string>
+    <string name="sharpen_lbl">Резкость</string>
+    <string name="temp_lbl">Температура</string>
+    <string name="vib_lbl">Живость</string>
+    <string name="sat_lbl">Насыщенность</string>
+    <string name="skintone_lbl">Цвет кожи</string>
+
+    <string name="effect_alpha">Альфа</string>
+    <string name="effect_normal">Нормаль</string>
+    <string name="effect_lighten">Светлее</string>
+    <string name="effect_screen">Экран</string>
+    <string name="effect_colorDodge">Увеличение яркости</string>
+    <string name="effect_linearBurn">Линейное уменьшение</string>
+    <string name="effect_darken">Затемнение</string>
+    <string name="effect_multiply">Умножение</string>
+    <string name="effect_overlay">Наложение</string>
+    <string name="effect_hardLight">Твердый свет</string>
+    <string name="effect_exclusion">Исключение</string>
+    <string name="effect_difference">Разница</string>
+    <string name="effect_divide">Деление</string>
+
+    <string name="original_lbl">Оригинальный</string>
+    <string name="free_lbl">Бесплатно</string>
+    <string name="image_size_msg">Размер изображения слишком большой, попробуйте снова с изображением меньшего размера</string>
+    <string name="privacy_body">Статус рейсов в аэропорту нацелен на обеспечение вашей конфиденциальности. Мы не просим клиента предоставлять какую-либо личную или ограниченную информацию и не собираем ее в процессе использования приложения. Мы обязуемся защищать вашу конфиденциальность. Нашим основным принципом при сборе данных является сбор только минимальных данных, необходимых для обеспечения работы мирового класса приложения в масштабе. Мы хотим, чтобы вы понимали, какую информацию мы собираем, какую не собираем и как мы собираем, используем и храним информацию.</string>
+    <string name="privacy_body_new">Нашей основной убежденностью относительно сбора данных является сбор только несущественных данных, необходимых для работы мирового класса приложения в масштабе. Мы хотим, чтобы вы понимали, какую информацию мы собираем, какую не собираем и как мы собираем, используем и храним информацию. Мы не собираем логи ваших действий, включая логи истории просмотра, целей трафика или запросов DNS. Мы также никогда не храним журналы соединения, то есть журналы вашего IP-адреса, активного IP-адреса, временных меток соединения или длительности сессии. Мы разработали наши системы так, чтобы в них не содержалась конфиденциальная информация о вас; однако, когда есть необходимость, мы не можем предоставить информацию, которой у нас нет. Настоящая Политика конфиденциальности описывает, как статус рейсов в аэропорту и его партнеры ("статус рейсов в аэропорту", "мы", "наш" или "нас") собирают, используют и делятся информацией, касающейся вашего использования наших услуг и приложений (в целом - "Услуги"). Настоящая Политика конфиденциальности (далее - "Политика конфиденциальности") не распространяется на информацию, которую вы можете обрабатывать при использовании наших Услуг.</string>
+    <string name="bg_remover_lbl">Удаление фона</string>
+    <string name="bg_remover_msg">Почувствуйте магию нашего инструмента по удалению фона с искусственным интеллектом</string>
+    <string name="bg_remover_ai">Инструмент удаления фона с искусственным интеллектом</string>
+    <string name="all_features_lbl">Все функции</string>
+    <string name="filters_lbl">Фильтры</string>
+    <string name="crop_lbl">Обрезка</string>
+    <string name="adjust_lbl">Настройка</string>
+    <string name="blur_lbl">Размытие</string>
+    <string name="splash_lbl">Сплэш</string>
+    <string name="overlay_lbl">Наложение</string>
+    <string name="brush_lbl">Кисть</string>
+    <string name="stickers_lbl">Стикеры</string>
+    <string name="text_lbl">Текст</string>
+    <string name="pro_lbl">Про</string>
+    <string name="lifetime_lbl">Пожизненно</string>
+    <string name="yearly_lbl">Ежегодно</string>
+    <string name="lifetime_payment_body">Пожизненная оплата в размере $500</string>
+    <string name="monthly_payment_body">Ежемесячная оплата в размере $15</string>
+    <string name="yearly_payment_body">Ежегодная оплата в размере $50</string>
+    <string name="coming_soon_msg">Скоро!!</string>
+
+</resources>
